@@ -1,6 +1,6 @@
-# Human-AI Interaction: Fall 2021
+# Antisocial Computing: Winter 2022
 
-This course provides an introduction to harnessing the power of AI so that it benefits people and communities. Topics will include: agency and initiative, fairness and bias, transparency and explainability, confidence and errors, and privacy, ethics, and trust. Students will build a number of interactive technologies powered by AI, gain practical experience with what makes them more or less usable, and learn to evaluate their impact on individuals and communities. Students will learn to think critically (but also optimistically) about what AI systems can do and how they should be integrated into society.
+'The internet is a trash fire,' according to some experts. What has gone wrong? And how can we fix it? This course will explore many of the problems of social media: disinformation, bias, extremism, surveillance, among others. Students will learn 1) how design choices (in interfaces and algorithms) can impact the function and style of online communities, 2) how aspects of human psychology drive the problems that arise, and 3) understand how these same topics have been explored in art, fiction, and film. Using these theoretical understandings, students will explore how to design better social computing systems. 
 
 For an overview of basic concepts related to AI and interaction design, review the following documents:  
 [Machine Learning Review](https://kristenvaccaro.github.io/human-ai/review/ML_Review.pdf)  

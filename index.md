@@ -1,5 +1,7 @@
 # Antisocial Computing: Winter 2022
 
+[this is fine](https://github.com/kristenvaccaro/antisocial-computing/blob/gh-pages/img/05onfire1_xp-superJumbo-v2.jpeg)
+
 'The internet is a trash fire,' according to some experts. What has gone wrong? And how can we fix it? This course will explore many of the problems of social media: disinformation, bias, extremism, surveillance, among others. Students will learn 1) how design choices (in interfaces and algorithms) can impact the function and style of online communities, 2) how aspects of human psychology drive the problems that arise, and 3) understand how these same topics have been explored in art, fiction, and film. Using these theoretical understandings, students will explore how to design better social computing systems. 
 
 For an overview of basic concepts related to AI and interaction design, review the following documents:  

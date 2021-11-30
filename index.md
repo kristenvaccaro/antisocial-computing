@@ -4,15 +4,11 @@
 
 'The internet is a trash fire,' according to some experts. What has gone wrong? And how can we fix it? This course will explore many of the problems of social media: disinformation, bias, extremism, surveillance, among others. Students will learn 1) how design choices (in interfaces and algorithms) can impact the function and style of online communities, 2) how aspects of human psychology drive the problems that arise, and 3) understand how these same topics have been explored in art, fiction, and film. Using these theoretical understandings, students will explore how to design better social computing systems. 
 
-For an overview of basic concepts related to AI and interaction design, review the following documents:  
-[Machine Learning Review](https://kristenvaccaro.github.io/human-ai/review/ML_Review.pdf)  
-[Interaction Design Review](https://kristenvaccaro.github.io/human-ai/review/Interaction_Design_Review.pdf)  
-
 ## Logistics
 
-Course materials/website: [Course Website](https://kristenvaccaro.github.io/human-ai) and [Canvas](https://canvas.ucsd.edu/courses/30741)   
+Course materials/website: [Course Website](https://kristenvaccaro.github.io/antisocial-computing) and [Canvas](https://canvas.ucsd.edu/)   
 
-Classroom: RWAC 0121   
+Classroom: Pepper Canyon Hall (PCYNH) 120  
 Class Days and Times: Monday and Wednesday 1PM PT  
 Design Studio: Friday 1PM PT  
 
@@ -28,9 +24,6 @@ TAs
 msmart@ucsd.edu  
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
 
-Jack Hale  
-jhale@ucsd.edu  
-Office Hours: Thursday 5-6 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
 
 ## Communication
 
@@ -61,14 +54,15 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity
 --- | ---
-20% | Online Discussion
-20% | Active Class Participation
-20% | Programming & Design Assignments
+10% | Online Discussion
+10% | Active Class Participation
+25% | Written Homework (Critiques, etc.)
+20% | Lead Discussion
 20% | Final Project
-20% | Final Exam
+15% | Final Exam
 
 Online discussion responses are due 1 PM Monday and Wednesday (before the start of class)
-Programming and design assignments are due Friday 5 PM
+Written homeworks are due Friday 5 PM
 
 Late Policy: You will receive *5 free late days* that can be used for programming and design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 

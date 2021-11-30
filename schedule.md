@@ -26,7 +26,7 @@ D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit
 Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015   
 Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)  
 
-## Week 2: Transparency and Explainability
+## Week 2: Identity and Authenticity
 
 #### Monday: Identity & Self-Presentation  
 

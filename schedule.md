@@ -18,13 +18,13 @@ _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-intera
 
 ## Week 1: Foundations
 Monday "Metrics & Measures":  
-D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020  
-Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015  
-Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)
+D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
+Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015   
+Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)  
 
-Wednesday "Attention":
-boyd ["Streams of Content, Limited Attention"](https://www.danah.org/papers/talks/Web2Expo.html) Web2.0 2009
-Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/papers/cscw13.reddit.gilbert.pdf) CSCW 2013
+Wednesday "Attention":  
+boyd ["Streams of Content, Limited Attention"](https://www.danah.org/papers/talks/Web2Expo.html) Web2.0 2009  
+Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/papers/cscw13.reddit.gilbert.pdf) CSCW 2013   
 
 
 ## Week 2: Transparency and Explainability

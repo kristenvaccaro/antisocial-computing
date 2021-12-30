@@ -58,12 +58,12 @@ Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Fac
 #### Monday: Sexism  
 Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
 Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
-MIT Press 2015 **Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)**   
+MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
 Cleo Abram “The most urgent threat of deepfakes isn’t politics. It’s porn.” Vox Video Explainer Video
 
 #### Wednesday: Racism  
 
-Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) **Note: only read Introduction and Chapter 2 (Visions of Black Feminism)**   
+Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) _Note: only read Introduction and Chapter 2 (Visions of Black Feminism)_   
 <!-- Hutson et al. ["Debiasing Desire: Addressing Bias & Discrimination on Intimate Platforms"](https://arxiv.org/pdf/1809.01563.pdf) CSCW 2018 -->
 Phadke et al. ["Many Faced Hate: A Cross Platform Study of Content Framing and Information Sharing by Online Hate Groups"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376456) CHI 2020  
 

@@ -28,8 +28,7 @@ Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/pa
 
 ## Week 2: Identity and Authenticity
 
-#### Art:  
-Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
+_Art:_ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
 
 #### Monday: Identity & Self-Presentation  
 
@@ -45,8 +44,7 @@ Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Soci
 
 ## Week 3: Metrics & Optimization
 
-#### Art:  
-Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
+_Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
 
 #### Monday: Holiday (Martin Luther King Jr. Day)
 
@@ -115,9 +113,7 @@ Manoel Horta Ribeiro et al. [“Auditing radicalization pathways on YouTube”] 
 
 ## Week 9: Surveillance & Privacy
 
-#### Art
-Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)  
-
+_Art:_ Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)  
 
 #### Monday: Surveillance   
 <!-- Miranda Wei et al. “What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users’ Own Twitter Data” USENIX 2020 PDF -->   

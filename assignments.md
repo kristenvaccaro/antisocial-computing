@@ -1,22 +1,14 @@
 # Assignments
 
-There will be five forms of assessment over the quarter: online discussion, in-person discussion/participation, programming&design assignments, a group project, and a final exam. All are weighted equally (20% each). All deadlines are given in PT.
-
-## Online Discussion
-
-You will participate in the online discussion before each Monday and Wednesday class. These discussion questions will evaluate your understanding of -- and ability to apply the concepts from -- the reading assigned for that week's class.  
-
-Write your initial response to the questions/prompts by 1PM Monday, before the start of class.   
-Write your response to at least 3 of your peers by 1PM Wednesday, before the start of class.  
-Online discussions will be assigned on Canvas.  
-Your lowest online discussion response score will be dropped automatically.  
+There will be five forms of assessment over the quarter: in-person discussion/participation, writing assignments, presenting & leading a discussion, a group project, and a final exam. All deadlines are given in PT.
 
 ## Writing Assignments
 
-You will complete eight weekly programming and design assignments over the course of the quarter. These programming and design assignments will help you understand and apply the concepts we talk about in class.  
+You will need to submit critiques each week of the quarter, until you receive at least three "A" grades on your critiques. Once you have submitted three "A" quality critiques, you have indicated your mastery and may stop submitting them.   
 
-Programming assignments will be due at 5PM Friday, every week. No programming/design assignments for the last two weeks of the course.  
+Detailed instructions on critiques here.  
 
+Writing assignments will be due at 5PM Friday, every week.  
 
 ## Final Project
 

@@ -5,8 +5,8 @@ title: Schedule
 # Deadlines
 
 Readings: Monday 1PM, Wednesday 1PM  
-<--Discussion Questions: Monday 1PM  
-Peer Discussion Responses: Wednesday 1PM  -->
+<!--Discussion Questions: Monday 1PM  
+Peer Discussion Responses: Wednesday 1PM  -->  
 Writing Assignments: Friday 5PM    
 
 # Topics & Readings

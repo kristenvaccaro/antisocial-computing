@@ -100,8 +100,8 @@ Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit St
 <!-- Yochai Benkler et al. “Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics” 2018 Chapters 1, 7 (Epistemic Crisis & The Propaganda Pipeline: Hacking the Core from the Periphery) Link for full book or PDF of chapters -->
 
 #### Wednesday: Radicalization   
-Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"] CSCW 2021   
-Manoel Horta Ribeiro et al. [“Auditing radicalization pathways on YouTube”] FAccT 2020 ACM DL   
+Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021   
+Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020 ACM DL   
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
 ## Week 8: Student Choice

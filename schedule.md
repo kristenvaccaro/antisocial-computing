@@ -55,12 +55,12 @@ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/634600
 #### Monday: Sexism  
 Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
 Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
-MIT Press 2015 **Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)** 
+MIT Press 2015 **Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)**   
 Cleo Abram “The most urgent threat of deepfakes isn’t politics. It’s porn.” Vox Video Explainer Video
 
 #### Wednesday: Racism  
 
-Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) **Note: only read Introduction and Chapter 2 (Visions of Black Feminism)**
+Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) **Note: only read Introduction and Chapter 2 (Visions of Black Feminism)**   
 Hutson et al. ["Debiasing Desire: Addressing Bias & Discrimination on Intimate Platforms"](https://arxiv.org/pdf/1809.01563.pdf) CSCW 2018
 
 ## Week 5: Content Moderation

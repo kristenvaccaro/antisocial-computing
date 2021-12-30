@@ -59,7 +59,7 @@ Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Fac
 Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
 Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
 MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
-Cleo Abram “The most urgent threat of deepfakes isn’t politics. It’s porn.” Vox Video Explainer Video
+Cleo Abram [“The most urgent threat of deepfakes isn’t politics. It’s porn.”](https://www.youtube.com/watch?v=hHHCrf2-x6w) Vox Video Explainer
 
 #### Wednesday: Racism  
 

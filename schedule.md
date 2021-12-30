@@ -28,11 +28,13 @@ Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/pa
 
 ## Week 2: Identity and Authenticity
 
+#### Art:  
+Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
+
 #### Monday: Identity & Self-Presentation  
 
 Devito ["Too Gay for Facebook"](https://dl.acm.org/doi/10.1145/3274313) 2018   
 Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019  
-Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
 
 #### Wednesday: Authenticity & Deception  
 
@@ -43,12 +45,14 @@ Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Soci
 
 ## Week 3: Metrics & Optimization
 
+#### Art:  
+Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
+
 #### Monday: Holiday (Martin Luther King Jr. Day)
 
 #### Wednesday: Metrics & Measures  
 D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
 Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015   
-Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/) 
 
 
 ## Week 4: Racism & Sexism Online
@@ -111,16 +115,22 @@ Manoel Horta Ribeiro et al. [“Auditing radicalization pathways on YouTube”] 
 
 ## Week 9: Surveillance & Privacy
 
+#### Art
+Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)  
+
+
 #### Monday: Surveillance   
 <!-- Miranda Wei et al. “What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users’ Own Twitter Data” USENIX 2020 PDF -->   
 Brooke Erin Duffy et al. “‘You never really know who’s looking’: Imagined surveillance across social media platforms” New Media & Society 2018 Link    
 Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021
-Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)
+
 
 #### Wednesday:   
-Priya Kumar et al. “The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook” CSCW 2015 ACM DL  
+Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](The Modern Day Baby Book: Enacting Good Mothering
+and Stewarding Privacy on Facebook) CSCW 2015
+Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects of Privacy"] CSCW 2020
+<!-- Suh et al. ["Distinguishing Group Privacy From Personal Privacy: The Effect of Group Inference Technologies on Privacy Perceptions and Behaviors"](https://dl.acm.org/doi/pdf/10.1145/3274437) CSCW 2018 -->
 Alessandro Acquisti et al. “Nudges for Privacy and Security: Understanding and Assisting Users’ Choices Online” ACM Computing Surveys 2017 ACM DL    
-
 
 
 ## Week 10: Project Presentations

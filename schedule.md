@@ -4,10 +4,10 @@ title: Schedule
 
 # Deadlines
 
-Readings: Monday 1PM  
-Discussion Questions: Monday 1PM  
-Peer Discussion Responses: Wednesday 1PM  
-Programming & Design Assignments: Friday 5PM    
+Readings: Monday 1PM, Wednesday 1PM  
+<--Discussion Questions: Monday 1PM  
+Peer Discussion Responses: Wednesday 1PM  -->
+Writing Assignments: Friday 5PM    
 
 # Topics & Readings
 
@@ -36,6 +36,8 @@ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)
 
 #### Wednesday: Authenticity & Deception  
 
+"The Truth about Lying in Online Dating Profiles" Hancock et al. CHI 2007 PDF
+Lee Taber et al. "On Finsta, I can say 'Hail Satan'": Being Authentic but Disagreeable on Instagram” CHI 2020 ACM DL
 
 
 ## Week 3: Recommendations

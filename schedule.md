@@ -64,8 +64,9 @@ Cleo Abram “The most urgent threat of deepfakes isn’t politics. It’s porn.
 #### Wednesday: Racism  
 
 Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) _Note: only read Introduction and Chapter 2 (Visions of Black Feminism)_   
+Stewart et al. ["Drawing the Lines of Contention: Networked Frame Contests Within #BlackLivesMatter Discourse"](https://dl.acm.org/doi/pdf/10.1145/3134920) CSCW 2017       
 <!-- Hutson et al. ["Debiasing Desire: Addressing Bias & Discrimination on Intimate Platforms"](https://arxiv.org/pdf/1809.01563.pdf) CSCW 2018 -->
-Phadke et al. ["Many Faced Hate: A Cross Platform Study of Content Framing and Information Sharing by Online Hate Groups"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376456) CHI 2020  
+<!-- Phadke et al. ["Many Faced Hate: A Cross Platform Study of Content Framing and Information Sharing by Online Hate Groups"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376456) CHI 2020  -->
 
 ## Week 5: Content Moderation
 

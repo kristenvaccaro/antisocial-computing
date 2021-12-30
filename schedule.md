@@ -37,7 +37,7 @@ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)
 #### Wednesday: Authenticity & Deception  
 
 "The Truth about Lying in Online Dating Profiles" Hancock et al. CHI 2007 PDF
-Lee Taber et al. "On Finsta, I can say 'Hail Satan'": Being Authentic but Disagreeable on Instagram” CHI 2020 ACM DL
+Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021
 
 
 ## Week 3: Metrics & Optimization
@@ -53,9 +53,15 @@ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/634600
 ## Week 4: Racism & Sexism Online
 
 #### Monday: Sexism  
+Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
+Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
+MIT Press 2015 **Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)** 
+Cleo Abram “The most urgent threat of deepfakes isn’t politics. It’s porn.” Vox Video Explainer Video
 
 #### Wednesday: Racism  
 
+Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) **Note: only read Introduction and Chapter 2 (Visions of Black Feminism)**
+Hutson et al. ["Debiasing Desire: Addressing Bias & Discrimination on Intimate Platforms"](https://arxiv.org/pdf/1809.01563.pdf) CSCW 2018
 
 ## Week 5: Content Moderation
 

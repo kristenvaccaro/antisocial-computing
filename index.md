@@ -54,10 +54,9 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity
 --- | ---
-10% | Online Discussion
-10% | Active Class Participation
-25% | Written Homework (Critiques, etc.)
-20% | Lead Discussion
+20% | Active Class Participation
+15% | Written Homework (Critiques, etc.)
+30% | Presentation & Lead Discussion
 20% | Final Project
 15% | Final Exam
 

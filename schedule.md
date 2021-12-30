@@ -118,7 +118,7 @@ _Art:_ Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)
 
 #### Monday: Surveillance   
 <!-- Miranda Wei et al. “What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users’ Own Twitter Data” USENIX 2020 PDF -->   
-Duffy et al. “‘You never really know who’s looking’: Imagined surveillance across social media platforms” New Media & Society 2018 Link    
+Duffy et al. [“‘You never really know who’s looking’: Imagined surveillance across social media platforms”](https://journals.sagepub.com/doi/full/10.1177/1461444818791318) New Media & Society 2018 Link    
 Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021
 
 

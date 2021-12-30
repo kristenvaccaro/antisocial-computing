@@ -11,10 +11,10 @@ Writing Assignments: Friday 5PM
 
 # Topics & Readings
 
-## Week 0: Introduction
+<!-- ## Week 0: Introduction
 None  
 
-_Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210924_Introduction+.pdf)_
+_Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210924_Introduction+.pdf)_ -->
 
 ## Week 1: Foundations
 #### Monday: Attention 

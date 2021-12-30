@@ -36,7 +36,8 @@ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)
 
 #### Wednesday: Authenticity & Deception  
 
-"The Truth about Lying in Online Dating Profiles" Hancock et al. CHI 2007 PDF
+<!-- "The Truth about Lying in Online Dating Profiles" Hancock et al. CHI 2007  -->
+Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021  
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021
 
 
@@ -61,39 +62,66 @@ Cleo Abram “The most urgent threat of deepfakes isn’t politics. It’s porn.
 #### Wednesday: Racism  
 
 Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) **Note: only read Introduction and Chapter 2 (Visions of Black Feminism)**   
-Hutson et al. ["Debiasing Desire: Addressing Bias & Discrimination on Intimate Platforms"](https://arxiv.org/pdf/1809.01563.pdf) CSCW 2018
+<!-- Hutson et al. ["Debiasing Desire: Addressing Bias & Discrimination on Intimate Platforms"](https://arxiv.org/pdf/1809.01563.pdf) CSCW 2018 -->
+Phadke et al. ["Many Faced Hate: A Cross Platform Study of Content Framing and Information Sharing by Online Hate Groups"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376456) CHI 2020  
 
 ## Week 5: Content Moderation
 
-#### Monday:   
+#### Monday: Challenges  
+Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018    
+<!-- [“You Know What to Do”: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks -->
+Jiang et al. [“Moderation Challenges in Voice-based Online Communities on Discord”](https://dl.acm.org/doi/10.1145/3359157) CSCW 2019
 
-#### Wednesday:   
+#### Wednesday: Solutions?     
+Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019     
+Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020  
+Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021  
 
 ## Week 6: Algorithmic Nudging (Filter Bubbles & Beyond)
 
 #### Monday:   
+Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”]() CHI 2015  
+Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020
+
 
 #### Wednesday:   
+Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Facebook”](https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf) Science 2015 
+Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020
 
+<!--Jeon et al. ["ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System"](https://dl.acm.org/doi/pdf/10.1145/3479859) CSCW 2021 -->  
 
 ## Week 7: Misinformation & Radicalization
 
 #### Monday:   
+David M. J. Lazer et al. “The science of fake news” Science 2018 PDF 
+Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020  
+<!-- Yochai Benkler et al. “Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics” 2018 Chapters 1, 7 (Epistemic Crisis & The Propaganda Pipeline: Hacking the Core from the Periphery) Link for full book or PDF of chapters -->
 
 #### Wednesday:   
+Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"] CSCW 2021  
+Manoel Horta Ribeiro et al. [“Auditing radicalization pathways on YouTube”] FAccT 2020 ACM DL  
+<!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
-## Week 8: Use/non-use
+## Week 8: Student Choice
 
-#### Monday:   
+#### Monday: Holiday (Presidents' Day)  
 
-#### Wednesday:   
+#### Wednesday: Student Choice (Default: Use/Non-Use)   
 
 
 ## Week 9: Surveillance & Privacy
 
-#### Monday:   
+#### Monday: Surveillance   
+<!-- Miranda Wei et al. “What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users’ Own Twitter Data” USENIX 2020 PDF -->   
+Brooke Erin Duffy et al. “‘You never really know who’s looking’: Imagined surveillance across social media platforms” New Media & Society 2018 Link    
+Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021
+Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)
 
 #### Wednesday:   
+Priya Kumar et al. “The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook” CSCW 2015 ACM DL  
+Alessandro Acquisti et al. “Nudges for Privacy and Security: Understanding and Assisting Users’ Choices Online” ACM Computing Surveys 2017 ACM DL    
+
+
 
 ## Week 10: Project Presentations
 None

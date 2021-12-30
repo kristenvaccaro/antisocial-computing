@@ -71,39 +71,39 @@ Phadke et al. ["Many Faced Hate: A Cross Platform Study of Content Framing and I
 
 ## Week 5: Content Moderation
 
-#### Monday: Challenges  
-Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018    
+#### Monday: Platform Governance  
+Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018     
+Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020  
 <!-- [“You Know What to Do”: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks -->
-Jiang et al. [“Moderation Challenges in Voice-based Online Communities on Discord”](https://dl.acm.org/doi/10.1145/3359157) CSCW 2019
+<!-- Jiang et al. [“Moderation Challenges in Voice-based Online Communities on Discord”](https://dl.acm.org/doi/10.1145/3359157) CSCW 2019.  -->
 
 #### Wednesday: Solutions?     
 Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019     
-Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020  
 Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021  
 
 ## Week 6: Algorithmic Nudging (Filter Bubbles & Beyond)
 
 #### Monday:   
-Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”]() CHI 2015  
-Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020
+Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015   
+Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020  
 
 
 #### Wednesday:   
-Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Facebook”](https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf) Science 2015 
-Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020
+Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Facebook”](https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf) Science 2015   
+Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020   
 
 <!--Jeon et al. ["ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System"](https://dl.acm.org/doi/pdf/10.1145/3479859) CSCW 2021 -->  
 
 ## Week 7: Misinformation & Radicalization
 
 #### Monday:   
-David M. J. Lazer et al. “The science of fake news” Science 2018 PDF 
-Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020  
+David M. J. Lazer et al. “The science of fake news” Science 2018 PDF  
+Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   
 <!-- Yochai Benkler et al. “Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics” 2018 Chapters 1, 7 (Epistemic Crisis & The Propaganda Pipeline: Hacking the Core from the Periphery) Link for full book or PDF of chapters -->
 
 #### Wednesday:   
-Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"] CSCW 2021  
-Manoel Horta Ribeiro et al. [“Auditing radicalization pathways on YouTube”] FAccT 2020 ACM DL  
+Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"] CSCW 2021   
+Manoel Horta Ribeiro et al. [“Auditing radicalization pathways on YouTube”] FAccT 2020 ACM DL   
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
 ## Week 8: Student Choice

@@ -56,11 +56,11 @@ Percentage | Activity
 --- | ---
 20% | Active Class Participation
 15% | Written Homework (Critiques, etc.)
-30% | Presentation & Lead Discussion
-20% | Final Project
+25% | Presentation & Lead Discussion
+25% | Final Project
 15% | Final Exam
 
-Online discussion responses are due 1 PM Monday and Wednesday (before the start of class)
+Readings should be completed before the start of class    
 Written homeworks are due Friday 5 PM
 
 Late Policy: You will receive *5 free late days* that can be used for programming and design assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.

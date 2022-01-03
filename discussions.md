@@ -22,6 +22,8 @@ Presentations might also include:
 
 During the small group session, your group should offer constructive feedback on your presentation.  
 
+The first half of assigned readings will present on Wednesday. The second half of assigned readings will present on Friday. On weeks with an odd number of readings, the larger number will present on Wednesday (e.g., Week 4 has 5 assigned materials, so 1-3 will be presented Wed and 4-5 presented Fri).
+
 Aim for 5 min. Presentations that go over 7 min will be cut off.  
 
 Presentations must be submitted in PDF form on Canvas at least one hour prior to class.  

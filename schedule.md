@@ -27,9 +27,16 @@ Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/pa
  
 
 ## Week 2: Identity and Authenticity
+#### Topics: Identity, Self-Presentation, Authenticity, Deception
 
 _Art:_ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
+Devito ["Too Gay for Facebook"](https://dl.acm.org/doi/10.1145/3274313) 2018   
+Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019  
+Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021  
+Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021
 
+
+<!-- 
 #### Monday: Identity & Self-Presentation  
 
 Devito ["Too Gay for Facebook"](https://dl.acm.org/doi/10.1145/3274313) 2018   
@@ -40,18 +47,20 @@ Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019
 <!-- "The Truth about Lying in Online Dating Profiles" Hancock et al. CHI 2007  -->
 Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021  
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021
-
+-->
 
 ## Week 3: Metrics & Optimization
-
+#### Note: Monday Holiday (Martin Luther King Jr. Day)
 _Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
+D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
+Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015   
 
-#### Monday: Holiday (Martin Luther King Jr. Day)
+<!-- #### Monday: Holiday (Martin Luther King Jr. Day)
 
 #### Wednesday: Metrics & Measures  
 D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
 Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015   
-
+-->
 
 ## Week 4: Racism & Sexism Online
 

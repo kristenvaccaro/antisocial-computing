@@ -22,6 +22,8 @@ Do not transcribe the full text of all comments made. Do not typeset the content
 
 Scribe notes will be due three days after your assigned date (excluding weekends).  
 
+If your scribe notes need improvement, you will be given feedback by the instructors and allowed to resubmit up to two times. 
+
 ## Presenting & Leading Discussion
 
 You will need to present on & lead a discussion about a paper once during the quarter.  

@@ -19,9 +19,9 @@ Detailed [instructions for presentations here](https://kristenvaccaro.github.io/
 
 ## Final Project
 
-The default option for the final project is a group project where you will create something cool! Half of each Friday class session will be a design studio where you work with your group on this project and get feedback from your peers. 
+Final projects can be done as a small group (max size: 4) or individually. You can choose to create a new platform/interaction, design an experience around an existing system, or conduct an analysis. Half of each Monday class session will be a design studio where you work with your group on this project and get feedback from your peers. 
 
-If for logisitical or other reasons you don't wish to participate in a group, you may write a research proposal.  
+A brief proposal will be due at the end of week 5.  
 
 
 ## Final Exam

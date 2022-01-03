@@ -10,6 +10,13 @@ Detailed [instructions for critiques here](https://kristenvaccaro.github.io/anti
 
 Writing assignments will be due at 5PM Friday, every week.  
 
+## Presenting & Leading Discussion
+
+You will need to present on & lead a discussion about a paper once during the quarter.  
+
+Detailed [instructions for presentations here]().  
+
+
 ## Final Project
 
 The default option for the final project is a group project where you will create something cool! Half of each Friday class session will be a design studio where you work with your group on this project and get feedback from your peers. 

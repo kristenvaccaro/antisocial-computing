@@ -2,6 +2,7 @@
 
 There will be five forms of assessment over the quarter: in-person discussion/participation, writing assignments, presenting & leading a discussion, a group project, and a final exam. All deadlines are given in PT.
 
+<!--
 ## Writing Assignments
 
 You will need to submit critiques each week of the quarter, until you receive at least three "A" grades on your critiques. Once you have submitted three "A" quality critiques, you have indicated your mastery and may stop submitting them.   
@@ -9,6 +10,19 @@ You will need to submit critiques each week of the quarter, until you receive at
 Detailed [instructions for critiques here](https://kristenvaccaro.github.io/antisocial-computing/critiques.html).  
 
 Writing assignments will be due at 5PM Friday, every week.  
+-->
+
+## Scribing
+
+You will need to provide scribe notes for one class session (Wednesday or Friday).    
+
+Scribe notes should be well-organized, using logical sectional divisions as appropriate. Write in complete sentences, in clear and precise prose. 
+
+Do not transcribe the full text of all comments made. Do not typeset the contents of the slides and/or blackboard. Do not copy or simply paragraphase material from the readings. Instead, your notes should convey the key points of discussion
+
+The scribe notes should be understandable by students who have been following the course up until the assigned date.
+
+Scribe notes will be due three days after your assigned date (excluding weekends).  
 
 ## Presenting & Leading Discussion
 

@@ -16,11 +16,11 @@ Writing assignments will be due at 5PM Friday, every week.
 
 You will need to provide scribe notes for one class session once during the quarter (either a Wednesday or Friday class).    
 
-Scribe notes should convey the key concepts, definitions, and discussions covered in class. You should highlight the most interesting or compelling content (in your opinion), and should provide detail about relevant arguments, connections, etc. where possible. 
+Scribe notes should convey the key concepts, definitions, and discussions covered in class. You should highlight the most interesting or compelling content (in your opinion), and should provide detail about relevant arguments, connections, etc. where needed. 
 
-Notes should be well-organized, using logical sectional divisions as appropriate. Write in complete sentences, in clear and precise prose. Scribe notes should be understandable by students who have been following the course up until the assigned date.
+Notes should be well-organized, using logical sectional divisions as appropriate. Write in complete sentences. Make sure other students can understand what you've written.
 
-Do not transcribe the full text of all comments made. Do not typeset the contents of the slides and/or blackboard. Do not copy or simply paragraphase material from the readings. 
+Do not transcribe the full text of all comments made. Do not typeset the contents of the slides and/or blackboard. Do not copy or simply paragraphase material from the readings. Instead, you should perform some synthesis and analysis of what is most important and how it is connected.
 
 Scribe notes will be due three days after your assigned date (excluding weekends).  
 

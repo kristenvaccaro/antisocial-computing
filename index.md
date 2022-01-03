@@ -16,14 +16,14 @@ Design Studio: Friday 1PM PT
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
-Office: 3226 CSE  
-Office Hours: Monday 2-3 PM
+Office: 3226 CSE - Zoom Office Hours: https://ucsd.zoom.us/my/kvaccaro
+Office Hours: Tuesday 11-12 AM
 
 TAs  
-[Mary Anne Smart](https://sites.google.com/eng.ucsd.edu/msmart)  
-msmart@ucsd.edu  
+[TBD]()  
+<!--msmart@ucsd.edu  
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
-
+-->
 
 ## Communication
 

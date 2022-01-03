@@ -55,10 +55,11 @@ By default office hours will be group-office hours, as many students will have s
 Percentage | Activity
 --- | ---
 20% | Active Class Participation
-15% | Written Homework (Critiques, etc.)
-25% | Presentation & Lead Discussion
+10% | Scribing
+10% | Presentation
+15% | Lead Discussion
 25% | Final Project
-15% | Final Exam
+20% | Final Exam
 
 Readings should be completed before the start of class    
 Written homeworks are due Friday 5 PM

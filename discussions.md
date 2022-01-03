@@ -41,11 +41,17 @@ Some suggestions:
 - Evaluation (i.e.,  What criteria would you use to assess ...? What is the most important …? What do you think about ...?)
 
 Avoid yes/no questions. What/Why/How are likely to be more engaging.
-Do not answer your own questions. As much as possible, avoid sharing your own opinions before the discussion gets rolling.
+Do not answer your own questions. As much as possible, avoid sharing your own opinions before the discussion gets rolling.  
 
-During the small group session, your group should offer constructive feedback on your questions. 
+During the small group session, your group should offer constructive feedback on your questions.  
+
+After the small group session, converse with the facilitator from any other groups responsible for leading discussion on that day to create a shortlist of questions, 3-5 total across both groups.  
+
+Submit your full list of questions to the Canvas assignment at least one hour prior to class.  
 
 ### Large Group Discussions
 
 Wednesdays and Fridays will be large group discussions. 
+
+We will begin with presentations (10-15 minutes). Then the discussion leaders will introduce their questions and lead the discussion for the remaining time (35-40 min). 
 

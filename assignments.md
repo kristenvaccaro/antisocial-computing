@@ -14,7 +14,7 @@ Writing assignments will be due at 5PM Friday, every week.
 
 You will need to present on & lead a discussion about a paper once during the quarter.  
 
-Detailed [instructions for presentations here]().  
+Detailed [instructions for presentations here](https://kristenvaccaro.github.io/antisocial-computing/discussions.html).  
 
 
 ## Final Project

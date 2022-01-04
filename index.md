@@ -64,6 +64,8 @@ Percentage | Activity
 Readings should be completed before the start of class    
 Written homeworks are due Friday 5 PM
 
+Absence Policy: You will receive *3 free missing days* that can used to miss class (due to conference travel/attendance, illness, or any other committments). You do not need to contact us in advance to use those days, we will drop your lowest attendance scores. If you will miss more than 3 days of class (e.g., you contract COVID and need to quarantine), please contact us ASAP. 
+
 Late Policy: You will receive *5 free late days* that can be used for writing assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
 
 ## Inclusion Statement

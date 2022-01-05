@@ -7,7 +7,7 @@
 ## Logistics
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/antisocial-computing) and [Canvas](https://canvas.ucsd.edu/)   
-
+Zoom Class Link: https://ucsd.zoom.us/j/99410861291    
 Classroom: Pepper Canyon Hall (PCYNH) 120  
 Class Days and Times: Monday and Wednesday 1PM PT  
 Design Studio: Friday 1PM PT  
@@ -16,8 +16,9 @@ Design Studio: Friday 1PM PT
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
-Office: 3226 CSE - Zoom Office Hours: https://ucsd.zoom.us/my/kvaccaro
-Office Hours: Tuesday 11-12 AM
+Zoom Office Hours: https://ucsd.zoom.us/my/kvaccaro   
+Office: 3226 CSE  
+Office Hours: Tuesday 11-12 AM   
 
 TAs  
 [TBD]()  

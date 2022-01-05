@@ -65,7 +65,7 @@ Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Fac
 Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
 Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
 MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
-Cleo Abram [“The most urgent threat of deepfakes isn’t politics. It’s porn.”](https://www.youtube.com/watch?v=hHHCrf2-x6w) Vox Video Explainer
+Cleo Abram [“The most urgent threat of deepfakes isn’t politics. It’s porn.”](https://www.youtube.com/watch?v=hHHCrf2-x6w) Vox Video Explainer   
 Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) _Note: only read Introduction and Chapter 2 (Visions of Black Feminism)_   
 Stewart et al. ["Drawing the Lines of Contention: Networked Frame Contests Within #BlackLivesMatter Discourse"](https://dl.acm.org/doi/pdf/10.1145/3134920) CSCW 2017 
 

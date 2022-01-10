@@ -7,7 +7,7 @@
 ## Logistics
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/antisocial-computing) and [Canvas](https://canvas.ucsd.edu/)   
-Zoom Class Link: https://ucsd.zoom.us/j/99410861291    
+Zoom Class Link: https://ucsd.zoom.us/j/99260703072 <!-- https://ucsd.zoom.us/j/99410861291 -->    
 Classroom: Pepper Canyon Hall (PCYNH) 120  
 Class Days and Times: Monday and Wednesday 1PM PT  
 Design Studio: Friday 1PM PT  

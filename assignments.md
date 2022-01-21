@@ -20,6 +20,8 @@ Scribe notes should convey the key concepts, definitions, and discussions covere
 
 Do not transcribe the full text of all comments made. Do not typeset the contents of the slides and/or blackboard. Do not copy or simply paragraphase material from the readings. Instead, you should perform some synthesis and analysis of what is most important and how it is connected.
 
+[You can find an example here.](https://docs.google.com/document/d/1xnyh6LR37LNxcXigP8CcUX3-HTtBg5OymjAhmnnJtcM/edit?usp=sharing)
+
 Scribe notes will be due three days after your assigned date (excluding weekends).  
 
 If your scribe notes need improvement, you will be given feedback by the instructors and allowed to resubmit up to two times. 

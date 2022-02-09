@@ -148,11 +148,14 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 -->
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
-## Week 8: Student Choice
+## Week 8: Student Choice: Augmented and Virtual Reality
 
-#### Monday: Holiday (Presidents' Day)  
+#### Note: Monday Holiday (Presidents' Day)  
 
-#### Wednesday: Student Choice (Default: Use/Non-Use)   
+Freeman et al. [Body, Avatar, and Me: The Presentation and Perception of Self in Social Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3432938) CSCW 2020   
+Poretski et al. [Normative Tensions in Shared Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3274411) CSCW 2018
+
+
 
 
 ## Week 9: Surveillance & Privacy

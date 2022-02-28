@@ -175,7 +175,7 @@ Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Pre
 <!-- Miranda Wei et al. “What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users’ Own Twitter Data” USENIX 2020 PDF -->  
 
 <!--#### Wednesday:   
-Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/pdf/10.1145/2675133.2675149) CSCW 2015
+Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015
 Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects of Privacy"](https://dl.acm.org/doi/pdf/10.1145/3415172) CSCW 2020
 -->
 <!-- Suh et al. ["Distinguishing Group Privacy From Personal Privacy: The Effect of Group Inference Technologies on Privacy Perceptions and Behaviors"](https://dl.acm.org/doi/pdf/10.1145/3274437) CSCW 2018 -->

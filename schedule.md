@@ -24,12 +24,13 @@ _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-intera
 boyd ["Streams of Content, Limited Attention"](https://www.danah.org/papers/talks/Web2Expo.html) Web2.0 2009  
 Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/papers/cscw13.reddit.gilbert.pdf) CSCW 2013   
 
+#### Friday: Feedback & Design Studio  
  
 
 ## Week 2: Identity and Authenticity
-#### Topics: Identity, Self-Presentation, Authenticity, Deception
-#### Note: Monday Holiday (Martin Luther King Jr. Day)
+### Note: Monday Holiday (Martin Luther King Jr. Day)
 
+#### Topics: Identity, Self-Presentation, Authenticity, Deception
 _Art:_ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
 Devito ["Too Gay for Facebook"](https://dl.acm.org/doi/10.1145/3274313) 2018   
 Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019  
@@ -128,7 +129,14 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 <!--Jeon et al. ["ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System"](https://dl.acm.org/doi/pdf/10.1145/3479859) CSCW 2021 -->  
 
-## Week 7: Misinformation & Radicalization
+## Week 7: Student Choice
+### Note: Monday Holiday (Presidents' Day)
+
+<!-- Freeman et al. [Body, Avatar, and Me: The Presentation and Perception of Self in Social Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3432938) CSCW 2020   
+Poretski et al. [Normative Tensions in Shared Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3274411) CSCW 2018 -->
+
+
+## Week 8: Misinformation & Radicalization
 #### Topics: Misinformation, Disinformation, Radicalization
 David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/classes/ucas/2018-summer/p/science-fake-news-2018.pdf) Science 2018     
 Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   
@@ -148,15 +156,6 @@ Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTub
 Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020     
 -->
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
-
-## Week 8: Student Choice: Augmented and Virtual Reality
-
- 
-
-Freeman et al. [Body, Avatar, and Me: The Presentation and Perception of Self in Social Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3432938) CSCW 2020   
-Poretski et al. [Normative Tensions in Shared Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3274411) CSCW 2018
-
-
 
 
 ## Week 9: Surveillance & Privacy

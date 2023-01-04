@@ -19,7 +19,8 @@ Office: 3226 CSE
 Office Hours: Tuesday 11-12 AM   
 
 TAs  
-[Hayden McTavish]()  
+[Hayden McTavish]()
+hmctavish@ucsd.edu 
 Office Hours: Wednesday 2-3 PM in [CSE ]
 <!--msmart@ucsd.edu  
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  

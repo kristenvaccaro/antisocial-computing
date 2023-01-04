@@ -53,7 +53,7 @@ Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Soci
 
 _Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
 D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
-Smith ["How TikTok Reads Your Mind"](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html) New York Times 2021
+Smith ["How TikTok Reads Your Mind"](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html) New York Times 2021   
 Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019   
 
 <!-- #### Monday: Holiday (Martin Luther King Jr. Day)

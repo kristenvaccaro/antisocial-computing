@@ -1,6 +1,6 @@
 # Assignments
 
-There will be five forms of assessment over the quarter: in-person discussion/participation, writing assignments, presenting & leading a discussion, a group project, and a final exam. All deadlines are given in PT.
+There will be five forms of assessment over the quarter: in-person discussion/participation, writing assignments, presenting & leading a discussion, a group project. All deadlines are given in PT.
 
 <!--
 ## Writing Assignments
@@ -22,7 +22,7 @@ Do not transcribe the full text of all comments made. Do not typeset the content
 
 [You can find an example here.](https://docs.google.com/document/d/1xnyh6LR37LNxcXigP8CcUX3-HTtBg5OymjAhmnnJtcM/edit?usp=sharing)
 
-Scribe notes will be due three days after your assigned date (excluding weekends).  
+Scribe notes will be due one week after your assigned date.  
 
 If your scribe notes need improvement, you will be given feedback by the instructors and allowed to resubmit up to two times. 
 
@@ -40,6 +40,6 @@ Final projects can be done as a small group (max size: 4) or individually. You c
 A brief proposal will be due at the end of week 5.  
 
 
-## Final Exam
+## Final Exam - OPTIONAL
 
-A final exam will evaluate your understanding of the material for the entire quarter. It will consist of open-ended responses, similar to the in-person discussions as well as your writing assignments. The final exam time is set by the university, and can be found on Blink. I am happy to offer a conflict exam. If everyone who is interested can attend the conflict exam time, no reason/excuse is needed. Otherwise, students with more serious conflicts will be prioritized. Look out for a survey near the end of the quarter.   
+An optional final exam will be offered for extra credit. The final exam will evaluate your understanding of the material for the entire quarter. It will consist of open-ended responses, similar to the in-person discussions as well as your writing assignments. The final exam time is set by the university, and can be found on Blink.  

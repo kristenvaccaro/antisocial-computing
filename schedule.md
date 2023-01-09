@@ -7,7 +7,7 @@ title: Schedule
 Readings: Monday 1PM, Wednesday 1PM  
 <!--Discussion Questions: Monday 1PM  
 Peer Discussion Responses: Wednesday 1PM  -->  
-Writing Assignments: Friday 5PM    
+Writing Assignments: 11:59 PM, one week after reading   
 
 # Topics & Readings
 
@@ -33,7 +33,6 @@ Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.
 
 #### Topics: Identity, Self-Presentation, Authenticity, Deception
 _Art:_ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
-Devito ["Too Gay for Facebook"](https://dl.acm.org/doi/10.1145/3274313) 2018   
 Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019  
 Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021  
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021

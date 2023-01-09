@@ -16,7 +16,7 @@ Class Days and Times: Monday Wednesday Friday 1PM PT
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
 Zoom Office Hours: https://ucsd.zoom.us/my/kvaccaro   
 Office: 3226 CSE  
-Office Hours: Tuesday 11-12 AM   
+Office Hours: Tuesday 10-11 AM on Zoom      
 
 TAs  
 [Hayden McTavish]()  

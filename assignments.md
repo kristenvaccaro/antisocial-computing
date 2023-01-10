@@ -48,4 +48,4 @@ A brief proposal will be due at the end of week 5.
 
 ## Final Exam - OPTIONAL
 
-An optional final exam will be offered for extra credit. The final exam will evaluate your understanding of the material for the entire quarter. It will consist of open-ended responses, similar to the in-person discussions as well as your writing assignments. The final exam time is set by the university, and can be found on Blink.  
+An optional final exam will be offered for extra credit. The final exam will evaluate your understanding of the material for the entire quarter. It will consist of open-ended questions, similar to the in-person discussions. The final exam time is set by the university, and can be found on Blink.  

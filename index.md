@@ -28,6 +28,10 @@ Office Hours: Monday 2-3 PM in B215 CSE  (Starting 1/16)
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
 -->
 
+[Sanjana Balamurugan]()  
+sabalamurugan@ucsd.edu  
+Office Hours: TBD
+
 ## Communication
 
 Course related announcements will be shared on Canvas. Please use Canvas for your course-related questions as well!

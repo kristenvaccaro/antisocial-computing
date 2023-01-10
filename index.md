@@ -10,6 +10,8 @@ Course materials/website: [Course Website](https://kristenvaccaro.github.io/anti
 Classroom: CSE Building 2154
 Class Days and Times: Monday Wednesday 12:30PM   
 
+Recording of Course Logistics (Class 1): https://ucsd.zoom.us/rec/share/obI-W9AO7CQjtRLvFeghQxVsQbmGzL328nTt7IgXZqQ6ruR4jcuPuX5k5Vde4ZNj.9sCzX44tgmWYa4QB  
+
 ## Instructors
 
 [Kristen Vaccaro](http://kvaccaro.com)  

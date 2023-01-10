@@ -12,6 +12,12 @@ Detailed [instructions for critiques here](https://kristenvaccaro.github.io/anti
 Writing assignments will be due at 5PM Friday, every week.  
 -->
 
+## Week 1 Assignments (Final Project Teams, Signups for Presenting, Leading Discussion, Scribing)  
+
+Sign up to present, lead discussion and scribe: https://docs.google.com/spreadsheets/d/1qX3V0SEcqJV2yoQ8G3O4tYGovvPN05OsIS2HGnc-KAY/edit?usp=sharing  
+
+Complete the introductions survey (used for final project team formation): https://forms.gle/TJ5qqw7znQrtjepPA  
+
 ## Scribing
 
 You will need to provide scribe notes for one class session once during the quarter (either a Wednesday or Friday class).    

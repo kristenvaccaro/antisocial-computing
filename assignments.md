@@ -18,7 +18,7 @@ Sign up to present, lead discussion and scribe: https://docs.google.com/spreadsh
 
 Complete the introductions survey (used for final project team formation): https://forms.gle/TJ5qqw7znQrtjepPA  
 
-## Scribing
+## Scribing or Critique
 
 You will need to provide scribe notes for one class session once during the quarter (either a Wednesday or Friday class).    
 
@@ -31,6 +31,8 @@ Do not transcribe the full text of all comments made. Do not typeset the content
 Scribe notes will be due one week after your assigned date.  
 
 If your scribe notes need improvement, you will be given feedback by the instructors and allowed to resubmit up to two times. 
+
+An alternative to scribing is to provide a [critique](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on one of the readings for this class. A critique is also due one week after the reading is discussed in class, and has the same system of feedback/resubmissions as scribe notes. You only need to do one of scribing or writing a critique.
 
 ## Presenting & Leading Discussion
 

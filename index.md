@@ -18,17 +18,17 @@ Recording of Course Logistics (Class 1): https://ucsd.zoom.us/rec/share/obI-W9AO
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
 Zoom Office Hours: https://ucsd.zoom.us/my/kvaccaro   
 Office: 3226 CSE  
-Office Hours: Tuesday 10-11 AM on Zoom      
+Office Hours: Tuesday 2-3 on Zoom      
 
 TAs  
-[Hayden McTavish]()  
+Hayden McTavish    
 hmctavish@ucsd.edu  
 Office Hours: Monday 2-3 PM in B215 CSE  (Starting 1/16)
 <!--msmart@ucsd.edu  
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
 -->
 
-[Sanjana Balamurugan]()  
+Sanjana Balamurugan  
 sabalamurugan@ucsd.edu  
 Office Hours: TBD
 

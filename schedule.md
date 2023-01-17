@@ -19,13 +19,13 @@ _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-intera
 ## Week 1: Foundations
 
 #### Monday: Introduction
+[Monday Class Recording](https://ucsd.zoom.us/rec/share/dZkmkLu0RLLZkl8Z5IbW-Bp9ciBFvkN8pCWHdfWZZKVd9BWvEB-9qQ_oQCrHvjfT.IEAz9pJsZcO1X3dG)   
 
 #### Wednesday: Attention 
 boyd ["Streams of Content, Limited Attention"](https://www.danah.org/papers/talks/Web2Expo.html) Web2.0 2009  
 Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/papers/cscw13.reddit.gilbert.pdf) CSCW 2013   
 Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.acm.org/doi/pdf/10.1145/3411764.3445467) CHI 2021   
-
-#### Friday: Feedback & Design Studio  
+[Wednesday Class Recording](https://ucsd.zoom.us/rec/share/sk-yx5f8U6Jku2JbeP_TMYx4uCiDQNWGbYhxTaULj6UdrTij5s16PbSDyjiQi0hF.AioNDOVz9zJk7LTE)   
  
 
 ## Week 2: Identity and Authenticity

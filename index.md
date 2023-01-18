@@ -8,6 +8,7 @@
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/antisocial-computing) and [Canvas](https://canvas.ucsd.edu/)   
 Classroom: CSE Building 2154   
+Zoom link: https://ucsd.zoom.us/j/93052870267  
 Class Days and Times: Monday Wednesday 12:30PM   
 
 Recording of Course Logistics (Class 1): https://ucsd.zoom.us/rec/share/obI-W9AO7CQjtRLvFeghQxVsQbmGzL328nTt7IgXZqQ6ruR4jcuPuX5k5Vde4ZNj.9sCzX44tgmWYa4QB   

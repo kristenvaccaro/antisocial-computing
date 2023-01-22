@@ -19,13 +19,13 @@ _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-intera
 ## Week 1: Foundations
 
 #### Monday: Introduction
-[Monday Class Recording](https://ucsd.zoom.us/rec/share/dZkmkLu0RLLZkl8Z5IbW-Bp9ciBFvkN8pCWHdfWZZKVd9BWvEB-9qQ_oQCrHvjfT.IEAz9pJsZcO1X3dG)   
+[Class Recording](https://ucsd.zoom.us/rec/share/dZkmkLu0RLLZkl8Z5IbW-Bp9ciBFvkN8pCWHdfWZZKVd9BWvEB-9qQ_oQCrHvjfT.IEAz9pJsZcO1X3dG)   
 
 #### Wednesday: Attention 
 boyd ["Streams of Content, Limited Attention"](https://www.danah.org/papers/talks/Web2Expo.html) Web2.0 2009  
 Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/papers/cscw13.reddit.gilbert.pdf) CSCW 2013   
 Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.acm.org/doi/pdf/10.1145/3411764.3445467) CHI 2021   
-[Wednesday Class Recording](https://ucsd.zoom.us/rec/share/sk-yx5f8U6Jku2JbeP_TMYx4uCiDQNWGbYhxTaULj6UdrTij5s16PbSDyjiQi0hF.AioNDOVz9zJk7LTE)   
+[Class Recording](https://ucsd.zoom.us/rec/share/sk-yx5f8U6Jku2JbeP_TMYx4uCiDQNWGbYhxTaULj6UdrTij5s16PbSDyjiQi0hF.AioNDOVz9zJk7LTE)   
  
 
 ## Week 2: Identity and Authenticity
@@ -36,7 +36,7 @@ _Art:_ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)
 Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019  
 Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021  
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021
-
+[Class Recording](https://ucsd.zoom.us/rec/share/UjRGa2WMYRdioc9txltAZNhJXrcQpkSgnxp58X2UAsMLikYEA2s9a9PBKelDXLok.jc6a6XEBNshZg6c0)
 
 <!-- 
 #### Monday: Identity & Self-Presentation  

@@ -35,7 +35,7 @@ Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.
 _Art:_ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
 Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019  
 Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021  
-Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021
+Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021    
 [Class Recording](https://ucsd.zoom.us/rec/share/UjRGa2WMYRdioc9txltAZNhJXrcQpkSgnxp58X2UAsMLikYEA2s9a9PBKelDXLok.jc6a6XEBNshZg6c0)
 
 <!-- 
@@ -53,7 +53,7 @@ Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Soci
 _Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
 D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
 Smith ["How TikTok Reads Your Mind"](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html) New York Times 2021   
-Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019   
+Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
 [Class Recording](https://ucsd.zoom.us/rec/share/HXbnl-8vMGNIDdD74GGVPaE0kCAFhx3yZKAjqDPgSt0iwSOC81i-nQwSBmMq1IK0.cT6Bsc6LA5AnNezG)
 
 

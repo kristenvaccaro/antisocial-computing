@@ -62,7 +62,7 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity
 --- | ---
-20% | Active Class Participation
+30% | Active Class Participation
 10% | Scribing
 10% | Presentation
 20% | Lead Discussion

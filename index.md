@@ -31,7 +31,7 @@ Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/fl
 
 Sanjana Balamurugan  
 sabalamurugan@ucsd.edu  
-Office Hours: TBD
+Office Hours: Thursday 2:30 - 3:30 PM on Zoom https://ucsd.zoom.us/j/6140355534
 
 ## Communication
 

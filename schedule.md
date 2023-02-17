@@ -141,8 +141,11 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 <!--Jeon et al. ["ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System"](https://dl.acm.org/doi/pdf/10.1145/3479859) CSCW 2021 -->  
 
-## Week 7: Student Choice
+## Week 7: VR/AR
 ### Note: Monday Holiday (Presidents' Day)
+Ashtari et al. [Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities](http://www.michael-nebeling.de/publications/chi20c.pdf) CHI 2020
+Matsuda [Hyper-Reality](https://www.youtube.com/watch?v=YJg02ivYzSs&t=12s)
+Smarter Every Day [A Real Life Haptic Glove](https://www.youtube.com/watch?v=OK2y4Z5IkZ0) 
 
 <!-- Freeman et al. [Body, Avatar, and Me: The Presentation and Perception of Self in Social Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3432938) CSCW 2020   
 Poretski et al. [Normative Tensions in Shared Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3274411) CSCW 2018 -->

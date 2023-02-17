@@ -126,7 +126,8 @@ Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close 
 Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020    
 Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Facebook”](https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf) Science 2015   
 Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020   
-
+[Class Recording](https://ucsd.zoom.us/rec/share/K0hcVkTm48yuMA1FYfDX9fEasTRLTpmWauU7TLZUrQEHJvPky61QyCoUcsHeuSti.-GZIkO7Z9jmRa2zT)   
+[Class Recording](https://ucsd.zoom.us/rec/share/f7X5ZQHpJD3XU4T0hbTdbUhjHfCRcg1rZFQQjm2n3Q50ZOEpxd0Du_F0RiXBHH77.t8OF2yCcwiVppFtr)       
 
 <!--
 #### Monday: Algorithmic Experience   

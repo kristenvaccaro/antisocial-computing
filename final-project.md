@@ -30,3 +30,5 @@ Your final submission should have the following:
 1. A recording of a 5 minute summary of your project. These will be very similar to the in-class presentations (focus on overall motivation, quick overview of methods and results, and connections to course themes). 
 2. A one page maximum summary. These will be very similar to your proposals (the motivation may be identical). 
 3. Some artifact to represent your work. Depending on the project you propsed, this make take the form of code, a website, browser extension, a pdf of a high fidelity prototype, a large dataset you analyzed, etc. You have a lot of freedom here, but if you're worried about what you're planning to submit, please feel free to run it by me in advance!
+
+Submit to Canvas by Wed 3/22 11:59pm. _We can offer extensions to a small number of groups if needed, please reach out directly to me by email to coordinate a late submission time. _

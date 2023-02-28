@@ -19,18 +19,12 @@ Tips on making very short videos: https://vimeo.com/create/short-videos/30-secon
 
 ### Selected Presentations
 
-A subset of projects (approximately 
+A subset of projects (approximately 10-15) will present during class in Week 10. There will be two prizes awarded for top projects that present in Week 10, one student-choice award and one decided by the instructors. Prizes are to be determined, but feel free to weigh in on the Discord. 
 
 ### Finals Week Submissions
 
-Wednesdays will have small group discussions at the end of class.
+Your final submission should have the following:
 
-Each week one student will lead their group*. *Students may need to lead groups in pairs or trios, given the high course enrollment*
-
-#### Presentations
-
-On weeks when your group is presenting, the facilitator should prepare a _very brief_ presentation to review the key concepts from the paper. The presentation should provide:  
-- a summary of the objectives of the paper
-- definitions or explanations of key concepts
-- identify relationships/connections to concepts previously covered
-- examples of an application of the key concepts
+1. A recording of a 5 minute summary of your project. These will be very similar to the in-class presentations (focus on overall motivation, quick overview of methods and results, and connections to course themes). 
+2. A one page maximum summary. These will be very similar to your proposals (the motivation may be identical). 
+3. Some artifact to represent your work. Depending on the project you propsed, this make take the form of code, a website, browser extension, a pdf of a high fidelity prototype, a large dataset you analyzed, etc. If you're worried about what you're planning to submit, please feel free to run it by me in advance!

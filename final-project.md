@@ -13,7 +13,7 @@ Link to [folder with proposal examples](https://drive.google.com/drive/folders/1
 
 Please create a _very brief_ pitch video to interest other students in your project. Your video should be 30-60 seconds. Your goal is to convey why your project is interesting and students might be interested in your topic. 
 
-Submit the video as an unlisted video on Youtube. We will create a playlist from all these videos to share with the class!
+Submit the video as an unlisted video on Youtube by the end of Week 8 (Sun 3/5 11:59pm). We will create a playlist from all these videos to share with the class!
 
 Tips on making very short videos: https://vimeo.com/create/short-videos/30-second
 

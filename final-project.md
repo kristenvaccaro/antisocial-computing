@@ -17,11 +17,13 @@ Submit the video as an unlisted video on Youtube. We will create a playlist from
 
 Tips on making very short videos: https://vimeo.com/create/short-videos/30-second
 
-### Selected Presentations
+### Week 10: Selected Presentations
 
-A subset of projects (approximately 10-15) will present during class in Week 10. There will be two prizes awarded for top projects that present in Week 10, one student-choice award and one decided by the instructors. Prizes are to be determined, but feel free to weigh in on the Discord. 
+A subset of projects (approximately 10-15) will present during class in Week 10. These will be decided based on votes (thumbs up) of the pitch videos on the playlist.  
 
-### Finals Week Submissions
+There will be two prizes awarded for top projects that present in Week 10, one student-choice award and one decided by the instructors. Prizes are to be determined, but feel free to weigh in on the Discord. 
+
+### Week 11: Final(s Week) Submissions
 
 Your final submission should have the following:
 

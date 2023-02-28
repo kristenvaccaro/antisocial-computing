@@ -160,7 +160,7 @@ David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/cl
 Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   
 Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021   
 Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020     
-
+[Class Recording](https://ucsd.zoom.us/rec/share/GMZz6qkdEEjldBXS2dhZjbLV4KalZCHinkOsB7IzOmN-hU0zb5AQGE3hcz6vMhco.sqKZp6vxSvzAHzgY)
 
 <!-- #### Monday: Misinformation & Disinformation  
 David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/classes/ucas/2018-summer/p/science-fake-news-2018.pdf) Science 2018     

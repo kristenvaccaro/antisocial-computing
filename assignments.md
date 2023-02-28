@@ -45,7 +45,7 @@ Detailed [instructions for presentations here](https://kristenvaccaro.github.io/
 
 Final projects can be done as a small group (max size: 4) or individually. You can choose to create a new platform/interaction, design an experience around an existing system, or conduct an analysis. Half of each Monday class session will be a design studio where you work with your group on this project and get feedback from your peers. 
 
-A brief proposal will be due at the end of week 4.  
+[Detailed instructions here](https://kristenvaccaro.github.io/antisocial-computing/final_project.html)
 
 
 ## Final Exam - OPTIONAL

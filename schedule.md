@@ -160,7 +160,8 @@ David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/cl
 Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   
 Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021   
 Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020     
-[Class Recording](https://ucsd.zoom.us/rec/share/GMZz6qkdEEjldBXS2dhZjbLV4KalZCHinkOsB7IzOmN-hU0zb5AQGE3hcz6vMhco.sqKZp6vxSvzAHzgY)
+[Class Recording](https://ucsd.zoom.us/rec/share/GMZz6qkdEEjldBXS2dhZjbLV4KalZCHinkOsB7IzOmN-hU0zb5AQGE3hcz6vMhco.sqKZp6vxSvzAHzgY)    
+[Class Recording](https://ucsd.zoom.us/rec/share/tHmRG9csvM2kpn6ldP4pNdZs_hXkWccbrUgFywOi6K9oKcDv8yJ-YHw0w1ol_i9y.XOcaQYcPFuHoYOlN)   
 
 <!-- #### Monday: Misinformation & Disinformation  
 David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/classes/ucas/2018-summer/p/science-fake-news-2018.pdf) Science 2018     
@@ -183,7 +184,8 @@ Duffy et al. [“‘You never really know who’s looking’: Imagined surveilla
 Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021  
 Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015  
 Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects of Privacy"](https://dl.acm.org/doi/pdf/10.1145/3415172) CSCW 2020  
-
+[Class Recording](https://ucsd.zoom.us/rec/share/2e1nC0nl-v49HzUB3JdTfPvov-d5rC23uQTvr6jCtzieC0Ok2zLvBGjsaUlor5L8.aSwaIk_TQSILxOM6)    
+[Class Recording](https://ucsd.zoom.us/rec/share/Bc0E7biRX6pY9qf_zUhL_BoCdMxZTxYK4zH4Kfc4ll5d0-WtMolFajUF-d-a8A-A.lE8AAa1Pjvf-0YQT)    
 
 <!--
 #### Monday: Surveillance    

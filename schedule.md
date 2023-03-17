@@ -204,3 +204,5 @@ Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects
 
 ## Week 10: Project Presentations
 None
+[Class Recording](https://ucsd.zoom.us/rec/share/2LMTOkPwmVgep010kx_1MGtrMJQthKdUIRg6te-qYSnn8cImsyJCXQxFhIxBj8nk.twl0Jq2GJS4aC3O3)    
+[Class Recording](https://ucsd.zoom.us/rec/share/K9n0zD4gmj7r_FP-8_YMEp2FpcdajeyYhLmqrhVAkyEB1HRYE1pljndJIO4YYLg.oGuWpFB4g6AXXchh)    

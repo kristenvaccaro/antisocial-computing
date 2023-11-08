@@ -142,7 +142,7 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 <!--Jeon et al. ["ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System"](https://dl.acm.org/doi/pdf/10.1145/3479859) CSCW 2021 -->  
 
-## Week 7: VR/AR
+## Week 7: Student Choice - VR/AR
 ### Note: Monday Holiday (Presidents' Day)
 Ashtari et al. [Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities](http://www.michael-nebeling.de/publications/chi20c.pdf) CHI 2020    
 Matsuda [Hyper-Reality](https://www.youtube.com/watch?v=YJg02ivYzSs&t=12s)     

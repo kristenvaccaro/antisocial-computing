@@ -108,7 +108,10 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 -->
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
-## Week 4: Trolling  
+## Week 5: Trolling  
+
+#### Monday: Visiting Speaker
+
 #### Topics: Trolling, Racism, Sexism, Activism
 
 Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  

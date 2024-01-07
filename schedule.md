@@ -35,6 +35,7 @@ Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.
 ## Week 2: Identity and Authenticity
 
 #### Monday: Holiday (Martin Luther King Jr. Day)
+No readings
 
 #### Wednesday
 Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
@@ -56,54 +57,7 @@ Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Supp
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021
 -->
 
-## Week 3: Metrics & Optimization
-
-_Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
-D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
-Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
-[Class Recording](https://ucsd.zoom.us/rec/share/HXbnl-8vMGNIDdD74GGVPaE0kCAFhx3yZKAjqDPgSt0iwSOC81i-nQwSBmMq1IK0.cT6Bsc6LA5AnNezG)    
-[Class Recording](https://ucsd.zoom.us/rec/share/ykwaR958U2TNj1yJ6tbKJ0v-CiZztEsEfYAn7IuTchxP0AjDF_bUfTKvnYmJ8hI6.pHv-fYiTQSnUF1m0)  
-
-<!-- #### Monday: Holiday (Martin Luther King Jr. Day)
-Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015  
-#### Wednesday: Metrics & Measures  
-D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
-Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015   
--->
-
-## Week 4: Trolling  
-#### Topics: Trolling, Racism, Sexism, Activism
-
-Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
-Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
-MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
-Graham ["Boundary maintenance and the origins of trolling"](https://journals.sagepub.com/doi/pdf/10.1177/1461444819837561) New Media & Society 2019  
-Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws/portalfiles/portal/49057034/Cook_Everything_22_01_2021.pdf) Tillburg University Dissertation 2021 _Note: only read Chapter 5 (A Bystander State of Mind)_    
-[Class Recording](https://ucsd.zoom.us/rec/share/znRH8Ld3ZK6zYsDxqHWsDkQNZU7lBs4Nks0l_tZc6_VAFFtCktDlyKbYP7s3_oBm.KmPGUhl65Kp1KxLU)     
-[Class Recording](https://ucsd.zoom.us/rec/share/PTr0E8sVyQeDzY4RFo2MuqS3F_qJRneHikbFeBqtd_B5Vfy5ayEN2RW1S8YqMEUq.zx9pFTCbV-M2xIZ8)    
-
-<!--Paakki et al. ["Disruptive online communication: How asymmetric trolling-like response strategies steer conversation off the track"](https://link.springer.com/article/10.1007/s10606-021-09397-1) CSCW 2021 -->
-
-<!--
-Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) _Note: only read Introduction and Chapter 2 (Visions of Black Feminism)_   
-
-Cleo Abram [“The most urgent threat of deepfakes isn’t politics. It’s porn.”](https://www.youtube.com/watch?v=hHHCrf2-x6w) Vox Video Explainer   
-#### Monday: Sexism  
-Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
-Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
-MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
-Cleo Abram [“The most urgent threat of deepfakes isn’t politics. It’s porn.”](https://www.youtube.com/watch?v=hHHCrf2-x6w) Vox Video Explainer
-Stewart et al. ["Drawing the Lines of Contention: Networked Frame Contests Within #BlackLivesMatter Discourse"](https://dl.acm.org/doi/pdf/10.1145/3134920) CSCW 2017 
-
-#### Wednesday: Racism  
-
-Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) _Note: only read Introduction and Chapter 2 (Visions of Black Feminism)_   
-Stewart et al. ["Drawing the Lines of Contention: Networked Frame Contests Within #BlackLivesMatter Discourse"](https://dl.acm.org/doi/pdf/10.1145/3134920) CSCW 2017  
---> 
-<!-- Hutson et al. ["Debiasing Desire: Addressing Bias & Discrimination on Intimate Platforms"](https://arxiv.org/pdf/1809.01563.pdf) CSCW 2018 -->
-<!-- Phadke et al. ["Many Faced Hate: A Cross Platform Study of Content Framing and Information Sharing by Online Hate Groups"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376456) CHI 2020  -->
-
-## Week 5: Content Moderation
+## Week 3: Content Moderation
 #### Topics: Platform Governance, Possible Solutions? 
 Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018     
 Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020    
@@ -182,6 +136,53 @@ Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTub
 Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020     
 -->
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
+
+## Week 3: Metrics & Optimization
+
+_Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
+D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
+Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
+[Class Recording](https://ucsd.zoom.us/rec/share/HXbnl-8vMGNIDdD74GGVPaE0kCAFhx3yZKAjqDPgSt0iwSOC81i-nQwSBmMq1IK0.cT6Bsc6LA5AnNezG)    
+[Class Recording](https://ucsd.zoom.us/rec/share/ykwaR958U2TNj1yJ6tbKJ0v-CiZztEsEfYAn7IuTchxP0AjDF_bUfTKvnYmJ8hI6.pHv-fYiTQSnUF1m0)  
+
+<!-- #### Monday: Holiday (Martin Luther King Jr. Day)
+Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015  
+#### Wednesday: Metrics & Measures  
+D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
+Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015   
+-->
+
+## Week 4: Trolling  
+#### Topics: Trolling, Racism, Sexism, Activism
+
+Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
+Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
+MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
+Graham ["Boundary maintenance and the origins of trolling"](https://journals.sagepub.com/doi/pdf/10.1177/1461444819837561) New Media & Society 2019  
+Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws/portalfiles/portal/49057034/Cook_Everything_22_01_2021.pdf) Tillburg University Dissertation 2021 _Note: only read Chapter 5 (A Bystander State of Mind)_    
+[Class Recording](https://ucsd.zoom.us/rec/share/znRH8Ld3ZK6zYsDxqHWsDkQNZU7lBs4Nks0l_tZc6_VAFFtCktDlyKbYP7s3_oBm.KmPGUhl65Kp1KxLU)     
+[Class Recording](https://ucsd.zoom.us/rec/share/PTr0E8sVyQeDzY4RFo2MuqS3F_qJRneHikbFeBqtd_B5Vfy5ayEN2RW1S8YqMEUq.zx9pFTCbV-M2xIZ8)    
+
+<!--Paakki et al. ["Disruptive online communication: How asymmetric trolling-like response strategies steer conversation off the track"](https://link.springer.com/article/10.1007/s10606-021-09397-1) CSCW 2021 -->
+
+<!--
+Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) _Note: only read Introduction and Chapter 2 (Visions of Black Feminism)_   
+
+Cleo Abram [“The most urgent threat of deepfakes isn’t politics. It’s porn.”](https://www.youtube.com/watch?v=hHHCrf2-x6w) Vox Video Explainer   
+#### Monday: Sexism  
+Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
+Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
+MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
+Cleo Abram [“The most urgent threat of deepfakes isn’t politics. It’s porn.”](https://www.youtube.com/watch?v=hHHCrf2-x6w) Vox Video Explainer
+Stewart et al. ["Drawing the Lines of Contention: Networked Frame Contests Within #BlackLivesMatter Discourse"](https://dl.acm.org/doi/pdf/10.1145/3134920) CSCW 2017 
+
+#### Wednesday: Racism  
+
+Sarah J. Jackson et al. [#HashtagActivism: Networks of Race and Gender Justice](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice) _Note: only read Introduction and Chapter 2 (Visions of Black Feminism)_   
+Stewart et al. ["Drawing the Lines of Contention: Networked Frame Contests Within #BlackLivesMatter Discourse"](https://dl.acm.org/doi/pdf/10.1145/3134920) CSCW 2017  
+--> 
+<!-- Hutson et al. ["Debiasing Desire: Addressing Bias & Discrimination on Intimate Platforms"](https://arxiv.org/pdf/1809.01563.pdf) CSCW 2018 -->
+<!-- Phadke et al. ["Many Faced Hate: A Cross Platform Study of Content Framing and Information Sharing by Online Hate Groups"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376456) CHI 2020  -->
 
 
 ## Week 9: Surveillance & Privacy

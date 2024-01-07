@@ -19,24 +19,32 @@ _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-intera
 ## Week 1: Foundations
 
 #### Monday: Introduction
-[Class Recording](https://ucsd.zoom.us/rec/share/dZkmkLu0RLLZkl8Z5IbW-Bp9ciBFvkN8pCWHdfWZZKVd9BWvEB-9qQ_oQCrHvjfT.IEAz9pJsZcO1X3dG)   
+No readings
+<!-- [Class Recording](https://ucsd.zoom.us/rec/share/dZkmkLu0RLLZkl8Z5IbW-Bp9ciBFvkN8pCWHdfWZZKVd9BWvEB-9qQ_oQCrHvjfT.IEAz9pJsZcO1X3dG)   -->
 
-#### Wednesday: Attention 
-boyd ["Streams of Content, Limited Attention"](https://www.danah.org/papers/talks/Web2Expo.html) Web2.0 2009  
+#### Wednesday 
+boyd ["Streams of Content, Limited Attention"](https://www.danah.org/papers/talks/Web2Expo.html) Web2.0 2009   
 Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/papers/cscw13.reddit.gilbert.pdf) CSCW 2013   
+
+#### Friday
+Smith ["How TikTok Reads Your Mind"](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html) New York Times 2021   
 Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.acm.org/doi/pdf/10.1145/3411764.3445467) CHI 2021   
-[Class Recording](https://ucsd.zoom.us/rec/share/sk-yx5f8U6Jku2JbeP_TMYx4uCiDQNWGbYhxTaULj6UdrTij5s16PbSDyjiQi0hF.AioNDOVz9zJk7LTE)   
+<!-- [Class Recording](https://ucsd.zoom.us/rec/share/sk-yx5f8U6Jku2JbeP_TMYx4uCiDQNWGbYhxTaULj6UdrTij5s16PbSDyjiQi0hF.AioNDOVz9zJk7LTE)   -->
  
 
 ## Week 2: Identity and Authenticity
-### Note: Monday Holiday (Martin Luther King Jr. Day)
 
-#### Topics: Identity, Self-Presentation, Authenticity, Deception
-_Art:_ Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
-Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019  
-Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021  
+#### Monday: Holiday (Martin Luther King Jr. Day)
+
+#### Wednesday
+Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
+Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021   
+
+#### Friday
+
+Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019 
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021    
-[Class Recording](https://ucsd.zoom.us/rec/share/UjRGa2WMYRdioc9txltAZNhJXrcQpkSgnxp58X2UAsMLikYEA2s9a9PBKelDXLok.jc6a6XEBNshZg6c0)
+<!-- [Class Recording](https://ucsd.zoom.us/rec/share/UjRGa2WMYRdioc9txltAZNhJXrcQpkSgnxp58X2UAsMLikYEA2s9a9PBKelDXLok.jc6a6XEBNshZg6c0)   -->
 
 <!-- 
 #### Monday: Identity & Self-Presentation  
@@ -52,7 +60,6 @@ Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Soci
 
 _Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
 D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
-Smith ["How TikTok Reads Your Mind"](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html) New York Times 2021   
 Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
 [Class Recording](https://ucsd.zoom.us/rec/share/HXbnl-8vMGNIDdD74GGVPaE0kCAFhx3yZKAjqDPgSt0iwSOC81i-nQwSBmMq1IK0.cT6Bsc6LA5AnNezG)    
 [Class Recording](https://ucsd.zoom.us/rec/share/ykwaR958U2TNj1yJ6tbKJ0v-CiZztEsEfYAn7IuTchxP0AjDF_bUfTKvnYmJ8hI6.pHv-fYiTQSnUF1m0)  

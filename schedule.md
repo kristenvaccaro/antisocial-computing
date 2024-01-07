@@ -43,7 +43,7 @@ Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Gove
 
 #### Friday   
 Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019     
-Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021     
+  
 
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/ESBT_dutzSYtpuBxaHz_T6dNyX3ITPfSS7Q4h8uEd0Avx7kAj4TA_Qluajppyrdl.C8QWlt8TctjmYVK_)  
 [Class Recording](https://ucsd.zoom.us/rec/share/KE5fC1-lHD-Dbrp6A5P0Qq6mAdO2w3ozqqGvLnKLJVzUbIw4cRkfvWf56U6EIJcm.P1zLBt3KuX6RwpLb)   -->
@@ -105,6 +105,7 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 
 
 #### Friday
+Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021   
 
 <!--[Class Recording](https://ucsd.zoom.us/rec/share/GMZz6qkdEEjldBXS2dhZjbLV4KalZCHinkOsB7IzOmN-hU0zb5AQGE3hcz6vMhco.sqKZp6vxSvzAHzgY)    
 [Class Recording](https://ucsd.zoom.us/rec/share/tHmRG9csvM2kpn6ldP4pNdZs_hXkWccbrUgFywOi6K9oKcDv8yJ-YHw0w1ol_i9y.XOcaQYcPFuHoYOlN)   -->
@@ -136,15 +137,7 @@ MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from 
 Graham ["Boundary maintenance and the origins of trolling"](https://journals.sagepub.com/doi/pdf/10.1177/1461444819837561) New Media & Society 2019  
 Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws/portalfiles/portal/49057034/Cook_Everything_22_01_2021.pdf) Tillburg University Dissertation 2021 _Note: only read Chapter 5 (A Bystander State of Mind)_    
 
-## Week 6: Special Communities
-
-#### Monday: Neurodivergent users
-
-#### Wednesday: Children
-
-#### Friday:
-
-## Week 7: Influencers & Authenticity
+## Week 6: Influencers & Authenticity
 
 #### Monday
 Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
@@ -161,7 +154,7 @@ Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Soci
 
 #### Friday
 
-## Week 8: Overuse
+## Week 7: Overuse
 
 #### Monday
 Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
@@ -169,6 +162,15 @@ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/634600
 #### Wednesday
 
 #### Friday
+
+## Week 8: Special Communities
+
+#### Monday: Neurodivergent users
+Pena et al. ["My Perfect Platform Would Be Telepathy" - Reimagining the Design of Social Media with Autistic Adults](https://dl.acm.org/doi/10.1145/3544548.3580673) CHI 2023
+
+#### Wednesday: Children
+
+#### Friday:
 
 ## Week 9: Students Choice 
 

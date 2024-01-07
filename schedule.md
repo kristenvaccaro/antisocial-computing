@@ -63,13 +63,18 @@ Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence 
 -->
 
 ## Week 3: Algorithmic Nudging (Filter Bubbles & Beyond)
-#### Topics: Algorithmic Experience, Filter Bubbles, & Echo Chambers  
+#### Monday 
 Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     
 Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020    
+
+#### Wednesday 
 Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Facebook”](https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf) Science 2015   
 Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020   
-[Class Recording](https://ucsd.zoom.us/rec/share/K0hcVkTm48yuMA1FYfDX9fEasTRLTpmWauU7TLZUrQEHJvPky61QyCoUcsHeuSti.-GZIkO7Z9jmRa2zT)   
-[Class Recording](https://ucsd.zoom.us/rec/share/f7X5ZQHpJD3XU4T0hbTdbUhjHfCRcg1rZFQQjm2n3Q50ZOEpxd0Du_F0RiXBHH77.t8OF2yCcwiVppFtr)       
+
+#### Friday
+
+<!-- [Class Recording](https://ucsd.zoom.us/rec/share/K0hcVkTm48yuMA1FYfDX9fEasTRLTpmWauU7TLZUrQEHJvPky61QyCoUcsHeuSti.-GZIkO7Z9jmRa2zT)   
+[Class Recording](https://ucsd.zoom.us/rec/share/f7X5ZQHpJD3XU4T0hbTdbUhjHfCRcg1rZFQQjm2n3Q50ZOEpxd0Du_F0RiXBHH77.t8OF2yCcwiVppFtr) -->       
 
 <!--
 #### Monday: Algorithmic Experience   

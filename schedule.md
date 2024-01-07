@@ -129,8 +129,15 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 
 #### Friday
 
+Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
+Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
+MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
+Graham ["Boundary maintenance and the origins of trolling"](https://journals.sagepub.com/doi/pdf/10.1177/1461444819837561) New Media & Society 2019  
+Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws/portalfiles/portal/49057034/Cook_Everything_22_01_2021.pdf) Tillburg University Dissertation 2021 _Note: only read Chapter 5 (A Bystander State of Mind)_    
 
-## Week 6: Influencers & Authenticity
+## Week 6: Special Communities
+
+## Week 7: Influencers & Authenticity
 
 #### Monday
 Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
@@ -140,7 +147,7 @@ Cotter ["Playing the visibility game: How digital influencers and algorithms neg
 
 #### Friday
 
-## Week 7: Overuse
+## Week 8: Overuse
 
 #### Monday
 
@@ -148,18 +155,14 @@ Cotter ["Playing the visibility game: How digital influencers and algorithms neg
 
 #### Friday
 
-## Week 8: 
+## Week 9: Students Choice 
 
 
-#### Topics: Trolling, Racism, Sexism, Activism
+<!--#### Topics: Trolling, Racism, Sexism, Activism
 
-Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
-Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
-MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
-Graham ["Boundary maintenance and the origins of trolling"](https://journals.sagepub.com/doi/pdf/10.1177/1461444819837561) New Media & Society 2019  
-Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws/portalfiles/portal/49057034/Cook_Everything_22_01_2021.pdf) Tillburg University Dissertation 2021 _Note: only read Chapter 5 (A Bystander State of Mind)_    
+
 [Class Recording](https://ucsd.zoom.us/rec/share/znRH8Ld3ZK6zYsDxqHWsDkQNZU7lBs4Nks0l_tZc6_VAFFtCktDlyKbYP7s3_oBm.KmPGUhl65Kp1KxLU)     
-[Class Recording](https://ucsd.zoom.us/rec/share/PTr0E8sVyQeDzY4RFo2MuqS3F_qJRneHikbFeBqtd_B5Vfy5ayEN2RW1S8YqMEUq.zx9pFTCbV-M2xIZ8)    
+[Class Recording](https://ucsd.zoom.us/rec/share/PTr0E8sVyQeDzY4RFo2MuqS3F_qJRneHikbFeBqtd_B5Vfy5ayEN2RW1S8YqMEUq.zx9pFTCbV-M2xIZ8)    -->
 
 <!--Paakki et al. ["Disruptive online communication: How asymmetric trolling-like response strategies steer conversation off the track"](https://link.springer.com/article/10.1007/s10606-021-09397-1) CSCW 2021 -->
 

@@ -133,6 +133,8 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 ## Week 6: Influencers & Authenticity
 
 #### Monday
+Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
+
 
 #### Wednesday
 
@@ -185,9 +187,8 @@ Stewart et al. ["Drawing the Lines of Contention: Networked Frame Contests Withi
 
 _Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
 D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
-Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
-[Class Recording](https://ucsd.zoom.us/rec/share/HXbnl-8vMGNIDdD74GGVPaE0kCAFhx3yZKAjqDPgSt0iwSOC81i-nQwSBmMq1IK0.cT6Bsc6LA5AnNezG)    
-[Class Recording](https://ucsd.zoom.us/rec/share/ykwaR958U2TNj1yJ6tbKJ0v-CiZztEsEfYAn7IuTchxP0AjDF_bUfTKvnYmJ8hI6.pHv-fYiTQSnUF1m0)  
+<!-- [Class Recording](https://ucsd.zoom.us/rec/share/HXbnl-8vMGNIDdD74GGVPaE0kCAFhx3yZKAjqDPgSt0iwSOC81i-nQwSBmMq1IK0.cT6Bsc6LA5AnNezG)    
+[Class Recording](https://ucsd.zoom.us/rec/share/ykwaR958U2TNj1yJ6tbKJ0v-CiZztEsEfYAn7IuTchxP0AjDF_bUfTKvnYmJ8hI6.pHv-fYiTQSnUF1m0)  -->
 
 <!-- #### Monday: Holiday (Martin Luther King Jr. Day)
 Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Facebook"](https://www.jedbrubaker.com/wp-content/uploads/2008/05/HaimsonDisclosureStressSupport.pdf) CSCW 2015  

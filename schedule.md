@@ -62,7 +62,7 @@ Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior 
 Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021  
 -->
 
-## Week 6: Algorithmic Nudging (Filter Bubbles & Beyond)
+## Week 3: Algorithmic Nudging (Filter Bubbles & Beyond)
 #### Topics: Algorithmic Experience, Filter Bubbles, & Echo Chambers  
 Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     
 Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020    
@@ -86,7 +86,7 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 
 
-## Week 8: Misinformation & Radicalization
+## Week 4: Misinformation & Radicalization
 #### Topics: Misinformation, Disinformation, Radicalization
 David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/classes/ucas/2018-summer/p/science-fake-news-2018.pdf) Science 2018     
 Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   

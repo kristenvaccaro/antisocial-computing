@@ -137,6 +137,12 @@ Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws
 
 ## Week 6: Special Communities
 
+#### Monday: Neurodivergent users
+
+#### Wednesday: Children
+
+#### Friday:
+
 ## Week 7: Influencers & Authenticity
 
 #### Monday

@@ -149,6 +149,13 @@ Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws
 #### Monday
 Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
 
+Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
+Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021   
+
+
+Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019 
+Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021    
+
 
 #### Wednesday
 
@@ -246,19 +253,12 @@ Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects
 <!-- Alessandro Acquisti et al. “Nudges for Privacy and Security: Understanding and Assisting Users’ Choices Online” ACM Computing Surveys 2017 ACM DL  -->  
 
 
-## Week 2: Identity and Authenticity
+<!--## Week 2: Identity and Authenticity
 
 #### Monday: 
 
 
-#### Wednesday
-Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
-Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021   
-
-#### Friday
-
-Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019 
-Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021    
+#### Wednesday-->
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/UjRGa2WMYRdioc9txltAZNhJXrcQpkSgnxp58X2UAsMLikYEA2s9a9PBKelDXLok.jc6a6XEBNshZg6c0)   -->
 
 <!-- 

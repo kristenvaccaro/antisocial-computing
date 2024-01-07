@@ -92,7 +92,7 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 
 
-## Week 4: Misinformation & Radicalization
+## Week 4: Misinformation, Radicalization, & Conspiracies
 
 #### Monday
 David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/classes/ucas/2018-summer/p/science-fake-news-2018.pdf) Science 2018     

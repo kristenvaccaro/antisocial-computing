@@ -164,6 +164,7 @@ Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Soci
 ## Week 8: Overuse
 
 #### Monday
+Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
 
 #### Wednesday
 
@@ -200,10 +201,10 @@ Stewart et al. ["Drawing the Lines of Contention: Networked Frame Contests Withi
 <!-- Phadke et al. ["Many Faced Hate: A Cross Platform Study of Content Framing and Information Sharing by Online Hate Groups"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376456) CHI 2020  -->
 
 
-## Week 3: Metrics & Optimization
+<!-- ## Week 3: Metrics & Optimization -->
 
-_Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
-D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   
+<!-- _Art:_ Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
+D'Ignazio et al. ["What gets counted counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) Data Feminism 2020   -->
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/HXbnl-8vMGNIDdD74GGVPaE0kCAFhx3yZKAjqDPgSt0iwSOC81i-nQwSBmMq1IK0.cT6Bsc6LA5AnNezG)    
 [Class Recording](https://ucsd.zoom.us/rec/share/ykwaR958U2TNj1yJ6tbKJ0v-CiZztEsEfYAn7IuTchxP0AjDF_bUfTKvnYmJ8hI6.pHv-fYiTQSnUF1m0)  -->
 
@@ -216,13 +217,13 @@ Haimson et al. ["Disclosure, Stress, and Support During Gender Transition on Fac
 
 
 
-## Week 7: Student Choice - VR/AR
+<!-- ## Week 7: Student Choice - VR/AR
 ### Note: Monday Holiday (Presidents' Day)
 Ashtari et al. [Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities](http://www.michael-nebeling.de/publications/chi20c.pdf) CHI 2020    
 Matsuda [Hyper-Reality](https://www.youtube.com/watch?v=YJg02ivYzSs&t=12s)     
 Smarter Every Day [A Real Life Haptic Glove](https://www.youtube.com/watch?v=OK2y4Z5IkZ0)     
 Wall Street Journal [Trapped in the Metaverse: Here's What 24 Hours in VR Feels Like](https://www.youtube.com/watch?v=rtLTZUaMSDQ)   
-[Class Recording](https://ucsd.zoom.us/rec/share/TeJPPnfdStFNvfqXYR3iumJyP4LVighE9MELcaqCthUY2YFo0HXcJTBdb4LTTbSy.jAxLwkJBqjjOv4Ob)
+[Class Recording](https://ucsd.zoom.us/rec/share/TeJPPnfdStFNvfqXYR3iumJyP4LVighE9MELcaqCthUY2YFo0HXcJTBdb4LTTbSy.jAxLwkJBqjjOv4Ob)-->
 
 <!-- Freeman et al. [Body, Avatar, and Me: The Presentation and Perception of Self in Social Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3432938) CSCW 2020   
 Poretski et al. [Normative Tensions in Shared Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3274411) CSCW 2018 -->

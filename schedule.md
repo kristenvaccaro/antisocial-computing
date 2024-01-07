@@ -84,16 +84,6 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 <!--Jeon et al. ["ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System"](https://dl.acm.org/doi/pdf/10.1145/3479859) CSCW 2021 -->  
 
-## Week 7: Student Choice - VR/AR
-### Note: Monday Holiday (Presidents' Day)
-Ashtari et al. [Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities](http://www.michael-nebeling.de/publications/chi20c.pdf) CHI 2020    
-Matsuda [Hyper-Reality](https://www.youtube.com/watch?v=YJg02ivYzSs&t=12s)     
-Smarter Every Day [A Real Life Haptic Glove](https://www.youtube.com/watch?v=OK2y4Z5IkZ0)     
-Wall Street Journal [Trapped in the Metaverse: Here's What 24 Hours in VR Feels Like](https://www.youtube.com/watch?v=rtLTZUaMSDQ)   
-[Class Recording](https://ucsd.zoom.us/rec/share/TeJPPnfdStFNvfqXYR3iumJyP4LVighE9MELcaqCthUY2YFo0HXcJTBdb4LTTbSy.jAxLwkJBqjjOv4Ob)
-
-<!-- Freeman et al. [Body, Avatar, and Me: The Presentation and Perception of Self in Social Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3432938) CSCW 2020   
-Poretski et al. [Normative Tensions in Shared Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3274411) CSCW 2018 -->
 
 
 ## Week 8: Misinformation & Radicalization
@@ -164,6 +154,18 @@ Stewart et al. ["Drawing the Lines of Contention: Networked Frame Contests Withi
 --> 
 <!-- Hutson et al. ["Debiasing Desire: Addressing Bias & Discrimination on Intimate Platforms"](https://arxiv.org/pdf/1809.01563.pdf) CSCW 2018 -->
 <!-- Phadke et al. ["Many Faced Hate: A Cross Platform Study of Content Framing and Information Sharing by Online Hate Groups"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376456) CHI 2020  -->
+
+
+## Week 7: Student Choice - VR/AR
+### Note: Monday Holiday (Presidents' Day)
+Ashtari et al. [Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities](http://www.michael-nebeling.de/publications/chi20c.pdf) CHI 2020    
+Matsuda [Hyper-Reality](https://www.youtube.com/watch?v=YJg02ivYzSs&t=12s)     
+Smarter Every Day [A Real Life Haptic Glove](https://www.youtube.com/watch?v=OK2y4Z5IkZ0)     
+Wall Street Journal [Trapped in the Metaverse: Here's What 24 Hours in VR Feels Like](https://www.youtube.com/watch?v=rtLTZUaMSDQ)   
+[Class Recording](https://ucsd.zoom.us/rec/share/TeJPPnfdStFNvfqXYR3iumJyP4LVighE9MELcaqCthUY2YFo0HXcJTBdb4LTTbSy.jAxLwkJBqjjOv4Ob)
+
+<!-- Freeman et al. [Body, Avatar, and Me: The Presentation and Perception of Self in Social Virtual Reality](https://dl.acm.org/doi/pdf/10.1145/3432938) CSCW 2020   
+Poretski et al. [Normative Tensions in Shared Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3274411) CSCW 2018 -->
 
 
 ## Week 9: Surveillance & Privacy

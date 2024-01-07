@@ -34,7 +34,8 @@ Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.
 
 ## Week 2: Content Moderation
 
-#### Monday: Holiday (Martin Luther King Jr. Day)
+#### Monday: Holiday (Martin Luther King Jr. Day)    
+No readings   
 
 #### Wednesday
 Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018     

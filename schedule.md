@@ -38,9 +38,9 @@ Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.
 
 #### Wednesday
 Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018     
-Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020    
+Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020      
 
-#### Friday 
+#### Friday   
 Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019     
 Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021     
 
@@ -108,9 +108,16 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 -->
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
-## Week 5: Trolling  
+## Week 5: Influencers
 
 #### Monday: Visiting Speaker
+
+## Week 6: Trolling
+
+## Week 7: Overuse
+
+## Week 8: 
+
 
 #### Topics: Trolling, Racism, Sexism, Activism
 

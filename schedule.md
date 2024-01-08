@@ -190,8 +190,9 @@ Pena et al. ["My Perfect Platform Would Be Telepathy" - Reimagining the Design o
 Duffy et al. [“‘You never really know who’s looking’: Imagined surveillance across social media platforms”](https://journals.sagepub.com/doi/full/10.1177/1461444818791318) New Media & Society 2018 Link    
 Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015  
 
-
 #### Wednesday
+Tseng et al. [The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums](https://www.usenix.org/system/files/sec20-tseng.pdf) USENIX 2020
+Bellini et al. ["'So-called privacy breeds evil': Narrative Justifications for Intimate Partner Surveillance in Online Forums"](https://dl.acm.org/doi/10.1145/3432909) CSCW 2020
 
 #### Friday
 Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021  

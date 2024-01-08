@@ -169,14 +169,14 @@ Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict 
 
 #### Friday
 
-## Week 8: Special Communities
+<!-- ## Week 8: Special Communities
 
 #### Monday: Neurodivergent users
 Pena et al. ["My Perfect Platform Would Be Telepathy" - Reimagining the Design of Social Media with Autistic Adults](https://dl.acm.org/doi/10.1145/3544548.3580673) CHI 2023
 
 #### Wednesday: Children
 
-#### Friday:
+#### Friday: -->
 
 ## Week 8: Surveillance & Privacy
 

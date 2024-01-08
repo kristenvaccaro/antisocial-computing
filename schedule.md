@@ -164,13 +164,17 @@ Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns 
 
 ## Week 7: Overuse
 
-#### Monday
-Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
-Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets](https://dl.acm.org/doi/10.1145/3544548.3581187) CHI 2023
+#### Monday: Holiday (Presidents Day)
+No readings
+
 #### Wednesday
+Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
+Baughan et al. ["'I Don’t Even Remember What I Read': How Design Influences Dissociation on Social Media"](https://dl.acm.org/doi/pdf/10.1145/3491102.3501899) CHI 2022   
+
 
 #### Friday
-Xu et al. ["TypeOut: Leveraging Just-in-Time Self-Affirmation for Smartphone Overuse Reduction"](https://dl.acm.org/doi/abs/10.1145/3491102.3517476) CHI 2022    
+Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets](https://dl.acm.org/doi/10.1145/3544548.3581187) CHI 2023    
+Xu et al. ["TypeOut: Leveraging Just-in-Time Self-Affirmation for Smartphone Overuse Reduction"](https://dl.acm.org/doi/abs/10.1145/3491102.3517476) CHI 2022      
 <!-- ## Week 8: Special Communities
 
 #### Monday: Neurodivergent users

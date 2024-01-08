@@ -102,13 +102,15 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 ## Week 4: Misinformation, Radicalization, & Conspiracies
 
-#### Monday
-David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/classes/ucas/2018-summer/p/science-fake-news-2018.pdf) Science 2018     
+#### Monday  
 Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   
+Prochaska et al. ["Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election"](https://dl.acm.org/doi/abs/10.1145/3579616) CSCW 2023    
+<!-- David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/classes/ucas/2018-summer/p/science-fake-news-2018.pdf) Science 2018     -->
 
-#### Wednesday
-Prochaska et al. [Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election](https://dl.acm.org/doi/abs/10.1145/3579616) CSCW 2023    
-Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020     
+#### Wednesday  
+Phadke et al. ["What Makes People Join Conspiracy Communities?: Role of Social Factors in Conspiracy Engagement"](https://dl.acm.org/doi/abs/10.1145/3432922) CSCW 2020   
+Jahanbakhsh et al. ["Leveraging Structured Trusted-Peer Assessments to Combat Misinformation"](https://dl.acm.org/doi/abs/10.1145/3555637) CSCW 2022    
+<!-- Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020  -->   
 
 
 #### Friday

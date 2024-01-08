@@ -163,7 +163,7 @@ Cotter ["Playing the visibility game: How digital influencers and algorithms neg
 Choi et al. [Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms](https://dl.acm.org/doi/abs/10.1145/3544548.3581386) CHI 2023
 
 #### Friday
-Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators](https://dl.acm.org/doi/10.1145/3610095) CSCW 2023
+Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators](https://dl.acm.org/doi/10.1145/3610095) CSCW 2023     
 Fiesler et al. [Reality and Perception of Copyright Terms of Service for Online Content Creation](https://dl.acm.org/doi/abs/10.1145/2818048.2819931) CSCW 2016
 
 ## Week 7: Overuse

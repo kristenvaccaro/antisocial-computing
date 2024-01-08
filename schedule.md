@@ -149,7 +149,7 @@ Register et al. ["Attached to “The Algorithm”: Making Sense of Algorithmic P
 
 #### Monday
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021    
-Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019 
+Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019    
 _Optional:_ Kim ["Tinder Project"](https://web.archive.org/web/20221004010134/http://jiyeonkim.de/albums/tinder-project-1/)   
 <!-- (http://jiyeonkim.de/albums/tinder-project-1/)   -->
 <!-- Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021   -->

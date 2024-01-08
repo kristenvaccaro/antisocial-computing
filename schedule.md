@@ -170,7 +170,7 @@ Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict 
 #### Wednesday
 
 #### Friday
-
+Xu et al. ["TypeOut: Leveraging Just-in-Time Self-Affirmation for Smartphone Overuse Reduction"](https://dl.acm.org/doi/abs/10.1145/3491102.3517476) CHI 2022    
 <!-- ## Week 8: Special Communities
 
 #### Monday: Neurodivergent users

@@ -14,9 +14,7 @@ Writing assignments will be due at 5PM Friday, every week.
 
 ## Week 1 Assignments (Final Project Teams, Signups for Presenting, Leading Discussion, Scribing)  
 
-Sign up to present, lead discussion and scribe: https://docs.google.com/spreadsheets/d/1qX3V0SEcqJV2yoQ8G3O4tYGovvPN05OsIS2HGnc-KAY/edit?usp=sharing  
-
-Complete the introductions survey (used for final project team formation): https://forms.gle/TJ5qqw7znQrtjepPA  
+Sign up to present, lead discussion and scribe: https://docs.google.com/spreadsheets/d/1qX3V0SEcqJV2yoQ8G3O4tYGovvPN05OsIS2HGnc-KAY/edit?usp=sharing    
 
 ## Critique 
 
@@ -33,7 +31,7 @@ Detailed [instructions for presentations here](https://kristenvaccaro.github.io/
 
 ## Final Project
 
-Final projects can be done as a small group (max size: 4) or individually. You can choose to create a new platform/interaction, design an experience around an existing system, or conduct an analysis. Half of each Monday class session will be a design studio where you work with your group on this project and get feedback from your peers. 
+Final projects can be done as a small group (max size: 4) or individually. You can choose to create a new platform/interaction, design an experience around an existing system, or conduct an analysis.  
 
 [Detailed instructions here](https://kristenvaccaro.github.io/antisocial-computing/final-project.html)
 

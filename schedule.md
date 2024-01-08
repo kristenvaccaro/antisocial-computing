@@ -148,6 +148,7 @@ Register et al. ["Attached to “The Algorithm”: Making Sense of Algorithmic P
 ## Week 6: Influencers & Authenticity
 
 #### Monday
+Hancock et al. [The Truth about Lying in Online Dating Profiles](https://dl.acm.org/doi/10.1145/1240624.1240697) CHI 2007   
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021    
 Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019    
 _Optional:_ Kim ["Tinder Project"](https://web.archive.org/web/20221004010134/http://jiyeonkim.de/albums/tinder-project-1/)   
@@ -157,10 +158,11 @@ _Optional:_ Kim ["Tinder Project"](https://web.archive.org/web/20221004010134/ht
 #### Wednesday
 <!-- Turner et al. [Racial Capitalism Online: Pressures to Perform Race Among Creative Professionals]() CSCW 2023 -->
 Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
-Choi et al. [Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms]() CHI 2023
+Choi et al. [Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms](https://dl.acm.org/doi/abs/10.1145/3544548.3581386) CHI 2023
 
 #### Friday
-Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators]() CSCW 2023
+Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators](https://dl.acm.org/doi/10.1145/3610095) CSCW 2023
+Fiesler et al. [Reality and Perception of Copyright Terms of Service for Online Content Creation](https://dl.acm.org/doi/abs/10.1145/2818048.2819931) CSCW 2016
 
 ## Week 7: Overuse
 

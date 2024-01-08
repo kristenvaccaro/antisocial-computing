@@ -14,13 +14,13 @@ Writing assignments will be due at 5PM Friday, every week.
 
 ## Week 1 Assignments (Final Project Teams, Signups for Presenting, Leading Discussion, Scribing)  
 
-Sign up to present, lead discussion and scribe: https://docs.google.com/spreadsheets/d/1qX3V0SEcqJV2yoQ8G3O4tYGovvPN05OsIS2HGnc-KAY/edit?usp=sharing    
+Sign up to present and lead discussion **twice** (2x present, 2x lead discussion): https://docs.google.com/spreadsheets/d/1tq-4L7oTREPUxCSXzlxk0xo7Tvv2iIJ2vxuR6rIVayQ/edit?usp=sharing      
 
 ## Critique 
 
-You will need to write a [critique](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on one of the readings for this class. A critique is also due one week after the reading is discussed in class.
+You will need to write one [critique](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on one of the readings for this class. A critique is also due one week after the reading is discussed in class. You do not need to inform us which reading you plan to write the critique for.   
 
-If you do not receive an A, you may resubmit up to two times. 
+If you do not receive an A, you may resubmit up to two times. Note this is only available if you pick an early week (i.e., feedback can take up to one week, so after week 5 you are not guaranteed to be able to use both submissions).  
 
 ## Presenting & Leading Discussion
 

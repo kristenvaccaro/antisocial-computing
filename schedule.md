@@ -198,9 +198,9 @@ Bellini et al. ["'So-called privacy breeds evil': Narrative Justifications for I
 Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021  
 Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects of Privacy"](https://dl.acm.org/doi/pdf/10.1145/3415172) CSCW 2020  
 
-## Week 9: Trolling
+## Week 9: Student Choice
 
-#### Monday: Visiting Speaker
+<!-- #### Monday: Visiting Speaker
 
 #### Wednesday
 
@@ -211,7 +211,7 @@ Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.or
 MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
 Graham ["Boundary maintenance and the origins of trolling"](https://journals.sagepub.com/doi/pdf/10.1177/1461444819837561) New Media & Society 2019  
 Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws/portalfiles/portal/49057034/Cook_Everything_22_01_2021.pdf) Tillburg University Dissertation 2021 _Note: only read Chapter 5 (A Bystander State of Mind)_    
-
+-->
 
 <!--_Art:_ Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)  
 Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015  -->

@@ -43,7 +43,7 @@ Thomas et al. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse
 
 #### Friday   
 Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspectives](https://www.usenix.org/system/files/soups2021-kumar.pdf) SOUPS 2021     
-Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance]() CSCW 2023    
+Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators": Understanding Black Content Creator Experiences on TikTok]() CSCW 2023   
 
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/ESBT_dutzSYtpuBxaHz_T6dNyX3ITPfSS7Q4h8uEd0Avx7kAj4TA_Qluajppyrdl.C8QWlt8TctjmYVK_)  
 [Class Recording](https://ucsd.zoom.us/rec/share/KE5fC1-lHD-Dbrp6A5P0Qq6mAdO2w3ozqqGvLnKLJVzUbIw4cRkfvWf56U6EIJcm.P1zLBt3KuX6RwpLb)   -->
@@ -52,6 +52,7 @@ Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderatio
 
 #### Monday
 Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019    
+Ma et al. [Transparency, Fairness, and Coping: How Players Experience Moderation in Multiplayer Online Games](https://dl.acm.org/doi/10.1145/3544548.3581097) CHI 2023
 
 #### Wednesday
 Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   
@@ -60,6 +61,7 @@ Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView]() CSCW 2023
 #### Friday
 Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor](https://dl.acm.org/doi/10.1145/3610080) CSCW 2023  
 
+Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance]() CSCW 2023    
 
 <!--
 #### Monday: Platform Governance  

@@ -42,6 +42,8 @@ Kate Klonick [“The New Governors: The People, Rules, and Processes Governing O
 Thomas et al. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://par.nsf.gov/servlets/purl/10295029) IEEE S&P 2021       
 
 #### Friday   
+Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspectives](https://www.usenix.org/system/files/soups2021-kumar.pdf) SOUPS 2021
+Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance]() CSCW 2023
 
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/ESBT_dutzSYtpuBxaHz_T6dNyX3ITPfSS7Q4h8uEd0Avx7kAj4TA_Qluajppyrdl.C8QWlt8TctjmYVK_)  
 [Class Recording](https://ucsd.zoom.us/rec/share/KE5fC1-lHD-Dbrp6A5P0Qq6mAdO2w3ozqqGvLnKLJVzUbIw4cRkfvWf56U6EIJcm.P1zLBt3KuX6RwpLb)   -->

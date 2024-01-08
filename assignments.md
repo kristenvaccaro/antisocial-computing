@@ -38,4 +38,7 @@ Final projects can be done as a small group (max size: 4) or individually. You c
 
 ## Final Exam - OPTIONAL
 
-An optional final exam will be offered for extra credit. The final exam will evaluate your understanding of the material for the entire quarter. It will consist of open-ended questions, similar to the in-person discussions. The final exam time is set by the university, and can be found on Blink.  
+A final exam will be offered. For most students, it is optional and can be used for extra credit. It is required for any students using this class for their MS Comprehensive Exam requirements.   
+
+The final exam will evaluate your understanding of the material for the entire quarter. It will consist of open-ended questions, similar to the in-person discussions. It will be an oral exam; you will sign up for a time slot, I will ask you questions, and you will answer them verbally. The final exam time is set by the university, and can be found on Blink.  
+ 

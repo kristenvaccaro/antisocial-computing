@@ -107,13 +107,13 @@ David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/cl
 Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   
 
 #### Wednesday
-Prochaska et al. [Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election]() CSCW 2023
-Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021   
+Prochaska et al. [Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election]() CSCW 2023    
 Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020     
 
 
 #### Friday
 Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021   
+Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021  
 
 <!--[Class Recording](https://ucsd.zoom.us/rec/share/GMZz6qkdEEjldBXS2dhZjbLV4KalZCHinkOsB7IzOmN-hU0zb5AQGE3hcz6vMhco.sqKZp6vxSvzAHzgY)    
 [Class Recording](https://ucsd.zoom.us/rec/share/tHmRG9csvM2kpn6ldP4pNdZs_hXkWccbrUgFywOi6K9oKcDv8yJ-YHw0w1ol_i9y.XOcaQYcPFuHoYOlN)   -->
@@ -141,27 +141,25 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 #### Friday
 Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     
-Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020    
+<!-- Mayworm et al. [Content Moderation Folk Theories And Perceptions of Platform Spirit Among Marginalized Social Media Users]() -->
+Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020     
 
 
 ## Week 6: Influencers & Authenticity
 
 #### Monday
-Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
-
 Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
-Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021   
-
-
-Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019 
+<!-- Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021   -->
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021    
-
-Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators]() CSCW 2023
+Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019 
 
 #### Wednesday
-Turner et al. [Racial Capitalism Online: Pressures to Perform Race Among Creative Professionals]() CSCW 2023
+<!-- Turner et al. [Racial Capitalism Online: Pressures to Perform Race Among Creative Professionals]() CSCW 2023 -->
+Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
+Choi et al. [Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms]() CHI 2023
 
 #### Friday
+Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators]() CSCW 2023
 
 ## Week 7: Overuse
 

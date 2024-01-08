@@ -39,7 +39,7 @@ No readings
 
 #### Wednesday
 Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018     
-Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020      
+Thomas et al. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://par.nsf.gov/servlets/purl/10295029) IEEE S&P 2021       
 
 #### Friday   
 Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019     
@@ -62,6 +62,8 @@ Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Gove
 Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019     
 Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021  
 -->
+
+Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   
 
 ## Week 3: Algorithmic Nudging 
 #### Monday 

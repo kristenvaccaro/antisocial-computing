@@ -131,7 +131,7 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 -->
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
-## Week 5: Algorithmic Nudging 
+## Week 5: Algorithmic Nudging (Filter Bubbles & Beyond)
 #### Monday - Visiting Speaker
 Shahid et al. ["Examining Source Effects on Perceptions of Fake News in Rural India"](https://dl.acm.org/doi/abs/10.1145/3512936) CSCW 2022      
 

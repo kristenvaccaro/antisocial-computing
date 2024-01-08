@@ -132,15 +132,17 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
 ## Week 5: Algorithmic Nudging 
-#### Monday 
-Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     
-Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020    
+#### Monday - Visiting Speaker
+Shahid et al. ["Examining Source Effects on Perceptions of Fake News in Rural India"](https://dl.acm.org/doi/abs/10.1145/3512936) CSCW 2022      
 
 #### Wednesday 
 Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Facebook”](https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf) Science 2015   
-Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020   
+Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020  
 
 #### Friday
+Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     
+Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020    
+
 
 ## Week 6: Influencers & Authenticity
 

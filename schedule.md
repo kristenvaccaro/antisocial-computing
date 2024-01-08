@@ -32,7 +32,7 @@ Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/sk-yx5f8U6Jku2JbeP_TMYx4uCiDQNWGbYhxTaULj6UdrTij5s16PbSDyjiQi0hF.AioNDOVz9zJk7LTE)   -->
 
 
-## Week 2: Content Moderation
+## Week 2: Content Moderation - Foundations
 
 #### Monday: Holiday (Martin Luther King Jr. Day)    
 No readings   
@@ -42,11 +42,21 @@ Kate Klonick [“The New Governors: The People, Rules, and Processes Governing O
 Thomas et al. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://par.nsf.gov/servlets/purl/10295029) IEEE S&P 2021       
 
 #### Friday   
-Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019     
-Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor](https://dl.acm.org/doi/10.1145/3610080) CSCW 2023  
 
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/ESBT_dutzSYtpuBxaHz_T6dNyX3ITPfSS7Q4h8uEd0Avx7kAj4TA_Qluajppyrdl.C8QWlt8TctjmYVK_)  
 [Class Recording](https://ucsd.zoom.us/rec/share/KE5fC1-lHD-Dbrp6A5P0Qq6mAdO2w3ozqqGvLnKLJVzUbIw4cRkfvWf56U6EIJcm.P1zLBt3KuX6RwpLb)   -->
+
+## Week 3: Content Moderation - New Directions
+
+#### Monday
+Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019    
+
+#### Wednesday
+Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   
+Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView]() CSCW 2023
+
+#### Friday
+Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor](https://dl.acm.org/doi/10.1145/3610080) CSCW 2023  
 
 
 <!--
@@ -63,7 +73,7 @@ Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior 
 Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021  
 -->
 
-Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   
+
 
 ## Week 3: Algorithmic Nudging 
 #### Monday 
@@ -151,8 +161,10 @@ Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Supp
 Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019 
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021    
 
+Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators]() CSCW 2023
 
 #### Wednesday
+Turner et al. [Racial Capitalism Online: Pressures to Perform Race Among Creative Professionals]() CSCW 2023
 
 #### Friday
 

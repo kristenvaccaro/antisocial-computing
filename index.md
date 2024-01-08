@@ -1,4 +1,4 @@
-# Antisocial Computing: Winter 2023
+# Antisocial Computing: Winter 2024
 
 <img src="https://github.com/kristenvaccaro/antisocial-computing/blob/gh-pages/img/05onfire1_xp-superJumbo-v2.jpeg?raw=true" width="400">
 

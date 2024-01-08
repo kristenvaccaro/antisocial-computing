@@ -27,7 +27,7 @@ boyd ["Streams of Content, Limited Attention"](https://www.danah.org/papers/talk
 Gilbert ["Widespread Underprovision on Reddit"](http://comp.social.gatech.edu/papers/cscw13.reddit.gilbert.pdf) CSCW 2013   
 
 #### Friday
-Smith ["How TikTok Reads Your Mind"](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html) New York Times 2021   
+Smith ["How TikTok Reads Your Mind"](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html) New York Times 2021    
 Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.acm.org/doi/pdf/10.1145/3411764.3445467) CHI 2021   
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/sk-yx5f8U6Jku2JbeP_TMYx4uCiDQNWGbYhxTaULj6UdrTij5s16PbSDyjiQi0hF.AioNDOVz9zJk7LTE)   -->
 
@@ -42,8 +42,8 @@ Kate Klonick [“The New Governors: The People, Rules, and Processes Governing O
 Thomas et al. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://par.nsf.gov/servlets/purl/10295029) IEEE S&P 2021       
 
 #### Friday   
-Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspectives](https://www.usenix.org/system/files/soups2021-kumar.pdf) SOUPS 2021
-Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance]() CSCW 2023
+Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspectives](https://www.usenix.org/system/files/soups2021-kumar.pdf) SOUPS 2021     
+Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance]() CSCW 2023    
 
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/ESBT_dutzSYtpuBxaHz_T6dNyX3ITPfSS7Q4h8uEd0Avx7kAj4TA_Qluajppyrdl.C8QWlt8TctjmYVK_)  
 [Class Recording](https://ucsd.zoom.us/rec/share/KE5fC1-lHD-Dbrp6A5P0Qq6mAdO2w3ozqqGvLnKLJVzUbIw4cRkfvWf56U6EIJcm.P1zLBt3KuX6RwpLb)   -->

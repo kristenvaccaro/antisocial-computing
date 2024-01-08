@@ -12,7 +12,7 @@ Detailed [instructions for critiques here](https://kristenvaccaro.github.io/anti
 Writing assignments will be due at 5PM Friday, every week.  
 -->
 
-## Week 1 Assignments (Final Project Teams, Signups for Presenting, Leading Discussion, Scribing)  
+## Week 1 Assignments (Signups for Presenting, Leading Discussion)  
 
 Sign up to present and lead discussion **twice** (2x present, 2x lead discussion): https://docs.google.com/spreadsheets/d/1tq-4L7oTREPUxCSXzlxk0xo7Tvv2iIJ2vxuR6rIVayQ/edit?usp=sharing      
 

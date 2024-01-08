@@ -178,14 +178,6 @@ Baughan et al. ["'I Don’t Even Remember What I Read': How Design Influences Di
 #### Friday
 Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets](https://dl.acm.org/doi/10.1145/3544548.3581187) CHI 2023      
 Xu et al. ["TypeOut: Leveraging Just-in-Time Self-Affirmation for Smartphone Overuse Reduction"](https://dl.acm.org/doi/abs/10.1145/3491102.3517476) CHI 2022      
-<!-- ## Week 8: Special Communities
-
-#### Monday: Neurodivergent users
-Pena et al. ["My Perfect Platform Would Be Telepathy" - Reimagining the Design of Social Media with Autistic Adults](https://dl.acm.org/doi/10.1145/3544548.3580673) CHI 2023
-
-#### Wednesday: Children
-
-#### Friday: -->
 
 ## Week 8: Surveillance & Privacy
 

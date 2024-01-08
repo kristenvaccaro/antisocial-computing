@@ -43,7 +43,7 @@ _Optional:_ Thomas et al. [SoK: Hate, Harassment, and the Changing Landscape of 
 
 #### Friday   
 Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspectives](https://www.usenix.org/system/files/soups2021-kumar.pdf) SOUPS 2021     
-Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators": Understanding Black Content Creator Experiences on TikTok]() CSCW 2023   
+Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators": Understanding Black Content Creator Experiences on TikTok](https://dl.acm.org/doi/10.1145/3610169) CSCW 2023   
 
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/ESBT_dutzSYtpuBxaHz_T6dNyX3ITPfSS7Q4h8uEd0Avx7kAj4TA_Qluajppyrdl.C8QWlt8TctjmYVK_)  
 [Class Recording](https://ucsd.zoom.us/rec/share/KE5fC1-lHD-Dbrp6A5P0Qq6mAdO2w3ozqqGvLnKLJVzUbIw4cRkfvWf56U6EIJcm.P1zLBt3KuX6RwpLb)   -->
@@ -52,7 +52,7 @@ Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators":
 
 #### Monday
 Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   
-Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView]() CSCW 2023  
+Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView](https://dl.acm.org/doi/10.1145/3610077) CSCW 2023  
 <!-- Ma et al. [Transparency, Fairness, and Coping: How Players Experience Moderation in Multiplayer Online Games](https://dl.acm.org/doi/10.1145/3544548.3581097) CHI 2023 -->
 
 #### Wednesday
@@ -61,8 +61,8 @@ Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectiv
 
 
 #### Friday  
-Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance]() CSCW 2023    
-Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power]() CSCW 2023
+Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance](https://dl.acm.org/doi/10.1145/3610030) CSCW 2023    
+Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power](https://dl.acm.org/doi/10.1145/3610047) CSCW 2023
 
 <!--
 #### Monday: Platform Governance  
@@ -107,12 +107,12 @@ David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/cl
 Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   
 
 #### Wednesday
-Prochaska et al. [Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election]() CSCW 2023    
-Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020     
+Prochaska et al. [Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election](https://dl.acm.org/doi/abs/10.1145/3579616) CSCW 2023    
+Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020     
 
 
 #### Friday
-Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021   
+Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021    
 Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021  
 
 <!--[Class Recording](https://ucsd.zoom.us/rec/share/GMZz6qkdEEjldBXS2dhZjbLV4KalZCHinkOsB7IzOmN-hU0zb5AQGE3hcz6vMhco.sqKZp6vxSvzAHzgY)    
@@ -170,12 +170,11 @@ Fiesler et al. [Reality and Perception of Copyright Terms of Service for Online 
 No readings
 
 #### Wednesday
-Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
+Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)     
 Baughan et al. ["'I Don’t Even Remember What I Read': How Design Influences Dissociation on Social Media"](https://dl.acm.org/doi/pdf/10.1145/3491102.3501899) CHI 2022   
 
-
 #### Friday
-Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets](https://dl.acm.org/doi/10.1145/3544548.3581187) CHI 2023    
+Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets](https://dl.acm.org/doi/10.1145/3544548.3581187) CHI 2023      
 Xu et al. ["TypeOut: Leveraging Just-in-Time Self-Affirmation for Smartphone Overuse Reduction"](https://dl.acm.org/doi/abs/10.1145/3491102.3517476) CHI 2022      
 <!-- ## Week 8: Special Communities
 
@@ -190,15 +189,15 @@ Pena et al. ["My Perfect Platform Would Be Telepathy" - Reimagining the Design o
 
 #### Monday
 Duffy et al. [“‘You never really know who’s looking’: Imagined surveillance across social media platforms”](https://journals.sagepub.com/doi/full/10.1177/1461444818791318) New Media & Society 2018 Link    
-Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015  
+Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015   
 
 #### Wednesday
-Tseng et al. [The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums](https://www.usenix.org/system/files/sec20-tseng.pdf) USENIX 2020
-Bellini et al. ["'So-called privacy breeds evil': Narrative Justifications for Intimate Partner Surveillance in Online Forums"](https://dl.acm.org/doi/10.1145/3432909) CSCW 2020
+Tseng et al. [The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums](https://www.usenix.org/system/files/sec20-tseng.pdf) USENIX 2020    
+Bellini et al. ["'So-called privacy breeds evil': Narrative Justifications for Intimate Partner Surveillance in Online Forums"](https://dl.acm.org/doi/10.1145/3432909) CSCW 2020    
 
 #### Friday
-Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021  
-Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects of Privacy"](https://dl.acm.org/doi/pdf/10.1145/3415172) CSCW 2020  
+Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021    
+Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects of Privacy"](https://dl.acm.org/doi/pdf/10.1145/3415172) CSCW 2020     
 
 ## Week 9: Student Choice
 

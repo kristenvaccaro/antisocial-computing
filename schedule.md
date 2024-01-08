@@ -217,7 +217,7 @@ Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws
 Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015  -->
 
 
-<! --## Week 9: Students Choice -->
+<!--## Week 9: Students Choice -->
 
 
 <!--#### Topics: Trolling, Racism, Sexism, Activism

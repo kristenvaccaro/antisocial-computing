@@ -174,7 +174,25 @@ Pena et al. ["My Perfect Platform Would Be Telepathy" - Reimagining the Design o
 
 #### Friday:
 
-## Week 9: Students Choice 
+## Week 9: Surveillance & Privacy
+
+#### Monday
+Duffy et al. [“‘You never really know who’s looking’: Imagined surveillance across social media platforms”](https://journals.sagepub.com/doi/full/10.1177/1461444818791318) New Media & Society 2018 Link    
+Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015  
+
+
+#### Wednesday
+
+#### Friday
+Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021  
+Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects of Privacy"](https://dl.acm.org/doi/pdf/10.1145/3415172) CSCW 2020  
+
+
+<!--_Art:_ Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)  
+Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015  -->
+
+
+<! --## Week 9: Students Choice -->
 
 
 <!--#### Topics: Trolling, Racism, Sexism, Activism
@@ -233,15 +251,9 @@ Wall Street Journal [Trapped in the Metaverse: Here's What 24 Hours in VR Feels 
 Poretski et al. [Normative Tensions in Shared Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3274411) CSCW 2018 -->
 
 
-## Week 9: Surveillance & Privacy
 
-_Art:_ Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)  
-Duffy et al. [“‘You never really know who’s looking’: Imagined surveillance across social media platforms”](https://journals.sagepub.com/doi/full/10.1177/1461444818791318) New Media & Society 2018 Link    
-Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021  
-Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015  
-Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects of Privacy"](https://dl.acm.org/doi/pdf/10.1145/3415172) CSCW 2020  
-[Class Recording](https://ucsd.zoom.us/rec/share/2e1nC0nl-v49HzUB3JdTfPvov-d5rC23uQTvr6jCtzieC0Ok2zLvBGjsaUlor5L8.aSwaIk_TQSILxOM6)    
-[Class Recording](https://ucsd.zoom.us/rec/share/Bc0E7biRX6pY9qf_zUhL_BoCdMxZTxYK4zH4Kfc4ll5d0-WtMolFajUF-d-a8A-A.lE8AAa1Pjvf-0YQT)    
+<!-- [Class Recording](https://ucsd.zoom.us/rec/share/2e1nC0nl-v49HzUB3JdTfPvov-d5rC23uQTvr6jCtzieC0Ok2zLvBGjsaUlor5L8.aSwaIk_TQSILxOM6)    
+[Class Recording](https://ucsd.zoom.us/rec/share/Bc0E7biRX6pY9qf_zUhL_BoCdMxZTxYK4zH4Kfc4ll5d0-WtMolFajUF-d-a8A-A.lE8AAa1Pjvf-0YQT)    -->
 
 <!--
 #### Monday: Surveillance    

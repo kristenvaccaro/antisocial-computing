@@ -80,7 +80,7 @@ Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence 
 
 
 
-## Week 3: Algorithmic Nudging 
+## Week 4: Algorithmic Nudging 
 #### Monday 
 Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     
 Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020    
@@ -109,7 +109,7 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 
 
-## Week 4: Misinformation, Radicalization, & Conspiracies
+## Week 5: Misinformation, Radicalization, & Conspiracies
 
 #### Monday
 David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/classes/ucas/2018-summer/p/science-fake-news-2018.pdf) Science 2018     
@@ -140,19 +140,6 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 -->
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
-## Week 5: Trolling
-
-#### Monday: Visiting Speaker
-
-#### Wednesday
-
-#### Friday
-
-Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
-Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
-MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
-Graham ["Boundary maintenance and the origins of trolling"](https://journals.sagepub.com/doi/pdf/10.1177/1461444819837561) New Media & Society 2019  
-Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws/portalfiles/portal/49057034/Cook_Everything_22_01_2021.pdf) Tillburg University Dissertation 2021 _Note: only read Chapter 5 (A Bystander State of Mind)_    
 
 ## Week 6: Influencers & Authenticity
 
@@ -191,7 +178,7 @@ Pena et al. ["My Perfect Platform Would Be Telepathy" - Reimagining the Design o
 
 #### Friday:
 
-## Week 9: Surveillance & Privacy
+## Week 8: Surveillance & Privacy
 
 #### Monday
 Duffy et al. [“‘You never really know who’s looking’: Imagined surveillance across social media platforms”](https://journals.sagepub.com/doi/full/10.1177/1461444818791318) New Media & Society 2018 Link    
@@ -203,6 +190,20 @@ Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewardin
 #### Friday
 Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021  
 Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects of Privacy"](https://dl.acm.org/doi/pdf/10.1145/3415172) CSCW 2020  
+
+## Week 9: Trolling
+
+#### Monday: Visiting Speaker
+
+#### Wednesday
+
+#### Friday
+
+Adrienne Massanari [“#Gamergate and The Fappening": How Reddit’s algorithm, governance, and culture support toxic technocultures”](https://journals.sagepub.com/doi/full/10.1177/1461444815608807) New Media & Society 2015  
+Whitney Phillips [“This Is Why We Can't Have Nice Things](https://www.jstor.org/stable/j.ctt17kk8k7)
+MIT Press 2015 _Note: only read Introduction and Chapter 9 (Where Do We Go from Here?)_   
+Graham ["Boundary maintenance and the origins of trolling"](https://journals.sagepub.com/doi/pdf/10.1177/1461444819837561) New Media & Society 2019  
+Cook ["Everything You Never Wanted to Know about Trolls"](https://pure.uvt.nl/ws/portalfiles/portal/49057034/Cook_Everything_22_01_2021.pdf) Tillburg University Dissertation 2021 _Note: only read Chapter 5 (A Bystander State of Mind)_    
 
 
 <!--_Art:_ Lauren McCarthy [“Follower”](https://lauren-mccarthy.com/Follower)  

@@ -51,17 +51,18 @@ Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators":
 ## Week 3: Content Moderation - New Directions
 
 #### Monday
-Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019    
-Ma et al. [Transparency, Fairness, and Coping: How Players Experience Moderation in Multiplayer Online Games](https://dl.acm.org/doi/10.1145/3544548.3581097) CHI 2023
+Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   
+Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView]() CSCW 2023  
+<!-- Ma et al. [Transparency, Fairness, and Coping: How Players Experience Moderation in Multiplayer Online Games](https://dl.acm.org/doi/10.1145/3544548.3581097) CHI 2023 -->
 
 #### Wednesday
 Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   
-Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView]() CSCW 2023
-
-#### Friday
 Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor](https://dl.acm.org/doi/10.1145/3610080) CSCW 2023  
 
+
+#### Friday  
 Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance]() CSCW 2023    
+Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power]() CSCW 2023
 
 <!--
 #### Monday: Platform Governance  
@@ -176,7 +177,7 @@ Turner et al. [Racial Capitalism Online: Pressures to Perform Race Among Creativ
 
 #### Monday
 Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
-
+Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets]
 #### Wednesday
 
 #### Friday

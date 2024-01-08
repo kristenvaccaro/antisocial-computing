@@ -16,7 +16,7 @@ None
 
 _Slides: [Friday](https://s3.amazonaws.com/kvaccaro.com/teaching/human-ai-interaction/slides/CSE190_20210924_Introduction+.pdf)_ -->
 
-## Week 1: Foundations
+## Week 1: Attention
 
 #### Monday: Introduction
 No readings

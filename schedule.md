@@ -51,8 +51,8 @@ Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators":
 ## Week 3: Content Moderation - New Directions
 
 #### Monday
-Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   
-Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView](https://dl.acm.org/doi/10.1145/3610077) CSCW 2023  
+Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView](https://dl.acm.org/doi/10.1145/3610077) CSCW 2023    
+Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance](https://dl.acm.org/doi/10.1145/3610030) CSCW 2023    
 <!-- Ma et al. [Transparency, Fairness, and Coping: How Players Experience Moderation in Multiplayer Online Games](https://dl.acm.org/doi/10.1145/3544548.3581097) CHI 2023 -->
 
 #### Wednesday
@@ -61,7 +61,7 @@ Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectiv
 
 
 #### Friday  
-Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance](https://dl.acm.org/doi/10.1145/3610030) CSCW 2023    
+Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   
 Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power](https://dl.acm.org/doi/10.1145/3610047) CSCW 2023
 
 <!--

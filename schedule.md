@@ -140,18 +140,19 @@ Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Fa
 Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020  
 
 #### Friday
-Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     
-<!-- Mayworm et al. [Content Moderation Folk Theories And Perceptions of Platform Spirit Among Marginalized Social Media Users]() -->
 Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020     
-
+Register et al. ["Attached to “The Algorithm”: Making Sense of Algorithmic Precarity on Instagram"](https://dl.acm.org/doi/10.1145/3544548.3581257) CHI 2023
+<!-- Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     -->
+<!-- Mayworm et al. [Content Moderation Folk Theories And Perceptions of Platform Spirit Among Marginalized Social Media Users]() -->
 
 ## Week 6: Influencers & Authenticity
 
 #### Monday
-Kim ["Tinder Project"](http://jiyeonkim.de/albums/tinder-project-1/)   
-<!-- Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021   -->
 Haimson et al. ["The Online Authenticity Paradox: What Being 'Authentic' on Social Media Means, and Barriers to Achieving It”](http://oliverhaimson.com/PDFs/HaimsonOnlineAuthenticityParadox.pdf) CSCW 2021    
 Invisibilia ["The Online Version of Us Versus Reality"](https://www.npr.org/2019/03/15/703687080/invisibilia-the-online-version-of-us-versus-reality) 2019 
+_Optional:_ Kim ["Tinder Project"](https://web.archive.org/web/20221004010134/http://jiyeonkim.de/albums/tinder-project-1/)   
+<!-- (http://jiyeonkim.de/albums/tinder-project-1/)   -->
+<!-- Barta et al. ["Constructing Authenticity on TikTok: Social Norms and Social Support on the 'Fun' Platform](https://dl.acm.org/doi/pdf/10.1145/3479574) CSCW 2021   -->
 
 #### Wednesday
 <!-- Turner et al. [Racial Capitalism Online: Pressures to Perform Race Among Creative Professionals]() CSCW 2023 -->
@@ -165,7 +166,7 @@ Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns 
 
 #### Monday
 Grosser [“Facebook/Instagram/Twitter Demetricator”](https://vimeo.com/63460083) [Additional information](https://bengrosser.com/projects/facebook-demetricator/)   
-Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets]
+Purohit et al. [Starving the Newsfeed for Social Media Detox: Effects of Strict and Self-regulated Facebook Newsfeed Diets](https://dl.acm.org/doi/10.1145/3544548.3581187) CHI 2023
 #### Wednesday
 
 #### Friday

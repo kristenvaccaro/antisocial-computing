@@ -7,11 +7,11 @@
 ## Logistics
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/antisocial-computing) and [Canvas](https://canvas.ucsd.edu/)   
-Classroom: CSE Building 2154   
-Zoom link: [https://ucsd.zoom.us/j/93052870267](https://ucsd.zoom.us/j/93052870267)     
-Class Days and Times: Monday Wednesday 12:30PM   
+Classroom: Warren Lecture Hall 
 
-Recording of Course Logistics (Class 1): https://ucsd.zoom.us/rec/share/obI-W9AO7CQjtRLvFeghQxVsQbmGzL328nTt7IgXZqQ6ruR4jcuPuX5k5Vde4ZNj.9sCzX44tgmWYa4QB   
+Class Days and Times: Monday Wednesday Friday 1PM   
+
+Recording of Course Logistics (Class 1): Coming   
 
 ## Instructors
 
@@ -19,19 +19,15 @@ Recording of Course Logistics (Class 1): https://ucsd.zoom.us/rec/share/obI-W9AO
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
 Zoom Office Hours: https://ucsd.zoom.us/my/kvaccaro   
 Office: 3226 CSE  
-Office Hours: Tuesday 2-3 on Zoom      
+Office Hours: TBD      
 
-TAs  
-Hayden McTavish    
-hmctavish@ucsd.edu  
-Office Hours: Monday 2-3 PM in B215 CSE  (Starting 1/16)
+TA  
+Eric Xiao    
+erxiao@ucsd.edu  
+Office Hours: TBD
 <!--msmart@ucsd.edu  
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
 -->
-
-Sanjana Balamurugan  
-sabalamurugan@ucsd.edu  
-Office Hours: Thursday 2:30 - 3:30 PM on Zoom https://ucsd.zoom.us/j/6140355534
 
 ## Communication
 
@@ -63,18 +59,20 @@ By default office hours will be group-office hours, as many students will have s
 Percentage | Activity
 --- | ---
 30% | Active Class Participation
-10% | Scribing
-10% | Presentation
+10% | Critique  
+20% | Presentation
 20% | Lead Discussion
-30% | Final Project
+20% | Final Project
 OPTIONAL | Final Exam
 
 Readings should be completed before the start of class    
-Written homeworks are due Friday 5 PM
+Written homeworks are due one week after the class where the reading is covered, 5PM
 
-Absence Policy: You will receive *3 free missing days* that can used to miss class (due to conference travel/attendance, illness, or any other committments). You do not need to contact us in advance to use those days, we will drop your lowest attendance scores. If you will miss more than 3 days of class (e.g., you contract COVID and need to quarantine), please contact us ASAP. 
+Absence Policy: You will receive *3 free missing days* that can used to miss class (due to conference travel/attendance, illness, or any other committments). You do not need to contact us in advance to use those days, we will drop your lowest attendance scores. If you miss more than 3 days of class, you will lose 25% of the total participation portion of your grade for each day you miss. This means if you miss 7 days of class, you will earn a zero for the participation part of the grade.   
 
-Late Policy: You will receive *5 free late days* that can be used for writing assignments. You do not need to contact us in advance to use those late days. Beyond those days, you receive a 10% penalty for each day late.
+If your absence is excused (e.g., you contract COVID and need to quarantine), please contact us ASAP; in this case, you will not lose points even if you already missed your 3 free classes. 
+
+Late Policy: You will receive *5 free late days* that can be used for writing assignments. You do not need to contact us in advance to use those late days. 
 
 ## Inclusion Statement
 It is my hope that we will develop a supportive learning community that will foster rich discussions through the sharing of personal ideas, experiences, and interpretations of the course material. Honesty, listening for understanding, a willingness to share your ideas, and respect for self and others are basic guidelines that can help create a positive learning environment. Your participation and feedback is important to the success of the course and I welcome your thoughts throughout the semester on how we might improve class processes that will encourage effective communication and dialogue.

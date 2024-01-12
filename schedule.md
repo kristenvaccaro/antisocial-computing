@@ -202,6 +202,7 @@ Wang et al. ["ReelFramer: Human-AI Co-Creation for News-to-Video Translation"](h
 
 #### Wednesday: Fediverse   
 
+Caelin ["Decentralized Networks vs The Trolls"](https://link.springer.com/chapter/10.1007/978-3-030-79072-1_8) Chapter 8 In _Fundamental Challenges to Global Peace and Security_ 2022
 
 #### Friday: Ad Targeting   
 

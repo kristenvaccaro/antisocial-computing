@@ -195,18 +195,21 @@ Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects
 
 ## Week 9: Student Choice
 
-#### Monday: Generative Models in Social Computing
+#### Monday: Generative Models in Social Computing   
 
 Park et al. ["Social Simulacra: Creating Populated Prototypes for Social Computing Systems"](https://hci.stanford.edu/publications/2022/Park_SocialSimulacra_UIST22.pdf) UIST 2022     
 Wang et al. ["ReelFramer: Human-AI Co-Creation for News-to-Video Translation"](https://arxiv.org/pdf/2304.09653.pdf) Arxiv 2023    
 
-#### Wednesday: Ad Targeting
+#### Wednesday: Fediverse   
+
+
+#### Friday: Ad Targeting   
 
 Wei et al. ["What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions,
 and Ad Explanations Through Users’ Own Twitter Data"](https://www.usenix.org/system/files/sec20-wei.pdf) USENIX 2020   
 Habib et al. ["Identifying User Needs for Advertising Controls on Facebook"](https://dl.acm.org/doi/10.1145/3512906) CSCW 2022    
 
-#### Friday: 
+
 
 <!-- #### Monday: Visiting Speaker
 

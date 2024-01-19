@@ -11,7 +11,7 @@ Classroom: Warren Lecture Hall 2207
 
 Class Days and Times: Monday Wednesday Friday 1PM   
 
-Recording of Course Logistics (Class 1): Coming   
+<!--Recording of Course Logistics (Class 1): Coming-->   
 
 ## Instructors
 
@@ -19,7 +19,7 @@ Recording of Course Logistics (Class 1): Coming
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
 Zoom Office Hours: https://ucsd.zoom.us/my/kvaccaro   
 Office: 3226 CSE  
-Office Hours: TBD      
+Office Hours: Friday 2PM      
 
 TA  
 Eric Xiao    

@@ -9,13 +9,13 @@ Here is a set of example proposals so you can get a sense of the variety of thin
 
 Link to [folder with proposal examples](https://drive.google.com/drive/folders/1zDV0Lam5YMvBhFk6XmPFonWAo4-smX4X?usp=sharing)
 
-### Week 8: Pitch Video
+### Week 6: Plan
 
-Please create a _very brief_ pitch video to interest other students in your project. Your video should be 30-60 seconds. Your goal is to convey why your project is interesting and students might be interested in your topic. 
+Please create a _brief_ project plan, which will be evaluated by both your peers and instructors for potential risks. We will provide feedback on all styles of projects (e.g., data mining, audits, etc.), but this is critically important if you will have contact with or involve any people in your project. If so, please make sure you include: 1) your sample and any inclusion/exclusion criteria, 2) how/where you plan to recruit, and 3) **every** question you plan to ask (interviews, surveys, etc.) as well as any interventions or systems you plan to ask people to use. If you will have a system, please provide mockups that are detailed enough to see what your participants will see and/or do.   
 
-Submit the video as an unlisted video on Youtube by the end of Week 8 (Sun 3/5 11:59pm). We will create a playlist from all these videos to share with the class!
+Please submit on Canvas by the end of Week 6 (Sun 2/18 11:59pm). Please only have one student per group submit! 
 
-Tips on making very short videos: https://vimeo.com/create/short-videos/30-second
+<!-- Tips on making very short videos: https://vimeo.com/create/short-videos/30-second -->
 
 ### Week 10: Selected Presentations
 

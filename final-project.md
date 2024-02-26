@@ -17,11 +17,9 @@ Please submit on Canvas by the end of Week 6 (Sun 2/18 11:59pm). Please only hav
 
 <!-- Tips on making very short videos: https://vimeo.com/create/short-videos/30-second -->
 
-### Week 10: Selected Presentations
+### Week 10: Presentations
 
-A subset of projects (approximately 10-15) will present during class in Week 10. These will be decided based on votes (thumbs up) of the pitch videos on the playlist.  
-
-There will be two prizes awarded for top projects that present in Week 10, one student-choice award and one decided by the instructors. Prizes are to be determined, but feel free to weigh in on the Discord. 
+All projects will present during class in Week 10 (amount of time for presentations will depend on the number of groups).   
 
 ### Week 11: Final(s Week) Submissions
 

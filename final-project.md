@@ -25,7 +25,7 @@ All projects will present during class in Week 10 (amount of time for presentati
 
 Your final submission should have the following:
 
-1. A recording of a 5 minute summary of your project. These will be very similar to the in-class presentations (focus on overall motivation, quick overview of methods and results, and connections to course themes). 
+1. A recording of a 5 minute summary of your project. These will be very similar to the in-class presentations (focus on overall motivation, quick overview of methods and results, and connections to course themes). Please ensure that everyone from your group speaks during the presentation.   
 2. A one page maximum summary. These will be very similar to your proposals (the motivation may be identical). 
 3. Some artifact to represent your work. Depending on the project you propsed, this make take the form of code, a website, browser extension, a pdf of a high fidelity prototype, a large dataset you analyzed, etc. You have a lot of freedom here, but if you're worried about what you're planning to submit, please feel free to run it by me in advance!
 

@@ -57,7 +57,8 @@ No readings
 <!-- Ma et al. [Transparency, Fairness, and Coping: How Players Experience Moderation in Multiplayer Online Games](https://dl.acm.org/doi/10.1145/3544548.3581097) CHI 2023 -->
 
 #### Wednesday
-Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   
+<!-- Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   -->
+Seering et al. [Chillbot: Content Moderation in the Backchannel](https://dl.acm.org/doi/10.1145/3686941) CSCW 2024
 Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor](https://dl.acm.org/doi/10.1145/3610080) CSCW 2023  
 
 

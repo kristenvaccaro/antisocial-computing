@@ -62,8 +62,9 @@ Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectiv
 
 
 #### Friday  
-Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   
+<!-- Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   -->
 Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power](https://dl.acm.org/doi/10.1145/3610047) CSCW 2023
+Atreja et al. [AppealMod: Inducing Friction to Reduce Moderator Workload of Handling User Appeals](https://dl.acm.org/doi/10.1145/3637296) CSCW 2024
 
 <!--
 #### Monday: Platform Governance  
@@ -167,7 +168,8 @@ _Optional:_ Kim ["Tinder Project"](https://web.archive.org/web/20221004010134/ht
 #### Wednesday
 <!-- Turner et al. [Racial Capitalism Online: Pressures to Perform Race Among Creative Professionals]() CSCW 2023 -->
 Cotter ["Playing the visibility game: How digital influencers and algorithms negotiate influence on Instagram"](https://journals.sagepub.com/doi/pdf/10.1177/1461444818815684) New Media & Society 2019     
-Choi et al. [Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms](https://dl.acm.org/doi/abs/10.1145/3544548.3581386) CHI 2023
+Choi et al. [Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms](https://dl.acm.org/doi/abs/10.1145/3544548.3581386) CHI 2023   
+Investigating Influential Users’ Responses to Permanent Suspension on Social Media
 
 #### Friday
 Kim et al. ["Sharing, Not Showing Off": How BeReal Approaches Authentic Self-Presentation on Social Media Through Its Design](https://dl.acm.org/doi/abs/10.1145/3686909) CSCW 2024

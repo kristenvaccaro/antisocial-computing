@@ -108,13 +108,12 @@ Prochaska et al. ["Mobilizing Manufactured Reality: How Participatory Disinforma
 
 #### Wednesday  
 Phadke et al. ["What Makes People Join Conspiracy Communities?: Role of Social Factors in Conspiracy Engagement"](https://dl.acm.org/doi/abs/10.1145/3432922) CSCW 2020   
-Jahanbakhsh et al. ["Leveraging Structured Trusted-Peer Assessments to Combat Misinformation"](https://dl.acm.org/doi/abs/10.1145/3555637) CSCW 2022    
+Wang et al. [Lower Quantity, Higher Quality: Auditing News Content and User Perceptions on Twitter/X Algorithmic versus Chronological Timelines](https://dl.acm.org/doi/10.1145/3687046) CSCW 2024  
 <!-- Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020  -->   
 
-
 #### Friday
-Chaui et al. [Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?](https://dl.acm.org/doi/10.1145/3686967) CSCW 2024
-
+Chuai et al. [Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?](https://dl.acm.org/doi/10.1145/3686967) CSCW 2024  
+Jahanbakhsh et al. ["Leveraging Structured Trusted-Peer Assessments to Combat Misinformation"](https://dl.acm.org/doi/abs/10.1145/3555637) CSCW 2022  
 
 <!--[Class Recording](https://ucsd.zoom.us/rec/share/GMZz6qkdEEjldBXS2dhZjbLV4KalZCHinkOsB7IzOmN-hU0zb5AQGE3hcz6vMhco.sqKZp6vxSvzAHzgY)    
 [Class Recording](https://ucsd.zoom.us/rec/share/tHmRG9csvM2kpn6ldP4pNdZs_hXkWccbrUgFywOi6K9oKcDv8yJ-YHw0w1ol_i9y.XOcaQYcPFuHoYOlN)   -->

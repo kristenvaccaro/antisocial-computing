@@ -34,25 +34,26 @@ Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.
 
 ## Week 2: Content Moderation - Foundations
 
-#### Monday: Holiday (Martin Luther King Jr. Day)    
-No readings   
-
-#### Wednesday
+#### Monday
 Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018     
 _Optional:_ Thomas et al. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://par.nsf.gov/servlets/purl/10295029) IEEE S&P 2021       
 
-#### Friday   
+#### Wednesday   
 Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspectives](https://www.usenix.org/system/files/soups2021-kumar.pdf) SOUPS 2021     
-Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators": Understanding Black Content Creator Experiences on TikTok](https://dl.acm.org/doi/10.1145/3610169) CSCW 2023   
+Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators": Understanding Black Content Creator Experiences on TikTok](https://dl.acm.org/doi/10.1145/3610169) CSCW 2023  
+
+#### Friday  
+Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView](https://dl.acm.org/doi/10.1145/3610077) CSCW 2023    
+Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance](https://dl.acm.org/doi/10.1145/3610030) CSCW 2023 
 
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/ESBT_dutzSYtpuBxaHz_T6dNyX3ITPfSS7Q4h8uEd0Avx7kAj4TA_Qluajppyrdl.C8QWlt8TctjmYVK_)  
 [Class Recording](https://ucsd.zoom.us/rec/share/KE5fC1-lHD-Dbrp6A5P0Qq6mAdO2w3ozqqGvLnKLJVzUbIw4cRkfvWf56U6EIJcm.P1zLBt3KuX6RwpLb)   -->
 
 ## Week 3: Content Moderation - New Directions
 
-#### Monday
-Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView](https://dl.acm.org/doi/10.1145/3610077) CSCW 2023    
-Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance](https://dl.acm.org/doi/10.1145/3610030) CSCW 2023    
+#### Monday: Holiday (Martin Luther King Jr. Day)    
+No readings   
+   
 <!-- Ma et al. [Transparency, Fairness, and Coping: How Players Experience Moderation in Multiplayer Online Games](https://dl.acm.org/doi/10.1145/3544548.3581097) CHI 2023 -->
 
 #### Wednesday
@@ -164,8 +165,11 @@ Cotter ["Playing the visibility game: How digital influencers and algorithms neg
 Choi et al. [Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms](https://dl.acm.org/doi/abs/10.1145/3544548.3581386) CHI 2023
 
 #### Friday
-Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators](https://dl.acm.org/doi/10.1145/3610095) CSCW 2023     
+Kim et al. ["Sharing, Not Showing Off": How BeReal Approaches Authentic Self-Presentation on Social Media Through Its Design](https://dl.acm.org/doi/abs/10.1145/3686909) CSCW 2024
+
+<!-- Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators](https://dl.acm.org/doi/10.1145/3610095) CSCW 2023     
 Fiesler et al. [Reality and Perception of Copyright Terms of Service for Online Content Creation](https://dl.acm.org/doi/abs/10.1145/2818048.2819931) CSCW 2016
+-->
 
 ## Week 7: Overuse
 

@@ -193,11 +193,13 @@ Xu et al. ["TypeOut: Leveraging Just-in-Time Self-Affirmation for Smartphone Ove
 
 #### Monday
 Duffy et al. [“‘You never really know who’s looking’: Imagined surveillance across social media platforms”](https://journals.sagepub.com/doi/full/10.1177/1461444818791318) New Media & Society 2018 Link    
-Kumar et al. [“The Modern Day Baby Book: Enacting Good Mothering and Stewarding Privacy on Facebook”](https://dl.acm.org/doi/pdf/10.1145/2675133.2675149) CSCW 2015   
+Tseng et al. [The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums](https://www.usenix.org/system/files/sec20-tseng.pdf) USENIX 2020    
+<!-- Bellini et al. ["'So-called privacy breeds evil': Narrative Justifications for Intimate Partner Surveillance in Online Forums"](https://dl.acm.org/doi/10.1145/3432909) CSCW 2020    -->
 
 #### Wednesday
-Tseng et al. [The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums](https://www.usenix.org/system/files/sec20-tseng.pdf) USENIX 2020    
-Bellini et al. ["'So-called privacy breeds evil': Narrative Justifications for Intimate Partner Surveillance in Online Forums"](https://dl.acm.org/doi/10.1145/3432909) CSCW 2020    
+Wei et al. ["What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions,
+and Ad Explanations Through Users’ Own Twitter Data"](https://www.usenix.org/system/files/sec20-wei.pdf) USENIX 2020   
+Habib et al. ["Identifying User Needs for Advertising Controls on Facebook"](https://dl.acm.org/doi/10.1145/3512906) CSCW 2022    
 
 #### Friday
 Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021    
@@ -205,6 +207,7 @@ Skeba et al. ["Informational Friction as a Lens for Studying Algorithmic Aspects
 
 ## Week 9: Student Choice
 
+<!--
 #### Monday: Generative Models in Social Computing   
 
 Park et al. ["Social Simulacra: Creating Populated Prototypes for Social Computing Systems"](https://hci.stanford.edu/publications/2022/Park_SocialSimulacra_UIST22.pdf) UIST 2022     
@@ -217,12 +220,10 @@ Struett et al. ["Can This Platform Survive? Governance Challenges for the Fedive
 _Optional:_ Yusuf ["Spot the Fed: Mastodon, the Fediverse, and Why You Can't Run Servers Like It's 1999"](https://www.usenix.org/conference/pepr23/presentation/yusuf) PEPR 2023
 _Optional:_ Anaobi et al. ["Will Admins Cope? Decentralized Moderation in the Fediverse"](https://dl.acm.org/doi/10.1145/3543507.3583487) WWW 2023
 
-#### Friday: Ad Targeting   
+<!-- Trouble in Paradise? Understanding Mastodon Admin’s Motivations, Experiences, and Challenges Running Decentralised Social Media -->
 
-Wei et al. ["What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions,
-and Ad Explanations Through Users’ Own Twitter Data"](https://www.usenix.org/system/files/sec20-wei.pdf) USENIX 2020   
-Habib et al. ["Identifying User Needs for Advertising Controls on Facebook"](https://dl.acm.org/doi/10.1145/3512906) CSCW 2022    
-
+#### Friday:   
+-->
 
 
 <!-- #### Monday: Visiting Speaker

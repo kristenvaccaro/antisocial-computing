@@ -99,9 +99,7 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 <!--Jeon et al. ["ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System"](https://dl.acm.org/doi/pdf/10.1145/3479859) CSCW 2021 -->  
 
-
-
-## Week 4: Misinformation, Radicalization, & Conspiracies
+## Week 4: Misinformation & Conspiracies
 
 #### Monday  
 Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   
@@ -115,8 +113,8 @@ Jahanbakhsh et al. ["Leveraging Structured Trusted-Peer Assessments to Combat Mi
 
 
 #### Friday
-Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021    
-Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021  
+Chaui et al. [Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?](https://dl.acm.org/doi/10.1145/3686967) CSCW 2024
+
 
 <!--[Class Recording](https://ucsd.zoom.us/rec/share/GMZz6qkdEEjldBXS2dhZjbLV4KalZCHinkOsB7IzOmN-hU0zb5AQGE3hcz6vMhco.sqKZp6vxSvzAHzgY)    
 [Class Recording](https://ucsd.zoom.us/rec/share/tHmRG9csvM2kpn6ldP4pNdZs_hXkWccbrUgFywOi6K9oKcDv8yJ-YHw0w1ol_i9y.XOcaQYcPFuHoYOlN)   -->
@@ -134,20 +132,28 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 -->
 <!--Mark Ledwich et al. “Algorithmic Extremism: Examining Youtube’s Rabbit Hole of Radicalization” First Monday 2020 Link -->
 
-## Week 5: Algorithmic Nudging (Filter Bubbles & Beyond)
-#### Monday - Visiting Speaker Farhana Shahid    
-Shaid et al. ["Decolonizing Content Moderation: Does Uniform Global Community Standard Resemble Utopian Equality or Western Power Hegemony?"](https://farhana-shahid.github.io/files/chi23-decolonial-moderation.pdf) CHI 2023    
-Shahid et al. ["Examining Source Effects on Perceptions of Fake News in Rural India"](https://dl.acm.org/doi/abs/10.1145/3512936) CSCW 2022      
-
-#### Wednesday 
+## Week 5: Algorithmic Nudging, Filter Bubbles & Radicalization Pipelines
+#### Monday 
 Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Facebook”](https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf) Science 2015   
 Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020  
+
+<!-- - Visiting Speaker Farhana Shahid    
+Shaid et al. ["Decolonizing Content Moderation: Does Uniform Global Community Standard Resemble Utopian Equality or Western Power Hegemony?"](https://farhana-shahid.github.io/files/chi23-decolonial-moderation.pdf) CHI 2023    
+Shahid et al. ["Examining Source Effects on Perceptions of Fake News in Rural India"](https://dl.acm.org/doi/abs/10.1145/3512936) CSCW 2022      -->
+
+#### Wednesday 
+Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015
+
 
 #### Friday
 Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020     
 Register et al. ["Attached to “The Algorithm”: Making Sense of Algorithmic Precarity on Instagram"](https://dl.acm.org/doi/10.1145/3544548.3581257) CHI 2023
 <!-- Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     -->
 <!-- Mayworm et al. [Content Moderation Folk Theories And Perceptions of Platform Spirit Among Marginalized Social Media Users]() -->
+
+Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021    
+Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021  
+
 
 ## Week 6: Influencers & Authenticity
 

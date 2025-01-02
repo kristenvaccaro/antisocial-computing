@@ -201,8 +201,9 @@ Tseng et al. [The Tools and Tactics Used in Intimate Partner Surveillance: An An
 
 #### Wednesday
 Wei et al. ["What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions,
-and Ad Explanations Through Users’ Own Twitter Data"](https://www.usenix.org/system/files/sec20-wei.pdf) USENIX 2020   
-Habib et al. ["Identifying User Needs for Advertising Controls on Facebook"](https://dl.acm.org/doi/10.1145/3512906) CSCW 2022    
+and Ad Explanations Through Users’ Own Twitter Data"](https://www.usenix.org/system/files/sec20-wei.pdf) USENIX 2020     
+Sapiezynski et al. [On the Use of Proxies in Political Ad Targeting](https://dl.acm.org/doi/10.1145/3686917) CSCW 2024   
+<!-- Habib et al. ["Identifying User Needs for Advertising Controls on Facebook"](https://dl.acm.org/doi/10.1145/3512906) CSCW 2022  -->
 
 #### Friday
 Grill ["Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products"](https://link.springer.com/article/10.1007/s10606-021-09409-0) CSCW 2021    

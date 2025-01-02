@@ -58,19 +58,19 @@ No readings
 
 #### Wednesday
 <!-- Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   -->
-Seering et al. [Chillbot: Content Moderation in the Backchannel](https://dl.acm.org/doi/10.1145/3686941) CSCW 2024
+Seering et al. [Chillbot: Content Moderation in the Backchannel](https://dl.acm.org/doi/10.1145/3686941) CSCW 2024   
 Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor](https://dl.acm.org/doi/10.1145/3610080) CSCW 2023  
 
 
 #### Friday  
 <!-- Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   -->
-Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power](https://dl.acm.org/doi/10.1145/3610047) CSCW 2023
-Atreja et al. [AppealMod: Inducing Friction to Reduce Moderator Workload of Handling User Appeals](https://dl.acm.org/doi/10.1145/3637296) CSCW 2024
+Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power](https://dl.acm.org/doi/10.1145/3610047) CSCW 2023    
+Atreja et al. [AppealMod: Inducing Friction to Reduce Moderator Workload of Handling User Appeals](https://dl.acm.org/doi/10.1145/3637296) CSCW 2024    
 
 <!--
 #### Monday: Platform Governance  
 Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018     
-Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020  
+Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   
 -->
 <!-- [“You Know What to Do”: Proactive Detection of YouTube Videos Targeted by Coordinated Hate Attacks -->
 <!-- Jiang et al. [“Moderation Challenges in Voice-based Online Communities on Discord”](https://dl.acm.org/doi/10.1145/3359157) CSCW 2019.  -->

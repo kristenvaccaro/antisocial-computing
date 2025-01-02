@@ -4,7 +4,7 @@ title: Schedule
 
 # Deadlines
 
-Readings: Monday 12:30PM, Wednesday 12:30PM  
+Readings: Monday, Wednesday, Friday before class  
 <!--Discussion Questions: Monday 1PM  
 Peer Discussion Responses: Wednesday 1PM  -->  
 Writing Assignments: 11:59 PM, one week after reading   

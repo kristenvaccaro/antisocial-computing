@@ -16,6 +16,8 @@ Your critique should address all or at least most of the questions below (taken 
 - How well does the paper communicate the work and contribution to its audience (including situating the work in the context of the research literature)?
 - Are there other strengths of the paper (apart from the identified contribution) that should be considered in evaluating it?
 
+Often you are focused on identifying issues with the methods or analysis. When doing so, you should expect to introduce *additional* limitations/issues beyond what is listed in the Limitations section (if one exists). 
+
 #### Evaluating Methods
 
 If you haven’t taken research methods courses in the past, I recommend the following references:

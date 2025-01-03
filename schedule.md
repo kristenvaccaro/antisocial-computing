@@ -135,8 +135,9 @@ Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](
 
 ## Week 5: Algorithmic Nudging, Filter Bubbles & Radicalization Pipelines
 #### Monday 
-Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Facebook”](https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf) Science 2015   
+<!-- Eytan Bakshy et al. [“Exposure to ideologically diverse news and opinion on Facebook”](https://education.biu.ac.il/sites/education/files/shared/science-2015-bakshy-1130-2.pdf) Science 2015 -->
 Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Smart Home Device"](https://dl.acm.org/doi/pdf/10.1145/3313831.3376774) CHI 2020  
+Sun et al. [NewsGuesser: Using Curiosity to Reduce Selective Exposure](https://dl.acm.org/doi/abs/10.1145/3637376) CSCW 2024
 
 <!-- - Visiting Speaker Farhana Shahid    
 Shaid et al. ["Decolonizing Content Moderation: Does Uniform Global Community Standard Resemble Utopian Equality or Western Power Hegemony?"](https://farhana-shahid.github.io/files/chi23-decolonial-moderation.pdf) CHI 2023    
@@ -153,8 +154,9 @@ Register et al. ["Attached to “The Algorithm”: Making Sense of Algorithmic P
 <!-- Ribiero et al. ["Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels"](https://dl.acm.org/doi/pdf/10.1145/3476057) CSCW 2021    -->
 
 #### Friday 
-Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021  
-
+<!-- Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021 --> 
+Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020
+Marwick et al. [Far-Right Online Radicalization: A Review of the Literature](https://citap.pubpub.org/pub/jq7l6jny/release/1) Bulletin of Technology & Public Life 2022
 
 ## Week 6: Influencers & Authenticity
 

@@ -146,9 +146,10 @@ Shahid et al. ["Examining Source Effects on Perceptions of Fake News in Rural In
 
 #### Wednesday    
 Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015    
+Register et al. ["Attached to “The Algorithm”: Making Sense of Algorithmic Precarity on Instagram"](https://dl.acm.org/doi/10.1145/3544548.3581257) CHI 2023   
 
 <!--Alvarado et al. ["Middle-Aged Video Consumers' Beliefs About Algorithmic Recommendations on YouTube"](https://dl.acm.org/doi/abs/10.1145/3415192) CSCW 2020     
-Register et al. ["Attached to “The Algorithm”: Making Sense of Algorithmic Precarity on Instagram"](https://dl.acm.org/doi/10.1145/3544548.3581257) CHI 2023 -->
+ -->
 <!-- Motahhare Eslami et al. [“‘I always assumed that I wasn't really that close to [her]’: Reasoning about Invisible Algorithms in News Feeds”](https://dl.acm.org/doi/10.1145/2702123.2702556) CHI 2015     -->
 <!-- Mayworm et al. [Content Moderation Folk Theories And Perceptions of Platform Spirit Among Marginalized Social Media Users]() -->
 

@@ -105,7 +105,7 @@ Feltwell et al. ["Broadening Exposure to Socio-Political Opinions via a Pushy Sm
 
 #### Monday  
 <!-- Hussein et al. ["Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"](https://dl.acm.org/doi/abs/10.1145/3392854) CSCW 2020   -->
-Juneja et al. [Assessing enactment of content regulation policies: A post hoc crowd-sourced audit of election misinformation on YouTube](https://dl.acm.org/doi/10.1145/3544548.3580846) CHI 2023
+Juneja et al. [Assessing enactment of content regulation policies: A post hoc crowd-sourced audit of election misinformation on YouTube](https://dl.acm.org/doi/10.1145/3544548.3580846) CHI 2023    
 Prochaska et al. ["Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election"](https://dl.acm.org/doi/abs/10.1145/3579616) CSCW 2023    
 <!-- David M. J. Lazer et al. [“The science of fake news”](http://pike.psu.edu/classes/ucas/2018-summer/p/science-fake-news-2018.pdf) Science 2018     -->
 

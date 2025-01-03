@@ -45,6 +45,7 @@ Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators":
 #### Friday  
 Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView](https://dl.acm.org/doi/10.1145/3610077) CSCW 2023    
 Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance](https://dl.acm.org/doi/10.1145/3610030) CSCW 2023 
+Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor](https://dl.acm.org/doi/10.1145/3610080) CSCW 2023  
 
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/ESBT_dutzSYtpuBxaHz_T6dNyX3ITPfSS7Q4h8uEd0Avx7kAj4TA_Qluajppyrdl.C8QWlt8TctjmYVK_)  
 [Class Recording](https://ucsd.zoom.us/rec/share/KE5fC1-lHD-Dbrp6A5P0Qq6mAdO2w3ozqqGvLnKLJVzUbIw4cRkfvWf56U6EIJcm.P1zLBt3KuX6RwpLb)   -->
@@ -59,13 +60,14 @@ No readings
 #### Wednesday
 <!-- Jenny Fan et al. [“Digital Juries: A Civics-Oriented Approach to Platform Governance”](https://dl.acm.org/doi/abs/10.1145/3313831.3376293) CHI 2020   -->
 Seering et al. [Chillbot: Content Moderation in the Backchannel](https://dl.acm.org/doi/10.1145/3686941) CSCW 2024   
-Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor](https://dl.acm.org/doi/10.1145/3610080) CSCW 2023  
+Atreja et al. [AppealMod: Inducing Friction to Reduce Moderator Workload of Handling User Appeals](https://dl.acm.org/doi/10.1145/3637296) CSCW 2024    
 
 
 #### Friday  
-<!-- Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   -->
-Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power](https://dl.acm.org/doi/10.1145/3610047) CSCW 2023    
-Atreja et al. [AppealMod: Inducing Friction to Reduce Moderator Workload of Handling User Appeals](https://dl.acm.org/doi/10.1145/3637296) CSCW 2024    
+<!-- Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   
+Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power](https://dl.acm.org/doi/10.1145/3610047) CSCW 2023    -->
+Alsoubai et al. [Systemization of Knowledge (SoK): Creating a Research Agenda for Human-Centered Real-Time Risk Detection on Social Media Platforms](https://dl.acm.org/doi/10.1145/3613904.3642315) CHI 2024    
+Sabri et al. []() CSCW 2025   
 
 <!--
 #### Monday: Platform Governance  

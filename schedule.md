@@ -44,7 +44,7 @@ Harris et al. ["Honestly, I think TikTok has a Vendetta Against Black Creators":
 
 #### Friday  
 Koshy et al. [Measuring User-Moderator Alignment on r/ChangeMyView](https://dl.acm.org/doi/10.1145/3610077) CSCW 2023    
-Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance](https://dl.acm.org/doi/10.1145/3610030) CSCW 2023 
+<!-- Wu et al. ["How Do You Quantify How Racist Something Is?": Color-Blind Moderation in Decentralized Governance](https://dl.acm.org/doi/10.1145/3610030) CSCW 2023  -->
 Jhaver et al. [Personalizing Content Moderation on Social Media: User Perspectives on Moderation Choices, Interface Design, and Labor](https://dl.acm.org/doi/10.1145/3610080) CSCW 2023  
 
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/ESBT_dutzSYtpuBxaHz_T6dNyX3ITPfSS7Q4h8uEd0Avx7kAj4TA_Qluajppyrdl.C8QWlt8TctjmYVK_)  

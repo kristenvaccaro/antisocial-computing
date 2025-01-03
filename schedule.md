@@ -181,7 +181,7 @@ Investigating Influential Users’ Responses to Permanent Suspension on Social M
 
 #### Friday
 Kim et al. ["Sharing, Not Showing Off": How BeReal Approaches Authentic Self-Presentation on Social Media Through Its Design](https://dl.acm.org/doi/abs/10.1145/3686909) CSCW 2024  
-De et al. [#PoetsOfInstagram: Navigating The Practices And Challenges Of Novice Poets On Instagram](https://dl.acm.org/doi/10.1145/3613904.3642173) CHI 2024   
+Simpson et al. [Rethinking Creative Labor: A Sociotechnical Examination of Creativity & Creative Work on TikTok](https://dl.acm.org/doi/pdf/10.1145/3544548.3580649) CHI 2023   
 
 <!-- Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators](https://dl.acm.org/doi/10.1145/3610095) CSCW 2023     
 Fiesler et al. [Reality and Perception of Copyright Terms of Service for Online Content Creation](https://dl.acm.org/doi/abs/10.1145/2818048.2819931) CSCW 2016

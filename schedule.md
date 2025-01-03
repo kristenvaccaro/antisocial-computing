@@ -36,7 +36,7 @@ Lukoff ["How the Design of YouTube Influences User Sense of Agency"](https://dl.
 
 #### Monday
 Kate Klonick [“The New Governors: The People, Rules, and Processes Governing Our Online Speech”](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf) Harvard Law Review 2018     
-_Optional:_ Thomas et al. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://par.nsf.gov/servlets/purl/10295029) IEEE S&P 2021       
+Thomas et al. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://par.nsf.gov/servlets/purl/10295029) IEEE S&P 2021       
 
 #### Wednesday   
 Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspectives](https://www.usenix.org/system/files/soups2021-kumar.pdf) SOUPS 2021     

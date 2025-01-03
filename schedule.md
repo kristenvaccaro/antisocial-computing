@@ -180,7 +180,8 @@ Choi et al. [Creator-friendly Algorithms: Behaviors, Challenges, and Design Oppo
 Investigating Influential Users’ Responses to Permanent Suspension on Social Media
 
 #### Friday
-Kim et al. ["Sharing, Not Showing Off": How BeReal Approaches Authentic Self-Presentation on Social Media Through Its Design](https://dl.acm.org/doi/abs/10.1145/3686909) CSCW 2024
+Kim et al. ["Sharing, Not Showing Off": How BeReal Approaches Authentic Self-Presentation on Social Media Through Its Design](https://dl.acm.org/doi/abs/10.1145/3686909) CSCW 2024  
+De et al. [#PoetsOfInstagram: Navigating The Practices And Challenges Of Novice Poets On Instagram](https://dl.acm.org/doi/10.1145/3613904.3642173) CHI 2024   
 
 <!-- Fiesler et al. [Chilling Tales: Understanding the Impact of Copyright Takedowns on Transformative Content Creators](https://dl.acm.org/doi/10.1145/3610095) CSCW 2023     
 Fiesler et al. [Reality and Perception of Copyright Terms of Service for Online Content Creation](https://dl.acm.org/doi/abs/10.1145/2818048.2819931) CSCW 2016

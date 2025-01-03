@@ -17,13 +17,12 @@ Class Days and Times: Monday Wednesday Friday 1PM
 
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
-Zoom Office Hours: https://ucsd.zoom.us/my/kvaccaro   
 Office: 3226 CSE  
-Office Hours: Friday 2PM      
+Office Hours: TBD      
 
 TA  
-Eric Xiao    
-erxiao@ucsd.edu  
+Shao Jiang    
+shj002@ucsd.edu    
 Office Hours: TBD
 <!--msmart@ucsd.edu  
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  

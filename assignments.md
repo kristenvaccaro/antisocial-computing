@@ -12,13 +12,13 @@ Detailed [instructions for critiques here](https://kristenvaccaro.github.io/anti
 Writing assignments will be due at 5PM Friday, every week.  
 -->
 
-## Week 1 Assignments (Signups for Presenting, Leading Discussion)  
+## Week 1 Assignments (Signups for Leading Discussion)  
 
-Sign up to present and lead discussion **twice** (2x present, 2x lead discussion): https://docs.google.com/spreadsheets/d/1tq-4L7oTREPUxCSXzlxk0xo7Tvv2iIJ2vxuR6rIVayQ/edit?usp=sharing      
+Sign up to lead discussion: https://docs.google.com/spreadsheets/d/1tq-4L7oTREPUxCSXzlxk0xo7Tvv2iIJ2vxuR6rIVayQ/edit?usp=sharing      
 
 ## Presenting & Leading Discussion
 
-You will need to present on & lead a discussion about a paper twice (each) during the quarter.  
+You will need to lead a discussion about a paper once during the quarter.  
 
 Detailed [instructions for presentations here](https://kristenvaccaro.github.io/antisocial-computing/discussions.html).  
 
@@ -28,7 +28,7 @@ As a general rule, I do not like to "count" participation, but you should expect
 
 ## Critique 
 
-You will need to write [critiques](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on four of the readings for this class. You do not need to inform us which reading you plan to write the critique for.   
+You will need to write [critiques](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on four of the readings for this class. You do not need to tell us in advance which readings you will write a critique for, but you should submit one critique each by the end of week 2, 4, 6, and 9.   
 
 <!--If you do not receive an A, you may resubmit up to two times. Note this is only available if you pick an early week (i.e., feedback can take up to one week, so after week 5 you are not guaranteed to be able to use both submissions).  -->
 

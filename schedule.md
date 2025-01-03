@@ -155,7 +155,7 @@ Register et al. ["Attached to “The Algorithm”: Making Sense of Algorithmic P
 
 #### Friday 
 <!-- Papadamou et al. ["'How over is it?' Understanding the Incel Community on YouTube"](https://dl.acm.org/doi/pdf/10.1145/3479556) CSCW 2021 --> 
-Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020
+Manoel Horta Ribeiro et al. [“Auditing Radicalization Pathways on YouTube”](https://dl.acm.org/doi/abs/10.1145/3351095.3372879) FAccT 2020    
 Marwick et al. [Far-Right Online Radicalization: A Review of the Literature](https://citap.pubpub.org/pub/jq7l6jny/release/1) Bulletin of Technology & Public Life 2022
 
 ## Week 6: Influencers & Authenticity

@@ -14,7 +14,7 @@ Writing assignments will be due at 5PM Friday, every week.
 
 ## Week 1 Assignments (Signups for Leading Discussion)  
 
-Sign up to lead discussion: https://docs.google.com/spreadsheets/d/1tq-4L7oTREPUxCSXzlxk0xo7Tvv2iIJ2vxuR6rIVayQ/edit?usp=sharing      
+Sign up to lead discussion: https://docs.google.com/spreadsheets/d/1_hbBvI4BELLBhgW8uR6pdtGZhfiwWeNs1qoCZFMuUEw/edit?usp=sharing        
 
 ## Presenting & Leading Discussion
 

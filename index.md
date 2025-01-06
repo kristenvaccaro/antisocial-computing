@@ -18,7 +18,7 @@ Class Days and Times: Monday Wednesday Friday 2PM
 [Kristen Vaccaro](http://kvaccaro.com)  
 kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
 Office: 3226 CSE  
-Office Hours: TBD      
+Office Hours: Monday 1-2      
 
 TA  
 Shao Jiang    

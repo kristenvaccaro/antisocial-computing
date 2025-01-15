@@ -4,7 +4,7 @@ Discussion leaders will introduce their questions and lead the discussion for on
 
 #### Leading Discussion
 
-When you are leading discussion, you should prepare a set of 3-5 questions to prompt class discussion. The goal of the questions is to prompt an engaging discussion of the material with your classmates! Try to choose things that you think will be interesting to talk about. 
+When you are leading discussion, you should prepare a set of 2-3 questions to prompt class discussion. The goal of the questions is to prompt an engaging discussion of the material with your classmates! Try to choose things that you think will be interesting to talk about. 
 
 Some suggestions:
 - Questions you have (i.e., things you thought were difficult to understand)

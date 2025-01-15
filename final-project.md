@@ -7,7 +7,8 @@ Your team's proposal should be 250-500 words (1 page maximum) and should be subm
 
 Here is a set of example proposals so you can get a sense of the variety of things folks have worked on in the past in this class! Quick shoutout: one of these proposals turned into a paper that we submitted earlier this month and two others are ongoing & likely to be submitted this spring! So if you're interested in research, these projects can be a great place to start!
 
-Link to [folder with proposal examples](https://drive.google.com/drive/folders/1zDV0Lam5YMvBhFk6XmPFonWAo4-smX4X?usp=sharing)
+Link to [folder with proposal examples](https://drive.google.com/drive/folders/1AO64lJvirdEu6XF_aVuspbyr7c65QNZi?usp=sharing)
+<!-- (https://drive.google.com/drive/folders/1zDV0Lam5YMvBhFk6XmPFonWAo4-smX4X?usp=sharing) -->
 
 ### Week 6: Plan
 

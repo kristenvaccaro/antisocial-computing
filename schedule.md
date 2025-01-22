@@ -68,7 +68,8 @@ Atreja et al. [AppealMod: Inducing Friction to Reduce Moderator Workload of Hand
 <!-- Jhaver et al. [“Does Transparency in Moderation Really Matter?: User Behavior After Content Removal Explanations on Reddit”](https://dl.acm.org/doi/abs/10.1145/3359252) CHI 2019   
 Gilbert [Towards Intersectional Moderation: An Alternative Model of Moderation Built on Care and Power](https://dl.acm.org/doi/10.1145/3610047) CSCW 2023    -->
 Alsoubai et al. [Systemization of Knowledge (SoK): Creating a Research Agenda for Human-Centered Real-Time Risk Detection on Social Media Platforms](https://dl.acm.org/doi/10.1145/3613904.3642315) CHI 2024    
-Sabri et al. []() CSCW 2025   
+Sabri et al. [The Balancing Act of Social Audio Facilitators: When
+Self-Promotion Overshadows Community Care](https://drive.google.com/file/d/1Nx8nfngK-Znsr0X9jLFZh7Nmj6XRFVFx/view?usp=sharing) CSCW 2025   
 
 <!--
 #### Monday: Platform Governance  

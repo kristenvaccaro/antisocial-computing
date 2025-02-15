@@ -224,8 +224,8 @@ Wu et al. [Designing the Informing Process with Streamers and Bystanders in Live
 
 #### Monday: Dead Internet Theory
 
-Tiffany ["Maybe You Missed It, but the Internet ‘Died’ Five Years Ago"](https://archive.ph/x9c5j) The Atlantic 2021
-Park ["Generative Agents: Interactive Simulacra of Human Behavior"](https://dl.acm.org/doi/abs/10.1145/3586183.3606763) UIST 2023
+Tiffany ["Maybe You Missed It, but the Internet ‘Died’ Five Years Ago"](https://archive.ph/x9c5j) The Atlantic 2021   
+Park ["Generative Agents: Interactive Simulacra of Human Behavior"](https://dl.acm.org/doi/abs/10.1145/3586183.3606763) UIST 2023    
 _Optional:_ Broad ["Is computational creativity flourishing on the dead internet?"](https://computationalcreativity.net/iccc24/papers/ICCC24_paper_184.pdf) International Conference on Computational Creativity 2024
 
 
@@ -233,13 +233,13 @@ _Optional:_ Broad ["Is computational creativity flourishing on the dead internet
 
 Caelin ["Decentralized Networks vs The Trolls"](https://link.springer.com/chapter/10.1007/978-3-030-79072-1_8) Chapter 8 In _Fundamental Challenges to Global Peace and Security_ 2022     
 Struett et al. ["Can This Platform Survive? Governance Challenges for the Fediverse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4598303) SSRN 2023     
-_Optional:_ Yusuf ["Spot the Fed: Mastodon, the Fediverse, and Why You Can't Run Servers Like It's 1999"](https://www.usenix.org/conference/pepr23/presentation/yusuf) PEPR 2023
-_Optional:_ Anaobi et al. ["Will Admins Cope? Decentralized Moderation in the Fediverse"](https://dl.acm.org/doi/10.1145/3543507.3583487) WWW 2023
+_Optional:_ Yusuf ["Spot the Fed: Mastodon, the Fediverse, and Why You Can't Run Servers Like It's 1999"](https://www.usenix.org/conference/pepr23/presentation/yusuf) PEPR 2023   
+_Optional:_ Anaobi et al. ["Will Admins Cope? Decentralized Moderation in the Fediverse"](https://dl.acm.org/doi/10.1145/3543507.3583487) WWW 2023    
 
 
 #### Friday: ???
 
-Escher ["Hexing Twiter: Channeling Ancient Magic to Bind Mechanisms of Extraction"](https://dl.acm.org/doi/10.1145/3613905.3644071) alt.CHI 2024
+Escher ["Hexing Twiter: Channeling Ancient Magic to Bind Mechanisms of Extraction"](https://dl.acm.org/doi/10.1145/3613905.3644071) alt.CHI 2024    
 
 
 ## Week 10: Project Presentations

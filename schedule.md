@@ -27,12 +27,17 @@ Kate Klonick “The New Governors: The People, Rules, and Processes Governing Ou
 Knott "Interviews in the Social Sciences" Nature Reviews Methods Primers 2022
 
 ## Week 3: Surveys
-#### Monday: No class (MLK Holiday)
+#### Monday 
+No class (MLK Holiday)
 
 #### Wednesday 
 Krosnick "Question and Questionnaire Design" Handbook of Survey Research   
 
+#### Friday
+
 ## Week 4: Experiments
+#### Monday
+Kirk "Threats to Valid Inference Making" through "Controlling Nuisance Variables" Experimental Design: Procedures for the Behavioral Sciences 2013
 
 ## Week 5: Audits
 
@@ -41,6 +46,8 @@ Krosnick "Question and Questionnaire Design" Handbook of Survey Research
 Robertson "Participatory Design: An introduction" Routledge International Handbook of Participatory Design 2013  
 
 ## Week 7: Archival Studies
+#### Monday
+No class (Presidents' Day Holiday)
 
 ## Week 8: Ethnography
 

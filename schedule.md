@@ -9,6 +9,8 @@ Critiques: Friday 11:59PM of Week 2, 4, 6 & 8
 
 # Topics & Readings
 
+All readings are hosted online: https://drive.google.com/drive/folders/1RfCS9O1T4H3AfmHgp66qceevYuPh3wBv?usp=sharing 
+
 ## Week 1: Overview
 
 #### Monday

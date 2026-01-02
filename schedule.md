@@ -42,6 +42,7 @@ Kirk "Threats to Valid Inference Making" through "Controlling Nuisance Variables
 
 ## Week 5: Audits
 #### Monday
+Aidinoff "The Steps of an AI Audit" and "Interpreting Audit Results" Auditing AI 2026
 #### Wednesday 
 #### Friday
 
@@ -55,10 +56,12 @@ Robertson "Participatory Design: An introduction" Routledge International Handbo
 #### Monday
 No class (Presidents' Day Holiday)
 #### Wednesday 
+Machin "Introduction" and "Conclusion" How to Do Critical Discourse Analysis 2012
 #### Friday
 
 ## Week 8: Ethnography
 #### Monday
+Forberg "What is ethnographic about digital ethnography? A sociological perspective" Frontiers in Sociology 2023
 #### Wednesday 
 #### Friday
 

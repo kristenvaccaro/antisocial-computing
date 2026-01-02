@@ -61,6 +61,7 @@ Machin "Introduction" and "Conclusion" How to Do Critical Discourse Analysis 201
 
 ## Week 8: Ethnography
 #### Monday
+Hart "Online Ethnography" International Encyclopedia of Communication Research Methods 2017     
 Forberg "What is ethnographic about digital ethnography? A sociological perspective" Frontiers in Sociology 2023
 #### Wednesday 
 #### Friday

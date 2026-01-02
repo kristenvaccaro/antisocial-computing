@@ -12,49 +12,58 @@ Critiques: Friday 11:59PM of Week 2, 4, 6 & 8
 All readings are hosted online: https://drive.google.com/drive/folders/1RfCS9O1T4H3AfmHgp66qceevYuPh3wBv?usp=sharing 
 
 ## Week 1: Overview
-
 #### Monday
 No readings
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/dZkmkLu0RLLZkl8Z5IbW-Bp9ciBFvkN8pCWHdfWZZKVd9BWvEB-9qQ_oQCrHvjfT.IEAz9pJsZcO1X3dG)   -->
-
 #### Wednesday  
 Kate Klonick “The New Governors: The People, Rules, and Processes Governing Our Online Speech” Harvard Law Review 2018     
-
 #### Friday  
 
 
 ## Week 2: Interviews
-
 #### Monday
 Knott "Interviews in the Social Sciences" Nature Reviews Methods Primers 2022
+#### Wednesday 
+#### Friday
 
 ## Week 3: Surveys
 #### Monday 
 No class (MLK Holiday)
-
 #### Wednesday 
 Krosnick "Question and Questionnaire Design" Handbook of Survey Research   
-
 #### Friday
 
 ## Week 4: Experiments
 #### Monday
-Price "Experimental Design" Research Methods in Psychology 2017
+Price "Experimental Design" Research Methods in Psychology 2017   
 Kirk "Threats to Valid Inference Making" through "Controlling Nuisance Variables" Experimental Design: Procedures for the Behavioral Sciences 2013
+#### Wednesday 
+#### Friday
 
 ## Week 5: Audits
-
+#### Monday
+#### Wednesday 
+#### Friday
 
 ## Week 6: Participatory Design
+#### Monday
 Robertson "Participatory Design: An introduction" Routledge International Handbook of Participatory Design 2013  
+#### Wednesday 
+#### Friday
 
 ## Week 7: Archival Studies
 #### Monday
 No class (Presidents' Day Holiday)
+#### Wednesday 
+#### Friday
 
 ## Week 8: Ethnography
+#### Monday
+#### Wednesday 
+#### Friday
 
 ## Week 9: Student Choice
+TBD
 
 ## Week 10: Project Presentations
 

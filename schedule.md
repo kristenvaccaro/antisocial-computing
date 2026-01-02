@@ -37,6 +37,7 @@ Krosnick "Question and Questionnaire Design" Handbook of Survey Research
 
 ## Week 4: Experiments
 #### Monday
+Price "Experimental Design" Research Methods in Psychology 2017
 Kirk "Threats to Valid Inference Making" through "Controlling Nuisance Variables" Experimental Design: Procedures for the Behavioral Sciences 2013
 
 ## Week 5: Audits

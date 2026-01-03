@@ -22,8 +22,8 @@ Office: 3226 CSE
 Office Hours: Monday 1-2      
 
 TA  
-Shao Jiang    
-shj002@ucsd.edu    
+Nazanin Sabri    
+    
 <!-- Office Hours: TBD
 msmart@ucsd.edu  
 Office Hours: Wednesday 3:45-4:45 PM in [CSE 4258](https://cse.ucsd.edu/about/floormaps)  
@@ -58,16 +58,16 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity
 --- | ---
-30% | Active Class Participation
-20% | Critiques  
+25% | Active Class Participation
+25% | Critiques  
 20% | Lead Discussion
 30% | Final Project
 OPTIONAL | Final Exam
 
 Readings should be completed before the start of class    
-Written homeworks are due one week after the class where the reading is covered, 5PM
+Critiques due on Friday 11:59PM on Weeks 3, 5, 7, 9
 
-Absence Policy: You will receive *3 free missing days* that can used to miss class (due to conference travel/attendance, illness, or any other committments). You do not need to contact us in advance to use those days, we will drop your lowest attendance scores. If you miss more than 3 days of class, you will lose 25% of the total participation portion of your grade for each day you miss. This means if you miss 7 days of class, you will earn a zero for the participation part of the grade.   
+Absence Policy: You will receive *3 free missing days* that can used to miss class (due to conference travel/attendance, illness, or any other committments). You do not need to contact us in advance to use those days, we will drop your lowest attendance scores. If you miss more than 3 days of class, you will lose 17% of the total participation portion of your grade for each day you miss. This means if you miss 9 days of class (3 weeks), you will earn a zero for the participation part of the grade.   
 
 If your absence is excused (e.g., you contract COVID and need to quarantine), please contact us ASAP; in this case, you will not lose points even if you already missed your 3 free classes. 
 

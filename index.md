@@ -7,8 +7,8 @@
 ## Logistics
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/antisocial-computing) and [Canvas](https://canvas.ucsd.edu/)   
-Classroom: Coalition 117
-Note: this is a new building that is part of the "Ridge Walk North Living and Learning Neighborhood (RWNLLN)"
+Classroom: Coalition 117   
+Note: this is a new building that is part of the "Ridge Walk North Living and Learning Neighborhood (RWNLLN)"   
 
 Class Days and Times: Monday Wednesday Friday 1PM   
 

@@ -23,10 +23,10 @@ Kate Klonick “The New Governors: The People, Rules, and Processes Governing Ou
 ## Week 2: Interviews
 #### Monday
 Knott "Interviews in the Social Sciences" Nature Reviews Methods Primers 2022
-#### Wednesday 
-Steen "You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok" Social Media + Society 2023   
+#### Wednesday  
+Haimson "The Online Authenticity Paradox: What Being “Authentic” on Social Media Means, and Barriers to Achieving It" CSCW 2021   
 #### Friday
-Wan "Hashtag Re-Appropriation for Audience Control on Recommendation-Driven Social Media Xiaohongshu (Rednote)" CHI 2025  
+Li "From "Time to BeReal” to “Let Me Post My BeFake:” A Case of Operationalizing Authenticity Through Design" CSCW 2025
 
 ## Week 3: Surveys
 #### Monday 
@@ -52,19 +52,21 @@ Aidinoff "The Steps of an AI Audit" and "Interpreting Audit Results" Auditing AI
 Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspectives](https://www.usenix.org/system/files/soups2021-kumar.pdf) SOUPS 2021   
 #### Friday
 Hartmann "Lost in Moderation: How Commercial Content Moderation APIs Over- and Under-Moderate Group-Targeted Hate Speech and Linguistic Variations" CHI 2025   
-
-## Week 6: Participatory Design
+## Week 6: Archival Studies
 #### Monday
-Robertson "Participatory Design: An introduction" Routledge International Handbook of Participatory Design 2013  
-#### Wednesday 
+Machin "Introduction" and "Conclusion" How to Do Critical Discourse Analysis 2012
+#### Wednesday
+Steen "You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok" Social Media + Society 2023   
 #### Friday
+Wan "Hashtag Re-Appropriation for Audience Control on Recommendation-Driven Social Media Xiaohongshu (Rednote)" CHI 2025  
 
-## Week 7: Archival Studies
+## Week 7: Participatory Design
 #### Monday
 No class (Presidents' Day Holiday)
-#### Wednesday 
-Machin "Introduction" and "Conclusion" How to Do Critical Discourse Analysis 2012
-#### Friday
+#### Wednesday
+Robertson "Participatory Design: An introduction" Routledge International Handbook of Participatory Design 2013  
+#### Friday 
+Zhai "Hear Us, then Protect Us: Navigating Deepfake Scams and Safeguard Interventions with Older Adults through Participatory Design" CHI 2025
 
 ## Week 8: Ethnography
 #### Monday

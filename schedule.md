@@ -19,7 +19,6 @@ No readings
 Kate Klonick “The New Governors: The People, Rules, and Processes Governing Our Online Speech” Harvard Law Review 2018     
 #### Friday  
 
-
 ## Week 2: Interviews
 #### Monday
 Knott "Interviews in the Social Sciences" Nature Reviews Methods Primers 2022
@@ -73,7 +72,9 @@ Zhai "Hear Us, then Protect Us: Navigating Deepfake Scams and Safeguard Interven
 Hart "Online Ethnography" International Encyclopedia of Communication Research Methods 2017     
 Forberg "What is ethnographic about digital ethnography? A sociological perspective" Frontiers in Sociology 2023
 #### Wednesday 
+Matias "Going Dark: Social Factors in Collective Action Against Platform Operators in the Reddit Blackout" CHI 2016
 #### Friday
+Xiao "Let's Influence Algorithms Together: How Millions of Fans Build Collective Understanding of Algorithms and Organize Coordinated Algorithmic Actions" CHI 2025
 
 ## Week 9: Student Choice
 TBD

@@ -48,8 +48,10 @@ Chuai et al. "Did the Roll-Out of Community Notes Reduce Engagement With Misinfo
 ## Week 5: Audits
 #### Monday
 Aidinoff "The Steps of an AI Audit" and "Interpreting Audit Results" Auditing AI 2026
-#### Wednesday 
+#### Wednesday  
+Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspectives](https://www.usenix.org/system/files/soups2021-kumar.pdf) SOUPS 2021   
 #### Friday
+Hartmann "Lost in Moderation: How Commercial Content Moderation APIs Over- and Under-Moderate Group-Targeted Hate Speech and Linguistic Variations" CHI 2025   
 
 ## Week 6: Participatory Design
 #### Monday

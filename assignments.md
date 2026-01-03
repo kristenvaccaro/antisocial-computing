@@ -16,11 +16,11 @@ Writing assignments will be due at 5PM Friday, every week.
 
 Sign up to lead discussion: https://docs.google.com/spreadsheets/d/1_hbBvI4BELLBhgW8uR6pdtGZhfiwWeNs1qoCZFMuUEw/edit?usp=sharing        
 
-## Presenting & Leading Discussion
+## Leading Discussion
 
 You will need to lead a discussion about a paper once during the quarter.  
 
-Detailed [instructions for presentations here](https://kristenvaccaro.github.io/antisocial-computing/discussions.html).  
+Detailed [instructions for leading discussion here](https://kristenvaccaro.github.io/antisocial-computing/discussions.html).  
 
 ## Active Participation
 

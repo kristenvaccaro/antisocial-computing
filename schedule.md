@@ -5,7 +5,7 @@ title: Schedule
 # Deadlines
 
 Readings: Monday, Wednesday, Friday before class  
-Critiques: Friday 11:59PM of Week 2, 4, 6 & 8 
+Critiques: Friday 11:59PM of Week 3, 5, 7 & 9 
 
 # Topics & Readings
 

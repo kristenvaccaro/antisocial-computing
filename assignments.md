@@ -28,7 +28,7 @@ As a general rule, I do not like to "count" participation, but you should expect
 
 ## Critique 
 
-You will need to write [critiques](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on four of the readings for this class. Detailed instructions provided at that link.    
+You will need to write four [critiques](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on readings over the quarter. Detailed [instructions for critiques here](https://kristenvaccaro.github.io/antisocial-computing/critiques.html).     
 
 <!--If you do not receive an A, you may resubmit up to two times. Note this is only available if you pick an early week (i.e., feedback can take up to one week, so after week 5 you are not guaranteed to be able to use both submissions).  -->
 

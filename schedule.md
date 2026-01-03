@@ -54,7 +54,7 @@ Kumar et al. [Designing Toxic Content Classification for a Diversity of Perspect
 Hartmann "Lost in Moderation: How Commercial Content Moderation APIs Over- and Under-Moderate Group-Targeted Hate Speech and Linguistic Variations" CHI 2025   
 ## Week 6: Archival Studies
 #### Monday
-Machin "Introduction" and "Conclusion" How to Do Critical Discourse Analysis 2012
+Krippendorff "Conceptual Foundation" and "Practical Guide" Content Analysis: An Introduction to Its Methodology 2004
 #### Wednesday
 Steen "You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok" Social Media + Society 2023   
 #### Friday

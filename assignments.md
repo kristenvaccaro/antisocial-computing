@@ -28,16 +28,17 @@ As a general rule, I do not like to "count" participation, but you should expect
 
 ## Critique 
 
-You will need to write [critiques](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on four of the readings for this class. You do not need to tell us in advance which readings you will write a critique for, but you should submit one critique each by the end of week 2, 4, 6, and 9.   
+You will need to write [critiques](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on four of the readings for this class. Detailed instructions provided at that link.    
 
 <!--If you do not receive an A, you may resubmit up to two times. Note this is only available if you pick an early week (i.e., feedback can take up to one week, so after week 5 you are not guaranteed to be able to use both submissions).  -->
 
 ## Final Project
 
-Final projects can be done as a small group (max size: 4) or individually. You can choose to create a new platform/interaction, design an experience around an existing system, or conduct an analysis.  
+Final projects should be done as a small group (3-4)[^1].  You can choose to create a new platform/interaction, design an experience around an existing system, or conduct an analysis.  
 
 [Detailed instructions here](https://kristenvaccaro.github.io/antisocial-computing/final-project.html)
 
+[^1]: Projects can only be done individually under extenuating circumstances; please reach out to me well in advance to discuss your situation.
 
 ## Final Exam - OPTIONAL
 

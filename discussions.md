@@ -35,7 +35,7 @@ For comprehension questions, you might ask questions like:
 
 Some suggestions for discussion questions:
 - Questions about other examples (i.e., Where else do similar issues arise? When have you experienced this in your life?)
-- Comparisons (i.e., How is X related to Y? Compare and contrast X with Y? How is this similar/different from X we talked about earlier in the course?)
+- Comparisons (i.e., How is X related to Y? This paper proposed concept [XYZ]; are there any related terms, how are they different? Compare and contrast X with Y? How is this similar/different from X we talked about earlier in the course?)
 - Synthesis (i.e., How would you suggest ...? What might happen if you combine X with Y? What would you do to deal with ?) 
 - Evaluation (i.e.,  What criteria would you use to assess ...? What is the most important …? What do you think about ...?)
 

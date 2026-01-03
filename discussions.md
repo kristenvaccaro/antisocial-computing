@@ -2,6 +2,8 @@
 
 Discussion leaders will lead the class through a series of comprehension and discussion questions. You should not *lecture* on the assigned reading, but instead should ask questions that other students will answer about that material.  
 
+Please sign up for a day to lead discussion here: https://docs.google.com/spreadsheets/d/1_hbBvI4BELLBhgW8uR6pdtGZhfiwWeNs1qoCZFMuUEw/edit?usp=sharing
+
 #### What to Submit
 
 You should not use slides. Please submit your planned questions here: https://docs.google.com/document/d/12JfJT3Hs0fcH_o4qljhEWH_HFFBOowhQXil2nRnzx0k/edit?usp=sharing

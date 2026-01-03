@@ -15,9 +15,15 @@ Create a new tab using the naming convention "Week 1 Mon - FamilyName" where you
 #### Leading Discussion
 
 When you are leading discussion:
-Prepare a set of 5-10 comprehension questions, you should prepare a set of 2-3 questions to prompt class discussion. The goal of the questions is to prompt an engaging discussion of the material with your classmates! Try to choose things that you think will be interesting to talk about. 
 
-Some suggestions:
+1. Prepare a set of 8-12 comprehension questions. The goal of these questions is to make sure everyone has understood the assigned reading for the day. 
+2. Prepare a set of 2-3 discussion questions. The goal of these questions is to prompt an engaging discussion of the material with your classmates! Try to choose things that you think will be interesting to talk about.
+
+I recommend starting with a few comprehension questions, then asking a deeper discussion question. Then you could switch back to some additional comprehension questions, interleaving the two types for the full length of the class period. 
+
+Some suggestions for comprehension questions:
+
+Some suggestions for discussion questions:
 - Questions you have (i.e., things you thought were difficult to understand)
 - Questions about other examples (i.e., Where else do similar issues arise? When have you experienced this in your life?)
 - Comparisons (i.e., How is X related to Y? Compare and contrast X with Y? How is this similar/different from X we talked about earlier in the course?)
@@ -25,9 +31,7 @@ Some suggestions:
 - Evaluation (i.e.,  What criteria would you use to assess ...? What is the most important …? What do you think about ...?)
 - Questions about methods (i.e., strengths/weaknesses, alternative approaches)
 
-Avoid yes/no questions. What/Why/How are likely to be more engaging.
+Avoid yes/no questions.
 Do not answer your own questions. As much as possible, avoid sharing your own opinions before the discussion gets rolling.  
 
-Please work with any other discussion leaders that day to create a single set of questions.
-
-Submit your initial list of questions (before combining with any other discussion leaders) to the Canvas assignment before the start of class.  
+Submit your list of questions here: https://docs.google.com/document/d/12JfJT3Hs0fcH_o4qljhEWH_HFFBOowhQXil2nRnzx0k/edit?usp=sharing   

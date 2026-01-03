@@ -8,7 +8,7 @@
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/antisocial-computing) and [Canvas](https://canvas.ucsd.edu/)   
 Classroom: Coalition 117   
-Note: this is a new building, I believe it is located here (west-northwest of Geisel), but recommend coming early! https://maps.app.goo.gl/zLcUByJiLKcrEqhZ8 
+Note: [this is a new building, I believe it is located here (west-northwest of Geisel)](https://maps.app.goo.gl/zLcUByJiLKcrEqhZ8), but recommend coming early!
 
 Class Days and Times: Monday Wednesday Friday 1PM   
 

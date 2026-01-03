@@ -24,7 +24,9 @@ Kate Klonick “The New Governors: The People, Rules, and Processes Governing Ou
 #### Monday
 Knott "Interviews in the Social Sciences" Nature Reviews Methods Primers 2022
 #### Wednesday 
+Steen "You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok" Social Media + Society 2023   
 #### Friday
+Wan "Hashtag Re-Appropriation for Audience Control on Recommendation-Driven Social Media Xiaohongshu (Rednote)" CHI 2025  
 
 ## Week 3: Surveys
 #### Monday 
@@ -39,7 +41,9 @@ Steeds "Queer Joy on Social Media: Exploring the Expression and Facilitation of 
 Price "Experimental Design" Research Methods in Psychology 2017   
 Kirk "Threats to Valid Inference Making" through "Controlling Nuisance Variables" Experimental Design: Procedures for the Behavioral Sciences 2013
 #### Wednesday 
-#### Friday
+Chuai et al. "Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?" CSCW 2024  
+#### Friday  
+
 
 ## Week 5: Audits
 #### Monday

@@ -8,6 +8,10 @@ You should not use slides. Please submit your planned questions here: https://do
 
 Create a new tab using the naming convention "Week 1 Mon - FamilyName" where you replace the number 1 with whatever week you are leading discussion in (1-10), Mon with the day of the week (Mon, Wed, or Fri), and the FamilyName with your family name. The buttons for creating a new tab can generally be found on the left on the desktop version and bottom of the mobile version of the Google Docs app. 
 
+<img width="971" height="477" alt="tab_button" src="https://github.com/user-attachments/assets/2b4a81d8-75ed-46dd-99ec-310e467783ba" />
+
+
+
 #### Leading Discussion
 
 When you are leading discussion:

@@ -26,6 +26,8 @@ Detailed [instructions for presentations here](https://kristenvaccaro.github.io/
 
 As a general rule, I do not like to "count" participation, but you should expect to speak at least once in every class. If concerns about a lack of participation emerge, we may begin counting or measuring contributions.
 
+In addition, I plan to use _cold calls_, which are random calls to students. Cold call questions are a mix of testing comprehension of the readings, as well as deeper critiques and discussion. You get 3 “passes” over the quarter where you can skip the question if you have not read the paper. If you have not read the paper in advance, you must disclose this when called on. Violations of this policy amount to an Academic Integrity violation.
+
 ## Critique 
 
 You will need to write four [critiques](https://kristenvaccaro.github.io/antisocial-computing/critiques.html) on readings over the quarter. Detailed [instructions for critiques here](https://kristenvaccaro.github.io/antisocial-computing/critiques.html).     
@@ -36,7 +38,7 @@ You will need to write four [critiques](https://kristenvaccaro.github.io/antisoc
 
 Final projects should be done as a small group (3-4)[^1].  You can choose to create a new platform/interaction, design an experience around an existing system, or conduct an analysis.  
 
-[Detailed instructions here](https://kristenvaccaro.github.io/antisocial-computing/final-project.html)
+[Detailed instructions, including for checkins prior to Week 10, are here.](https://kristenvaccaro.github.io/antisocial-computing/final-project.html)
 
 [^1]: Projects can only be done individually under extenuating circumstances; please reach out to me well in advance to discuss your situation.
 

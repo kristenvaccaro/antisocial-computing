@@ -2,6 +2,15 @@
 
 The goal of writing critiques is two-fold: you will understand the reading better and you will prepare yourself to write reviews, which is a critical skill for academics. 
 
+### Papers
+
+This year, all students will write critiques of the same papers. MS students should pick 2. PhD students should complete all 4. 
+
+Due Week 3: Li “From “Time to BeReal” to “Let Me Post My BeFake:” A Case of Operationalizing Authenticity Through Design” CSCW 2025 
+Due Week 5: Chuai et al. “Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?” CSCW 2024
+Due Week 7: Wan “Hashtag Re-Appropriation for Audience Control on Recommendation-Driven Social Media Xiaohongshu (Rednote)” CHI 2025
+Due Week 9: Xiao “Let’s Influence Algorithms Together: How Millions of Fans Build Collective Understanding of Algorithms and Organize Coordinated Algorithmic Actions” CHI 2025
+
 ### Guidelines
 
 #### Content
@@ -20,7 +29,7 @@ Often you are focused on identifying issues with the methods or analysis. When d
 
 #### Evaluating Methods
 
-Strengths and weaknesses are often largely concerned with methods decisions made by the authors. 
+Strengths and weaknesses are often largely concerned with methods decisions made by the authors (though novelty and impact are also important). 
 
 This year, you will complete a methods related reading each week. However, you may find it useful to supplement those with the following references:
 

@@ -20,7 +20,9 @@ Often you are focused on identifying issues with the methods or analysis. When d
 
 #### Evaluating Methods
 
-If you haven’t taken research methods courses in the past, I recommend the following references:
+Strengths and weaknesses are often largely concerned with methods decisions made by the authors. 
+
+This year, you will complete a methods related reading each week. However, you may find it useful to supplement those with the following references:
 
 For qualitative methods: "Qualitative Research Practice: A Guide for Social Science Students and Researchers" by Ritchie and Lewis  
 For quantitative methods: "Social Science Research: Principles, Methods, and Practices" by Bhattacherjee covers most of the material and is [available for free online](https://open.umn.edu/opentextbooks/textbooks/79)   

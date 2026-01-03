@@ -6,10 +6,10 @@ The goal of writing critiques is two-fold: you will understand the reading bette
 
 This year, all students will write critiques of the same papers. MS students should pick 2. PhD students should complete all 4. 
 
-Due Week 3: Li “From “Time to BeReal” to “Let Me Post My BeFake:” A Case of Operationalizing Authenticity Through Design” CSCW 2025 
-Due Week 5: Chuai et al. “Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?” CSCW 2024
-Due Week 7: Wan “Hashtag Re-Appropriation for Audience Control on Recommendation-Driven Social Media Xiaohongshu (Rednote)” CHI 2025
-Due Week 9: Xiao “Let’s Influence Algorithms Together: How Millions of Fans Build Collective Understanding of Algorithms and Organize Coordinated Algorithmic Actions” CHI 2025
+Due Week 3: _Li “From “Time to BeReal” to “Let Me Post My BeFake:” A Case of Operationalizing Authenticity Through Design” CSCW 2025_   
+Due Week 5: _Chuai et al. “Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?” CSCW 2024_    
+Due Week 7: _Wan “Hashtag Re-Appropriation for Audience Control on Recommendation-Driven Social Media Xiaohongshu (Rednote)” CHI 2025_   
+Due Week 9: _Xiao “Let’s Influence Algorithms Together: How Millions of Fans Build Collective Understanding of Algorithms and Organize Coordinated Algorithmic Actions” CHI 2025_   
 
 ### Guidelines
 

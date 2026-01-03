@@ -2,11 +2,11 @@
 
 The goal of writing critiques is two-fold: you will understand the reading better and you will prepare yourself to write reviews, which is a critical skill for academics. 
 
+Critiques are due at 11:59PM on Fridays of Week 3, 5, 7, 9.
+
 ### Papers
 
 All students will write critiques of the same papers.  
-MS students should pick 2. 
-PhD students should complete all 4. 
 
 Due Week 3: _Li “From “Time to BeReal” to “Let Me Post My BeFake:” A Case of Operationalizing Authenticity Through Design” CSCW 2025_   
 Due Week 5: _Chuai et al. “Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?” CSCW 2024_    

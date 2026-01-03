@@ -1,6 +1,6 @@
 # Assignments
 
-There will be five forms of assessment over the quarter: in-person discussion/participation, writing assignments, presenting & leading a discussion, a group project. All deadlines are given in PT.
+There will be five forms of assessment over the quarter: (1) active participation in in-person discussions, (2) writing critiques, (3) leading a discussion, (4) a group project, and (5) an OPTIONAL final exam. All deadlines are given in PT.
 
 <!--
 ## Writing Assignments
@@ -18,7 +18,7 @@ Sign up to lead discussion: https://docs.google.com/spreadsheets/d/1_hbBvI4BELLB
 
 ## Leading Discussion
 
-You will need to lead a discussion about a paper once during the quarter.  
+You will need to lead the discussion once during the quarter.  
 
 Detailed [instructions for leading discussion here](https://kristenvaccaro.github.io/antisocial-computing/discussions.html).  
 

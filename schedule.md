@@ -41,9 +41,9 @@ Steeds "Queer Joy on Social Media: Exploring the Expression and Facilitation of 
 Price "Experimental Design" Research Methods in Psychology 2017   
 Kirk "Threats to Valid Inference Making" through "Controlling Nuisance Variables" Experimental Design: Procedures for the Behavioral Sciences 2013
 #### Wednesday 
-Chuai et al. "Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?" CSCW 2024  
+Marwick "Media Manipulation and Disinformation Online" 2017
 #### Friday  
-
+Chuai et al. "Did the Roll-Out of Community Notes Reduce Engagement With Misinformation on X/Twitter?" CSCW 2024   
 
 ## Week 5: Audits
 #### Monday

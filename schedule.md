@@ -16,8 +16,11 @@ All readings are hosted online: https://drive.google.com/drive/folders/1RfCS9O1T
 No readings
 <!-- [Class Recording](https://ucsd.zoom.us/rec/share/dZkmkLu0RLLZkl8Z5IbW-Bp9ciBFvkN8pCWHdfWZZKVd9BWvEB-9qQ_oQCrHvjfT.IEAz9pJsZcO1X3dG)   -->
 #### Wednesday  
-Kate Klonick “The New Governors: The People, Rules, and Processes Governing Our Online Speech” Harvard Law Review 2018     
+Goldhaber "Attention Shoppers!" Wired 1997
+Simon "Designing Organizations for an Information-Rich World" **Only Pages 38-42 Required** Computers, Communications, and
+the Public Interest 1971
 #### Friday  
+Kate Klonick “The New Governors: The People, Rules, and Processes Governing Our Online Speech” Harvard Law Review 2018   
 
 ## Week 2: Interviews
 #### Monday

@@ -8,7 +8,7 @@
 
 Course materials/website: [Course Website](https://kristenvaccaro.github.io/antisocial-computing) and [Canvas](https://canvas.ucsd.edu/)   
 Classroom: Coalition 117   
-Note: this is a new building that is part of the "Ridge Walk North Living and Learning Neighborhood (RWNLLN)"   
+Note: this is a new building, I believe it is located here (west-northwest of Geisel), but recommend coming early! https://maps.app.goo.gl/zvwjknX8ycZh5nUC7 
 
 Class Days and Times: Monday Wednesday Friday 1PM   
 

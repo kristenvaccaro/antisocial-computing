@@ -58,10 +58,10 @@ By default office hours will be group-office hours, as many students will have s
 
 Percentage | Activity
 --- | ---
-25% | Active Class Participation
-25% | Critiques  
+20% | Active Class Participation
+20% | Critiques  
 20% | Lead Discussion
-30% | Final Project
+40% | Final Project
 OPTIONAL | Final Exam
 
 Readings should be completed before the start of class    

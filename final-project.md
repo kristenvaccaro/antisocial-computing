@@ -1,6 +1,10 @@
 
 # Final Projects
 
+### Week 2: Team Formation
+You need to submit the names of your team members and a broad topic area. I will respond with some papers to read. 
+
+
 ### Week 4: Proposal
 
 Your team's proposal should be 250-500 words (1 page maximum) and should be submitted by the end of Week 4 (Sun 2/5 11:59pm).

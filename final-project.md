@@ -1,7 +1,7 @@
 
 # Final Projects
 
-### Week 2: Team Formation
+### Week 2: Team + Topic
 You need to submit the names of your team members and a broad topic area. I will respond with some papers to read. 
 
 

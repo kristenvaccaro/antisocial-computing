@@ -36,7 +36,7 @@ No class (MLK Holiday)
 #### Wednesday 
 Krosnick "Question and Questionnaire Design" Handbook of Survey Research   
 #### Friday
-Steeds "Queer Joy on Social Media: Exploring the Expression and Facilitation of Queer Joy in Online Platforms" CHI 2025
+Guo "What Social Media Use Do People Regret? An Analysis of 34K Smartphone Screenshots with Multimodal LLM" CHI 2025
 
 ## Week 4: Experiments
 #### Monday

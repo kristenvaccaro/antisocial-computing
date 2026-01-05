@@ -26,7 +26,7 @@ Kate Klonick “The New Governors: The People, Rules, and Processes Governing Ou
 #### Monday
 Knott "Interviews in the Social Sciences" Nature Reviews Methods Primers 2022
 #### Wednesday  
-Haimson "The Online Authenticity Paradox: What Being “Authentic” on Social Media Means, and Barriers to Achieving It" CSCW 2021   
+Marwick "I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience" New Media & Society 2010  
 #### Friday
 Li "From "Time to BeReal” to “Let Me Post My BeFake:” A Case of Operationalizing Authenticity Through Design" CSCW 2025
 

@@ -2,7 +2,9 @@
 # Final Projects
 
 ### Week 2: Team + Topic
-You need to submit the names of your team members and a broad topic area. I will respond with some papers to read. 
+You need to submit the names of your team members and a broad topic area. On Canvas, under the "People" tab, add all of your group members to some group, and ideally change the default name (Final Project Group N). 
+
+Ensure that only one member of your team submits your broad topic area. I will respond with some papers to read. 
 
 
 ### Week 4: Proposal

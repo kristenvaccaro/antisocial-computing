@@ -17,7 +17,7 @@ Class Days and Times: Monday Wednesday Friday 1PM
 ## Instructors
 
 [Kristen Vaccaro](http://kvaccaro.com)  
-kv@ucsd.edu -- Please read the communication guidelines below before emailing!  
+Please read the communication guidelines below before emailing!  
 Office: 3226 CSE  
 Office Hours: By appointment; I will share hours for final project checkins around each milestone    
 

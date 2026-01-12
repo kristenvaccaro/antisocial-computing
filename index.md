@@ -73,7 +73,7 @@ If your absence is excused (e.g., you contract COVID and need to quarantine), pl
 
 In addition, I plan to use cold calls, which are random calls to students. Cold call questions are a mix of testing comprehension of the readings, as well as deeper critiques and discussion. You get *3 “passes”* over the quarter where you can skip the question if you have not read the paper. 
 
-If a student is absent for all three days of week 1, they will take a midterm exam on the week 1 materials on Wednesday of week 2. Their scores for active participation and (if applicable) final exam will be a MIN between the midterm and the scores they would otherwise earn. 
+If a student is absent for all three days of week 1, they will take a midterm exam on the week 1 materials on Wednesday of week 2. Their scores for active participation and (if applicable) final exam will be a MIN between the midterm and the scores they would otherwise earn.  
 
 Late Policy: You will receive *3 free late days* that can be used for writing assignments. You do not need to contact us in advance to use those late days. 
 

@@ -9,7 +9,7 @@ Ensure that only one member of your team submits your broad topic area. I will r
 
 ### Week 4: Proposal
 
-Your team's proposal should be 250-500 words (1 page maximum) and should be submitted by the end of Week 4 (Sun 2/5 11:59pm).
+Your team's proposal should be 250-500 words (1 page maximum) and should be submitted by the end of Week 4 (Sun 2/1 11:59pm).
 
 Here is a set of example proposals so you can get a sense of the variety of things folks have worked on in the past in this class! Quick shoutout: one of these proposals turned into a paper that we submitted earlier this month and two others are ongoing & likely to be submitted this spring! So if you're interested in research, these projects can be a great place to start!
 
@@ -20,7 +20,7 @@ Link to [folder with proposal examples](https://drive.google.com/drive/folders/1
 
 Please create a _brief_ project plan, which will be evaluated by both your peers and instructors for potential risks. We will provide feedback on all styles of projects (e.g., data mining, audits, etc.), but this is critically important if you will have contact with or involve any people in your project. If so, please make sure you include: 1) your sample and any inclusion/exclusion criteria, 2) how/where you plan to recruit, and 3) **every** question you plan to ask (interviews, surveys, etc.) as well as any interventions or systems you plan to ask people to use. If you will have a system, please provide mockups that are detailed enough to see what your participants will see and/or do.   
 
-Please submit on Canvas by the end of Week 6 (Sun 2/18 11:59pm). Please only have one student per group submit! 
+Please submit on Canvas by the end of Week 6 (Sun 2/15 11:59pm). Please only have one student per group submit! 
 
 <!-- Tips on making very short videos: https://vimeo.com/create/short-videos/30-second -->
 

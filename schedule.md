@@ -80,7 +80,11 @@ Matias "Going Dark: Social Factors in Collective Action Against Platform Operato
 Xiao "Let's Influence Algorithms Together: How Millions of Fans Build Collective Understanding of Algorithms and Organize Coordinated Algorithmic Actions" CHI 2025
 
 ## Week 9: Student Choice
-TBD
+#### Monday
+Baudrillard "The Precession of Simulacra" from Simulacra and Simulation 1981    
+#### Wednesday 
+Hui Xian Ng "A global comparison of social media bot and human characteristics" Nature Scientific Reports 2025    
+#### Friday
 
 ## Week 10: Project Presentations
 

@@ -81,7 +81,7 @@ Xiao "Let's Influence Algorithms Together: How Millions of Fans Build Collective
 
 ## Week 9: Student Choice
 #### Monday
-Baudrillard "The Precession of Simulacra" from Simulacra and Simulation 1981    
+Nass "Computers are social actors" (note: changed after Friday discussion)   
 #### Wednesday 
 Hui Xian Ng "A global comparison of social media bot and human characteristics" Nature Scientific Reports 2025    
 #### Friday

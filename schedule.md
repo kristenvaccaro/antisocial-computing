@@ -85,6 +85,7 @@ Nass "Computers are social actors" (note: changed after Friday discussion)
 #### Wednesday 
 Hui Xian Ng "A global comparison of social media bot and human characteristics" Nature Scientific Reports 2025    
 #### Friday
+Muldoon "Cruel companionship" New Media & Society 2025
 
 ## Week 10: Project Presentations
 

@@ -88,10 +88,16 @@ Hui Xian Ng "A global comparison of social media bot and human characteristics" 
 Muldoon "Cruel companionship" New Media & Society 2025
 
 ## Week 10: Project Presentations
-
-
-
-
+#### Monday
+Work Session!   
+#### Wednesday 
+Soham & group   
+U Lam & group   
+Frederick   
+#### Friday
+John & group   
+Charvi & group   
+Arya & group   
 
 
 
